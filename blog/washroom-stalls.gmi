@@ -1,0 +1,46 @@
+
+# Washroom Stalls in North America Suck
+
+
+Washroom stall doors are stuck in the neolithic era, here in North America. They have massive gaps on all sides, allowing anyone to look in to see you. Sometimes the gaps on the left and right side are only a centimeter wide, sometimes they're an inch (no exaggeration either, those gaps can get w i d e)! In wider stalls which are meant to be accessible, the toilet is always positioned in such a way that those outside the stall can't help but look at you while you grace the porcelain throne with your presence. If the building you're in is feeling extra sassy, they'll align the door to the bathroom with your stall door so that even those outside the bathroom can see you going to the washroom. I don't know who allowed these terrible fucking invasions of privacy and comfort, but virtually every single washroom I've ever used in Canada and the US does this shit (pun intended).
+
+Now lets turn our gaze across the Atlantic Ocean to a more cultured, refined place: Europe. Every washroom I've ever used in Germany, France and Switzerland has a stall door that at the very least has no gaps on the left and right sides and, in many cases, is also floor to ceiling. It's a wonderful experience, doing what you are there to do without constantly watching the gap to see if someone is in line of sight and covering yourself more.
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

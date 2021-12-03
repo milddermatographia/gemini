@@ -1,0 +1,54 @@
+# life
+
+
+=> /blog/still-alive.gmi November 17, 2021 I'm Still Alive!
+=> /blog/port-blocking.gmi September 6, 2021 My Student Housing is Blocking Ports
+=> /blog/alien.gmi September 1, 2021 I dream of Aliens
+=> /blog/wide-shoes-2.gmi August 17, 2021 Wide Shoes: The Resolvening
+=> /blog/tfa-2.gmi August 15, 2021 Two-Factor Authentication and Digital Hygiene
+=> /blog/wide-shoes.gmi July 30, 2021 Wide Shoes
+=> /blog/music-listening-to-2.gmi July 26, 2021 Music I'm Listening To 2
+=> /blog/military-kid.gmi July 16, 2021 Fallout of Being a Military Brat
+=> /blog/mantario.gmi June 22, 2021 The Mantario Trail
+=> /blog/canada-engineering-wasteland.gmi April 16, 2021 The Great Canadian (Mechanical) Engineering Wasteland
+=> /blog/video-games.gmi April 11, 2021 Horsemen of the Modern Apocalypse
+=> /blog/music-listening-to.gmi March 20, 2021 Music I'm Listening To
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

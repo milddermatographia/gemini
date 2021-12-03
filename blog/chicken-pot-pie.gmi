@@ -1,0 +1,66 @@
+
+# Chicken Pot Pie
+
+
+Like a thing having a gradual and cumulative effect, it was insidious. Harmless at first, then snowballing with ever greater intertia. No one could have imagined the world would end this way. And yet.
+
+It began harmlessly enough. A post appeared on Readit with a link to an ad from Utube. It was 10 minutes, unskipeable, and of a man eating a Chicken Pot Pie. No dialogue, no branding, no effects. Just the rythmic clinking of metal on ceramic and jaws bunching, punctuated by the ocassional swallow. The response was mild entertainment, technique criticism and, of course, unrelated anti-semitic slurs.
+
+Only a few days later, another post was created. The response was an order of magnitude larger. Not only had the Chicken Pot Pie been replaced with one of clearly distinguishable crust texture and content homogeneity, but the ad was spreading. What was previously experienced by a few unfortunate Utubers was now a site-wide phenomenon. It was predicted that over a tenth of all ads now shown on Utube were the Chicken Pot Pie. Some blamed ethnic minority. A persistent few continued their tirade of anti-semitic comments. Some internet sleuths began looking into the identity of the man in the ad, looking for local news, perhaps an obscure blog. Nothing.
+
+Weeks passed with no luck. More and more ads were replaced with the Chicken Pot Pie until virtually every ad was of that plain, plain man and his Chicken Pot Pie. Sometimes the man's shirt changed colors. Other times he used a fork instead of a spoon. But throughout it all, the rythmic chewing and clinking was a brief respite for some from the horrors of the internet, and it's ultimate manifestation for others. The ads were unskippeable, a 10 minute auditory assault of mastication and saliva. Utube publically anounced that the publisher of the ad, CPP, was the highest bidder, and as such was given the ad time.
+
+The internet was aflame. Readit, Utube, Momentgranpa, Fallover. The discussion poignant, visceral, panicked. Trolls posted the ad as actual content, further drowning out all other conversation. In the few places respite were found, the discussion was firmly entrapped on the Chicken Pot Pie. Who was the man? What did he want? Was this a sign? Are the end-times upon us? There were fights, skirmishes, between the newfound church of CPP and the less rational citizens. Utube held firm, stipulating that CPP was still the highest bidder, and thus their ads would continue to air.
+
+After a few days of speculation, unease, and minor violence, an anouncement was made. The man had been found. He appeared on Olive Joe that evening. Joe tried to ask him questions. Why? The man continued to eat the Chicken Pot Pie he had brought onto the set. At one point he lowered his spoon, the murmer of the crowd fading as they held their breath. He then picked up another spoonful and brought it noisily into his mouth. The crowd was hysterical, shouting over each other. Telling him to stop. To explain. To leave them in peace. After a time, the man finished his Pie, rose, and, without a word, departed. The Pieans took this as a divine sign. Government buildings were raided, buildings set aflame, people sacrificed in giant vats of Chicken Pot Pie mix. Police and Military stepped in alongside civilian militias to curb the violence. As for the man, he disappeared. Those who witnessed his departure claim he vanished into thin air. He was untraceable. Utube retracted their previous statement and vowed to ban the Chicken Pot Pie ads. For a time, there were no more ads, no more noise, no more Chicken Pot Pie. There was peace.
+
+The Super Bowl arrived, and the panic resumed. Each ad was identical, a plain man sitting, eating a Chicken Pot Pie. The support lines for internet providers and broadcasters alike were inundated. People screamed, pleaded, begged. Some took to the streets, destroying cable boxes, bringing down electric wires. Anything to stop that dreadful sound. Finally, the plug was pulled and all ads cancelled. The world still sat still, waiting. Their efforts had failed before, and like a thing that rises from the ashes, they were waiting for that dread plain man to rise from the ashes.
+
+The half-time show. A full orchestra sat adjacent centerfield, waiting. The Weekdy walked out onto the field, to no applause. The crowd, the world, was waiting, breath held, chests aching. He tapped the mic. Nothing. Suddenly, the massive televisions suspended above centerfield blared to life. A smear of color, a sudden shock to the senses, then that sound. That sound. It was the man, projected across every television, every screen, rythmically stabbing his fork deep into that thick crust, pulling forth unholy spoils. He raised the apparatus to his lips, drew them apart, brought the utensil past the barrier, and closed his lips with a splurt. The world froze, eyes wide, heartbeats thumping, breath caught. The man withdrew the fork, chewed thoughtfully for a long while, then smacked his lips.
+
+Pandemonium.
+
+Parents and children screamed at their televisions, throwing laptops and furniture and each-other at the screens in an effort to stop the insufferable assault. Citizens poured into the streets, destroying cars, smashing windows, turning on each other in a frenzy to reduce the world which could enable such suffering into dust. The military, who had been observing with rapt attention, scrambled into motion, mobilizing as best they could in an effort to restore some semblance of order. In a dark room, two officers placed keys in keyholes and turned to each other. A solitary, singular, only-one tear ran down both their faces. They nodded and turned the keys.
+
+The man sat on a hill, reclined in a lawn chair. Far down below in the city, he could see smoke billowing. The military's efforts at establishing order had been unsuccesfull. Society had become a beast, enraged and blind, lashing out at anyone and anything. A glint in the sky caught his eye, and he traced it's path through the air, until... Light, blinding, expanding outwards from the remains of the city's core. The trees below bent, then snapped, the shockwave riding ever outwards, a massive inferno not far behind. He could no longer see, irises seared out. Yet he felt no pain. No, the Chicken Pot Pie was in his hands, warm and soothing. He smiled as that violent wall of force and heat rose to meet him.
+
+"It's a good day to Pie hard".
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

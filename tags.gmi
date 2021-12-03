@@ -1,0 +1,50 @@
+# Tags
+
+
+=> / February 13, 2021 academia
+=> / June 29, 2021 society
+=> / August 8, 2021 rant
+=> / September 1, 2021 software
+=> / September 26, 2021 worldbuilding
+=> / November 17, 2021 life
+=> / November 17, 2021 misc
+=> / November 21, 2021 living
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

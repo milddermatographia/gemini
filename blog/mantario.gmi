@@ -1,0 +1,72 @@
+
+# The Mantario Trail
+
+
+I backpacked the Mantario Trail this past weekend with my sisters. For those who aren't familiar, it's a 66km trail traversing the Canadian Shield, majoritarily in Manitoba, but dipping into Ontario slightly (thus the name). It was definitely a fun experience, and also a learning one.
+
+## How Many Days?
+
+We did the trail in two 33km days and it was death. By the end, our feet were pulsing with every step and our legs would cramp up if we stopped moving. We didn't so much concentrate on our surroundings as we did keeping a constant pace. We're not super experienced backpackers; we hiked from the south trail-head to Caribou Lake twice beforehand as practice, but that's about it. We saw people running the length of the trail in a single day, so perhaps with more kilometers under our belts, doing it in 2 days is more reasonable. That said, most people online recommend doing it in 3 or more days and I definitely see where they're coming from now.
+
+## South to North or North to South?
+
+Most people recommend hiking Mantario Trail south to north and I agree; the south section of the trail is more strenous than the north, with lots of ups and downs and walking on the shield for hours at a time. The northmost 5km is a pleasant stroll through a forest, with a nice soft dirt path to follow and very little change in elevation. The southmost 5km, on the other hand, has some of the steepest and longest climbs and descents, and leaves you incredibly exposed to baking hot summer temperatures while stomping over hard rock.
+
+That said, while going south to north will get you through the hardest sections on fresh legs and the easiest section on your last legs, the middle doesn't slack either; it's really only the last 5km that are easy. Every km between 1 and 61 will still be full of boulder climbing and boggy marshes.
+
+## Mosquitoes and Ticks and Flies, oh my!
+
+Canada would be a pretty okay country, if not for the insects. We were absolutely eaten alive by mosquitoes throughout the trip and, if not for wearing pants instead of shorts, I would have ended up with a dozen tick bites instead of 2. Make sure to check all your gear for ticks when you get home. I found a tick crawling up my leg the next day, I assume from the yoga mat I was sitting on, which we had used as a sleeping mat while hiking.
+
+## Change your Socks if They're Wet
+
+Mantario has some boggy sections which are hard to traverse without getting your shoes getting a little damp. None of us had water-resistant hikers, so any tumble soaked our shoes a bit. By late afternoon the second day, we peeled our damp socks off and realized our skin was pruning and starting to split (possibly the very first steps of Trench Foot?). I'm glad we caught it when we did and changed our socks.
+
+## Highlights
+
+I figured I'd compile some shinanigans/highlights from our adventures for posterity. I've forgotten a lot of them already, so I'll update this list as they come back to me.
+
+- One sister tripped over a root, summersaulted forward, and got stuck upside down with her pack weight over her head.
+- Same sister slipped off a log and her foot went into knee deep mud. When she pulled it free, her shoe was missing. Cue a couple minutes of digging through the mud for it while being eaten alive by mosquitoes.
+- One of the shoulder tensioners on our backpacks snapped off (the strap ripped away from the body of the bag); we managed to pass the strap through one of the loops of the floating lid. The tension was somehow almost perfect, so we left it that way for the rest of the trip.
+- We found a snake stalking a moth; it would slither forward a bit, pause, then slither again, until it was within striking distance. Funnily enough, snakes swish their tail while stalking, kind of like a cat.
+- We saw a helicopter across one of the lakes we were refilling water at. It was using a winch to lower a stretcher; maybe SARTECs?
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

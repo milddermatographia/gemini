@@ -1,0 +1,51 @@
+# rant
+
+
+=> /blog/washroom-stalls.gmi August 8, 2021 Washroom Stalls in North America Suck
+=> /blog/wide-shoes.gmi July 30, 2021 Wide Shoes
+=> /blog/escalators.gmi July 26, 2021 Escalators
+=> /blog/ddg-google.gmi July 4, 2021 Duck Duck Go > Google
+=> /blog/pet-abuse.gmi June 27, 2021 Don't Abuse your Pets
+=> /blog/onenote.gmi May 1, 2021 Modern OneNote is Designed to Lock You In
+=> /blog/canada-engineering-wasteland.gmi April 16, 2021 The Great Canadian (Mechanical) Engineering Wasteland
+=> /blog/scholarships.gmi February 13, 2021 Scholarships
+=> /blog/two-factor-authentication.gmi February 7, 2021 Two-Factor Authentication
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

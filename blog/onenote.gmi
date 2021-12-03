@@ -1,0 +1,52 @@
+
+# Modern OneNote is Designed to Lock You In
+
+
+Having finished my degree, I figured I'd export my course notes from OneNote to PDFs, since it's a more agnostic format. That, and OneNote documents are just web links, so they can't really be saved somewhere else. Unsurprisingly, exporting them was not as simple as hitting the hamburger menu and printing the notebook. Nope.
+
+I first tried opening a notebook and printed it to a PDF directly, like I used to be able to do with OneNote 2016. Upon inspecting the PDF, I realized that all the images, either inserted via screenshot or as slideshow slides, were empty with a little red "x" in the middle. My understanding is that, when I open a page that hasn't been opened locally yet, it actually downloads the content from what I'm assuming is OneDrive/Microsoft's backend; if I don't open the page, the content doesn't download, and so the PDF has blank spaces. Okay, kind of annoying, but workable. All I need to do is open the first page, wait for it to sync, then move on to the next one, and the next, until I've gone through the whole notebook. This was not very efficient for the first notebook I tried it on, since my section with course notes had about 20 pages by itself. Then there were the dozen or so exercise pages, then the summary pages, then the exam pages... imagine repeating that for about 20 notebooks.
+
+I opened each page in the notebook, let it sync, then printed to a PDF again and... nope, still blank images and red "x"s. This time, though, the first couple images of every page had rendered properly, but the rest hadn't. Weird. I went back to the first page of the notebook, scrolled down, and the images that were not initially on-screen hadn't rendered yet! I don't think OneNote downloads the full content of a page when opened, it only downloads as far as you scroll. So instead of opening each page and waiting for it to "sync", I have to open each page and scroll down, bit by bit, to let each image render. So multiply my 20-odd notebooks by the 100-ish pages per notebook. Half those pages contain inserted slideshows with dozens, if not upwards of 100, slides. There's nothing I can think of to make this less tedious; if I don't scroll down, bit by bit, only parts of the page will render, and the PDF will be incomplete.
+
+It's insane that Microsoft decided to kill OneNote 2016, which stored notebooks locally and could export whole notebooks with ease, and replace it with the dysfunctional garbage which is OneNote. Well, it's not insane, it makes a lot of sense. My guess is they don't want their clients ending their Office subscriptions, so they make exporting data away from their platform as tedious as possible to dissuade you. Well, it only half worked for me; I'm leaving OneNote/OneDrive and I'm not going to bother exporting my notes. I don't care enough to waste a week mindlessly scrolling.
+
+2021-08-19: If you go to OneNote's settings, there is an option to Sync down all files and images, which would have solved my problem. Woopsie.
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

@@ -1,0 +1,50 @@
+
+# Bears! An Incomplete Mini D&D Adventure
+
+
+I wrote a mini adventure while in Waterton Lakes National Park for the long car ride home. I don't think I'll have time to fully flesh out the areas, build maps, etc., but I figure'd I'd put it up in case someone wants something to build off of. I can send the LaTeX source if anyone is interested `milddermatographia@gmail.com` in editing it. The template came from here [1].
+
+=> /pdf/Bears%21.pdf   Bears! (1.6MB)
+
+
+
+References:
+=> https://github.com/rpgtex/DND-5e-LaTeX-Template  [1] here
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

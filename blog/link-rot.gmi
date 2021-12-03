@@ -1,0 +1,71 @@
+
+# Link Rot
+
+
+Have you ever opened an old bookmark only to find it doesn't exist? Or read an article and tried to follow a link, only to get a 404 error? You've encountered link rot, the phenomenon where an older link is no longer valid; that web-page has effectively disappeared.
+
+It's an unfortunate side-effect of how the internet functions. If someone restructures their website, an article which was previously at`domain.com/article`might now be at`domain.com/articles/article` If a website shuts down, links to any of their content also die.
+
+Do websites have an obligation to archive their content or keep it up forever? I'm really not sure, I'd imagine it depends on the context. I could see scientific journals having more reason to keep their links alive than a personal blogger. Not all content is meant to be canonical or immortal, so I suppose context matters.
+
+Regardless of whether it's the responsibility of website owners to maintain their links and content or not, I think users can take measures to ensure that they have access to content they consider valuable content down the road. Web pages can be downloaded in HTML or PDF form. They can be uploaded to the Internet Archive (make sure to support them if you use the platform!). You can make your own internet archive with programs such as Archivebox! For me, a simple Git repo with a bunch of Ctrl+S-ed web-pages does the trick for now.
+
+## Fuck Medium
+
+Slight tangent; when I downloaded full webpages (html file with all other assets such as images in another folder) from Medium, subsequently trying to open the html file in a browser throws a 404. Well, not right away. It will open the article, then switch to a 404. So it seems like it should open, but they've done something to make the process more difficult. The only solution I've gotten to partially work is to remove all the javascript files found in the main html file. So:
+
+```
+<!doctype html><html lang="en"><rest-of-the-actual-content-here>
+<script src="https://cdn-client.medium.com/lite/static/js/instrumentation.8ebc52ed.chunk.js"></script>
+<script src="https://cdn-client.medium.com/lite/static/js/reporting.de94a6c0.chunk.js"></script>
+etc. etc.
+<script src="https://cdn-client.medium.com/lite/static/js/Post.703d4897.chunk.js"></script><script>window.main();</script></body></html>
+```
+
+Becomes:
+
+```
+<!doctype html><html lang="en"><rest-of-the-actual-content-here>
+</body></html>
+```
+
+The downside to this approach is that images don't display, despite being downloaded locally. I'm not a front end person so I'm sure I messed something up, but it's irritating it doesn't "just work" like every other web-page I've archived.
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

@@ -1,0 +1,48 @@
+# society
+
+
+=> /blog/empathy.gmi June 29, 2021 Empathy
+=> /blog/pet-abuse.gmi June 27, 2021 Don't Abuse your Pets
+=> /blog/bechdel.gmi June 27, 2021 The Reverse Bechdel Test
+=> /blog/canada-engineering-wasteland.gmi April 16, 2021 The Great Canadian (Mechanical) Engineering Wasteland
+=> /blog/prisoner-dilemma.gmi March 9, 2021 The Prisoner's Dilemma for Politicians and Journalists
+=> /blog/animal-ownership.gmi February 27, 2021 Should I get a Pet?
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

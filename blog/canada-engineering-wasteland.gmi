@@ -1,0 +1,161 @@
+
+# The Great Canadian (Mechanical) Engineering Wasteland
+
+
+I finished my Mechanical Engineering and Computer Science program in 2020 and, while waiting for my Masters degree to begin in September, have been on the hunt for internships. What I have observed is disheartening; the quick TL;DR is that Canada has no companies which actually do (mechanical) engineering work.
+
+Obviously a smidge hyperbolic, but looking through jobs in LinkedIn and Indeed is a depressing affair indeed (pun intended). Let's compare some raw numbers.
+
+---
+
+## Number of Jobs: Canada vs X
+
+I used LinkedIn's job search feature to find the numbers below. If I use the keywords "mechanical engineering" and filter for internships, here are the number of results per region:
+
+- United States: 2210
+- San Francisco Bay Area: 134
+- Boston: 54
+- Seattle: 32
+- Texas: 152
+- Canada: 59
+
+Canada, a country with a population of about 40 million, can barely offer more jobs than a city with a population of 4 million and is handily beat by another city of 4 million. We're absolutely destroyed by an area with a population of 8 million, and, in a perhaps more fair comparison, also butchered by a state with a population of 30 million. If we normalize, here are how many mechanical engineering internships there are per million people:
+
+- United States: 6.7
+- San Francisco Bay Area: 16.75
+- Boston: 13.5
+- Seattle: 8
+- Texas: 5
+- Canada: 1.5
+
+The density of mechanical engineering internships in Canada is frightfully low. I fully expected the number to be lower than the tech hubs in the States, but Canada has 4 times less internships per million people than the United States as a whole! This phenomenon isn't isolated to internships; a quick comparison of all mechanical engineering jobs across a few countries:
+
+- United States: 12 591
+- United Kingdom: 5 636
+- Canada: 984
+- Australia: 343
+- Germany: 887
+- France: 839
+- Portugal: 223
+
+Not looking good already, let's scale these per million citizens:
+
+- United States: 42
+- United Kingdom: 82
+- Canada: 26
+- Australia: 13.7
+- Germany: 11
+- France: 12.5
+- Portugal: 22
+
+Canada can't hold a candle to the US or the UK; I feel sorry for any mechanical engineers trying to find a job in Australia. Before Canada goes patting itself on the back for beating out Germany, France and Portugal (all three quasi-randomly selected), don't forget that English isn't their primary languages, and most of the listings in LinkedIn are in English, so these results are only those that bothered to use an English job-listing website. I also checked Indeed, which gave comparable numbers for Canada, the US, the UK, Australia, and Fance (couldn't find Indeed for Germany, didn't bother for Portugal), so I think my numbers are fairly representative of reality. Unfortunately, the crumminess of this situation extends beyond raw listing quantities.
+
+---
+
+## How Many Jobs are Actually Mechanical Engineering Internships?
+
+Okay, so Canada has half the mechanical engineering jobs as the US does per million, a third what the UK does, and who knows relative to non-english countries. At least the jobs are good, right?
+
+Absolutely not.
+
+I went through the first page of mechanical engineering internships in Canada on LinkedIn (23 out of 59), and found that (subjectively) about 56% of them actually require any kind of mechanical engineering education to perform, or contribute to a student's engineering toolbox. I don't think LinkedIn's algorithm messed up too much when showing these results either; only two didn't seem to have mechanical as a keyword at all. With these excluded, there are still only 62% of listings which actually require mechanical engineering experience or knowledge.
+
+I then repeated this procedure with the first page of mechanical engineering internships in the US (also 23 jobs). I was expecting to find some garbage as well, but nope, literally every single job I found could justify asking for a mechanical engineering student for the position. It seems Canada has a unique problem of everyone slapping a mechanical engineering label on their job listings, while not actually needing it.
+
+---
+
+## Best of the Bullshit
+
+While jobs in the US market sounded exciting and relevant, with exotic words such as "CAD", "design", "engineering" and "mechanical", Canadian jobs opted for crushing depression with the likes of "customer service", "opportunity", "gain exposure", "local customers", and "achieve annual goals". There were some truly delicious job descriptions which stood out. For example, a job with Esco Group titled "Engineering Internship" with the following responsibilities:
+
+
+>- Intellectually curious with a continuous improvement mindset. - Self-motivated and open to new challenges. - Skilled at thinking critically, sustainably and globally. - Passionate about STEM careers and education. - Seeking ways to positively contribute to workplace inclusion and belonging. - Team player, ready to work with diverse communities worldwide. - Committed to delivering exceptional customer service. - Excited to work for a global organization in an industry that is evolving and growing.
+
+What does any of that have to do with engineering? I haven't the faintest idea; I didn't realize that being passionate about STEM or being committed to delivering exceptional customer service were traits possessed uniquely by engineering students. Within the same job listing, there's this gem:
+
+> This opportunity is ideal for an aspiring Engineers heading into their final year of college and who want to accelerate their path to professional work experience.
+
+I clearly messed up when my final internships was working on the control system for an aircraft. I guess I should have been excited to work for a global organization in an industry that is evolving and growing. Modelling the system dynamics was obviously a waste of time when I could have been seeking ways to positively contribute to workplace inclusion and belonging. Then there's the core competencies of this same job:
+
+>-
+
+I shit you not, it's actually blank in the job posting. When the (same) job listing says:
+
+> We take pride in providing a quality workplace and promoting equal opportunities for all.
+
+I think they misunderstood; the point is to not discriminate against anyone, not to make it so every job can be done by every person regardless of their profession or credentials.
+
+Enough bashing Escon, I'm sure another company of the 44% would like their chance. For example, the "Summer Intern - Production Assembler" with Eaton, which has
+
+>pursuit of a Mechanical or Electrical Engineering degree
+
+as a preferred qualification, but the following responsibilities:
+
+>- Perform electrical assembly tasks in various work cells. - Perform material handling duties, such as counting and picking components and staging completed assemblies, as needed. - Perform other related duties as assigned in the warehouse. - Perform all job functions with adherence to Eaton’s Philosophy and Values as well as safety and environmental standards.
+
+Again, how does any of this require a mechanical (or electrical) engineering degree? As it turns out, none of it, since the basic qualifications are just to be enrolled in any college or university program.
+
+A short and sweet one from Providence Healthcare:
+
+> Must have a relative working at St. Michael’s Hospital.
+
+Excuse me, but what the actual fuck kind of qualification is that?
+
+Looking for a job is slighthly disheartening when almost half the job listings have some kind of garbage like this. I wish Canada's situation were more like the States, where I can read each and every job description and be at the very least satisfied, and more often than not get excited about the work. Instead, I expect garbage and mostly get garbage, with an occasional technically-engineering-but-stilly-boring job popping up. It's no wonder universities and the news have complained about a brain drain from Canada in the past; there's nothing here for us.
+
+---
+
+## Complaining
+
+Why are there no interesting jobs in Canada? Why do so many jobs which are clearly not engineering asking for engineers or engineering students to perform them?
+
+I haven't the faintest idea. All I know is that it leaves a very bad impression of the Canadian market. It feels like no-one is doing any work, let alone interesting work. There's precisely one robotics company (go Clearpath!). Canadian automobile companies died decades ago, minus some obscure stuff like Felino; heck the only reason they're still made here is to take advantage of tax reductions with the states. Shopify seems to be the only successful software company to come from the 21st century. It's disheartening.
+
+I look at the States and see infinite potential. Robots, automation, artifical intelligence, cars, drones, implants, prosthesis, etc. They make things. They break them. If it weren't for the amount of batshit insanity in that country, I'd hop over in a second (and even with all the shinanigans, I still would if offered a job, albeit with a second look at bankrupcy and crime statistics). I look at Canada and I see half-dead companies trudging in circles, eyes glazed and lips smacking soundlessly. Maybe I'm just looking for the raw sex appeal of fast and sleek companies, of startups and unicorns. Maybe I've deluded myself into thinking that the image american companies portray is anything but an illusion and, underneath it all, they're the same garbage we seem to have here.
+
+Anyways, this is how I spent my afternoon instead of looking for jobs.
+
+---
+
+## Future Work
+
+My method for analyzing the mechanical engineering job market is clearly far form scientific and rife with personal bias. If I can remember, I'd love to follow this up with a more proper analysis. Maybe I'll scrape LinkedIn's job postings, then create word clouds to find trends in Canadian job postings vs US ones.
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

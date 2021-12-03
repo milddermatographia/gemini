@@ -1,0 +1,90 @@
+
+# Fallout of Being a Military Brat
+
+
+My father is in the military. A few months ago, my siblings and I were musing about the impact moving around has had on us. He overheard and seemed kind of hurt, but also like he was trying to convincd himself that the military lifestyle hadn't overly negatively impacted us, that there were lots of upsides. I don't think anyone really had the heart to give him an honest answer, so since I'm up stupid early and have nothing better to do, I'll do it now. It'll be -ish at the speed of thought, so I apologize in advance for the lack of coherence.
+
+## Deployments
+
+The only fight I ever got into was back in grade 7. My friend's brother was deployed in whatever conflict was ongoing in the middle east, and he was telling me about the vehicles they use to get around, with these slopped undercarriages to deflect damage from an IED. I was arguing that a large enough explosion would still take it out. He said it wouldn't. I said it would. Eventually, he escalated the whole thing.
+
+In hindsight, I was too young/blind/insensitive to realize that him clinging on to the supposed invulnerability of his brother's vehicle was likely a coping mechanism, because having a loved one deployed somewhere else is fucking terrifying.
+
+My father was deployed when ISIS was popping up back in the 2010s, when I was in high-school. He was there for 9 (6?) months, and I would constantly get these day-mares, imagining someone coming to the door and telling us he was killed. Remembrance day had never really impacted me before, but that year, I had to leave the gymnasium so I could go outside and cry. I had the same nightmares during university, years after his deployment, except they'd come to my lecture to pull me outside instead of coming to our house.
+
+I was an instructor in a summer camp during university. We had a special week where we had a bunch of Syrian refugees. We always went to the pool on the last day of camp and while there, I was reminded of when my father said that ISIS could have been neatly handled if they had just been earlier to act and, seeing all those little kids kind of broke me. I'm sure that their quality of life will be better here, but I can't imagine being torn away from their homes and families and shoved into a foreign land because we fucked up. I shouldn't feel accountable, but I do.
+
+I sometimes felt angry. The most pure, concentrated hatred imaginable for the despicable fucks who decided to join a terrorism cell. I know that one man's terrorist is another's freedom fighter, that west doesn't equal right, etc., but I've never truly wanted to murder someone until my father deployed. And I hate feeling that way.
+
+I cried three times while writing this section down, and dozens and dozens more times during and after he deployed. It's been at least 6 years since this all happened, but the feelings of guilt and anger and terror pop back up every once and a while.
+
+Something worth keeping in mind is that he wasn't deployed as infantry or armoured, he was at a stupidly safe distance and arguably never in harms way. I can only imagine how my friend must have felt.
+
+## Moving Around
+
+I've moved eight times as a result of my father being in the military. The longest we spent in any city at a time was three years. While it could be said that moving around gives children new experiences and makes them more open to being mobile, I think the behavioral effect is infinitely worse.
+
+I think it helps first to understand the social life cycle of a military child (however self-evident it might be). You start at a new school. You meet some new people. Maybe you jell immediately, maybe you spend half the year eating by yourself. Hopefully, eventually (and in my case, although not always for my siblings), you start getting along with a group of other kids. You start to hang out after class, share your past-times. You stay over for supper. You watch movies. You play outside. When you're in your teens, you start opening up emotionally, sharing your life experiences, learning theirs. You become connected. Then you leave. It hurts. It really, really hurts. You spend weeks crying yourself to sleep. You could stay in touch, and maybe you do the first time or two. Eventually, though, it almost feels like a really drawn out revolving door, where you get close to people, only to lose them, again and again. What can you do about it?
+
+Stop getting close. Stop making intimate friends. Keep everyone at arms length. Envy people in their friend circle, but never join them. Sure, hang out at school, go to parties, but never spend time with them one-one-one. Never take the time to become anything more than superficially familiar with them, and them with you. That way, when you inevitably move, it doesn't hurt as much.
+
+The number of friends I've made each time I move has consistenly gone down. In university, I think I made two friends. People I actually spent time with one on one outside of class and parties. People I opened up to. One of them was really shitty and it ended up rightfully falling apart. The other moved across the continent after university. The terrible thing is, pretty much everyone I met in university was wonderful. They were hilarious, genuinely nice, open, accepting, humble people with whom I shared a lot of perspectives and hobbies. And I relegated them to an acquaintance-esque status anyways.
+
+I never kept in touch with people from previous places I've lived. I feel guilty for it, because I got along so well with so many people, and I can only imagine how hurt they must feel for me to disappear and never reach out to them again. There's such a feeling of futility when trying to maintain contact with someone you'll likely never see again. It's also almost like I have some kind of bizarre object permanence issue with people, where if I don't see them in a while, they stop existing. The only person I stay in touch with is that last friend from university.
+
+I have one friend. I'm not anti-social. I'm not bad at socializing. I have lots of people I used to get along with, back when I lived in the same city/province as them. Heck, I'm sure some of them considered me their friend. But I could never give them that status back, because doing so would require effort and committement, which would inevitably end up going down the drain when I move again.
+
+It seems as though I've traded quality for quantity. I've probably had more "friends" than most people have, as a result of moving (can't really beat 5 or 6 schools worth of friend circles in terms of raw numbers). But losing them over and over again, you lose depth. They become another tick on the wall.
+
+It's an interesting paradox of sorts, feeling lonely and isolated, yet refusing to open up to more people. I know that the blame is pretty squarely on me for not putting in the effort to get to know people one-on-one. I think the reason that I'm so against it or scared of it is because it takes so much energy, and I've done it so many times before. I really do envy people who have a friend circle their whole life. You've done all the heavy lifting by the time you might be aware of how much effort it takes.
+
+On a less traumatic note, I don't feel anything towards my extended family (Uncles and Aunts, cousins, Grandparents). They're people I see maybe once every couple years for a week and that's it.
+
+## The Good
+
+There is a very thin silver lining to being a military child.
+
+All the feelings associated with my father deploying have convinced me that a war or armed conflict just isn't worth it unless your life is directly at risk. It's perhaps narcissistic, but I never want to see us in another country ever again. It's not worth it. It traumatizes those that go, it hurts their families, and it'll invevitably produce the next generation of resentful locals who will devote their life to killing the foreigners who had the gall to come into their country and kill their loved ones.
+
+Moving around has made me comfortable going to new places.
+
+That said, the good is absolutely overwhelmed by the bad. If I could go back and time, I would tell my father to find another career. Sorry dad.
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

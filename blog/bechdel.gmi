@@ -1,0 +1,121 @@
+
+# The Reverse Bechdel Test
+
+
+The Bechdel test [1] is a measure of the representation of women in fiction. The criteria for passing the test are:
+
+1. The fiction (movie, book, etc.) must have two women in it
+2. who talk to each other
+3. about something other than a man.
+4. (optionally) both of them are named
+
+A simple test which a surprising number of movies [2] fail [3]. I see the Bechdel test as a primitive method of determining how male-centric a given book or movie is; if something fails the test, it's likely because the cast is mainly male, and women are either under-represented, or exist solely to support the male casting.
+
+The Reverse Bechdel Test is the polar opposite; it determines whether men are under-represented. You may be wondering; if 50% of movies fail to pass a super basic test for female representation, what form of media could possibly have the opposite problem?
+
+Illustration.
+
+I don't have an Instagram account, but my sister does. She's getting into digital art, namely portraits (illustrations of people), and follows quite a few artists. She's shown me some of their work, and it's impressive. Lots of variation in art style, great attention to detail; these people really are hard-working/talented. There is, however, a trend: they all illustrate almost exclusively women.
+
+Lets take a peek at her favorite arts. First, samdoesarts [4]:
+
+=> /img/bechdel-samdoesart.png   samdoesart, all illustrations of women
+
+I scrolled down as far as I could before Instagram tried to get me to log in, and every piece of art is a (incredibly well illustrated) woman. Next up, peijinsart [5]:
+
+=> /img/bechdel-peijinsart.png   peijinsart, all illustrations of women
+
+Once more, I scrolled as far as I could and all the illustrations were of women. One last try. derekdomnicdsouza [6]:
+
+=> /img/bechdel-derekdomnicdsouza.png   derekdomnicdsouza
+
+Ooh, some variation; we have a car pic, a landscape pic, aaaand more women. Credit where credit is due, I scrolled down and actually found a couple illustrations of men, but they were definitely still a minority. I visited the last couple artists she liked; djamilaknopf [7] and sunfwer [8]. Almost exclusively women once again.
+
+Alright, maybe this phenomenon is Instagram-exclusive. I have a Reddit account and subscribe to a few subreddits in the /r/imaginary circle, so lets check em out. First off is /r/imaginarycharacters. Sort by top of all time and counted the number of pictures which contained exclusively women vs anything else in the top 60 posts. I found 37 with exclusively women and 26 with a combination of men and women, or just men. Of the 37 illustrations of women, I'd say that about 10 were pretty explicitely designed to be sexy; I have absolutely nothing against this, except that precisely 0 men were dressed sexy! Nexy up is /r/dnd. A lot of the subreddit is comics and fancy dice, but scrolling through the top posts of the month, I found that about 20 out of the 30 character posts I saw were of women. Again, there were scantily dressed women but no scantily dressed men.
+
+Not all subreddits show this phenomenon; /r/imaginarysliceoflife is pretty gender-balanced until you get down to 7k upvotes; at this point, there was a 2:1 ratio of single-or-just-women art to literally-everything-else.
+
+## Caveat Lector
+
+Obviously there's some huge shortcomings to my method; it's all anecdata. I used Instagram through the lense of a teenage woman, and Reddit. On the former, there's the whole unrealistic-beauty-standards thing for teenage women; on the latter, a shit-ton of horny teenage/young adult men. My results also aren't homogenous; tattoosofinsta [9], is almost exclusively women, but /r/tattoos [10] is balanced.
+
+Maybe I need to try Artstation, or Deviantart, or Tumblr, or just other artists on Instagram to get a more representative view.
+
+## Why?
+
+### Women Should by Seen and Not Heard
+
+My cynical take on this possibly-not-even-a-phenomenon is the age-old attitude towards women that treats them like eye-candy. That women should look good, but heaven forbid they try to have a personality or impact in the world. It would certainly explain the over-representation of women as portrayed in art, but under-representation in movies and novels as important characters.
+
+
+### Extant Sexism
+
+This ties in directly the to the previous theory. The last century has brought a flurry of gender equalizations to western society, from women working during the world wars to addressing the wage gap. While progress has definitely been made on many of the most visible discrepancies, gender inequality is clearly not a solved problem. In acting [11], academia [12], the military [13], and beyond, differential gender-based treatement is abound. It would make unfortunate sense that, considering mens historic domination in art [14], the field has yet to achieve a balance of both artists and subjects.
+
+### Sex Sells and "Male Nature"
+
+Artists need to make a living. Therefore, they need to sell their art. If we're following the whole supply-and-demand shtick, the observed phenomenon implies that people want more illustrations of women than men, and more sexual illustrations at that (at least for the former). What does that tell us about western society?
+
+I understand how anyone attracted to women would prefer illustrations of women over men, but this only accounts for 50% of the population. What about the other 50-ish (neglecting people who are asexual)? Straight women? Gay men? Everyone non-binary who is attracted to men? I asked my sister, she's straight, but virtually all the artists she follows illustrate almost exclusively women.
+
+So does this imply that straight men, gay women, and non-binary people who are attracted to men are the primary buyers of protrait art? If so, it reinforces the idea that men (which represent the largest slice of the pie) are visual creatures and women are not, which I don't even want to try digging into.
+
+## Ideas?
+
+I have no clue. Everything I've written is anecdata. I haven't read any papers, any significant sources. It's all second-hand opinion-pieces. I don't even know if the phenomenon I'm claiming to notice is real. I'll need to ask around and get some other people's takes on this. If you can think of anything, shoot me an email at`milddermatographia@gmail.com`
+
+
+
+References:
+=> https://en.wikipedia.org/wiki/Bechdel_test  [1] Bechdel test
+=> https://imgur.com/a/612eD%230  [2] movies
+=> https://bechdeltest.com/statistics/  [3] fail
+=> https://www.instagram.com/SamDoesArts/  [4] samdoesarts
+=> https://www.instagram.com/peijinsart/  [5] peijinsart
+=> https://www.instagram.com/derekdomnicdsouza/  [6] derekdomnicdsouza
+=> https://www.instagram.com/djamilaknopf/  [7] djamilaknopf
+=> https://www.instagram.com/sunfwer/  [8] sunfwer
+=> https://www.instagram.com/tattoos_of_insta/  [9] tattoos_of_insta
+=> https://www.reddit.com/r/tattoos/top/?t=all  [10] /r/tattoos
+=> https://www.insider.com/women-sexism-experiences-hollywood-misogyny-entertainment-industry%23reese-witherspoons-financial-adviser-warned-her-that-shed-make-drastically-less-money-in-her-40s-1  [11] acting
+=> https://everydayfeminism.com/2017/02/sexism-in-higher-ed-is-problem/  [12] academia
+=> https://theconversation.com/sexism-in-the-military-more-women-needed-in-senior-roles-to-force-cultural-change-151334  [13] the military
+=> https://www.entitymag.com/women-art/  [14] mens historic domination in art
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

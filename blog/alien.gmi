@@ -1,0 +1,46 @@
+
+# I dream of Aliens
+
+
+A couple years ago, I played Alien: Isolation with my sister and her friend. We didn't get too far into the game; we definitely encountered the alien and got to a point where it became less scary/suspensful and more annoying. That said, it certainly didn't stop my amygdala from going haywire at night; I've had alien nightmares every once and a while ever since. Sometimes the dreams will be months apart, other times back-to-back over nights. The broad strokes of the story are always the same: I'm in some largely populated area and have discovered an underground of sorts. The alien(s) show up and try hunting me, so I hide. They find their way to everyone else and pandomonium insues. The details change in not-that-relevant ways; sometimes it's an airport, sometimes a mall.
+
+Why did I bother writing this down? I haven't the faintest idea.
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

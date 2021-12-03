@@ -1,0 +1,60 @@
+
+# Review: The Emperor's New Groove and Chicken Little
+
+
+I decided to watch old movies for nastolgia's sake yesterday. I haven't the faintest idea why, since I generally hate movies.
+
+## The Emperor's New Groove
+
+Once you get past the kind of cringy intro-music-piece, holy crap is this amazing. This movie is the equivalent of the random bullshit go meme.
+
+=> /img/random-bullshit-go.jpg   Random Bullshit Go
+
+You have witty banter, temper tantrums, Kronk, breaking the 4th wall 4 times (which, in itself, might be breaking the 4th wall again? 5th wall?), scorpions, Kronk, jaguars, teleporting children, bullshit physics, and Kronk all stuffed into an hour and twenty minute run time. Did I mention there's Kronk? When I watch movies, I'm usually wondering when it'll be over or what time it is. This movie had no chill though, and it was over before I could question whether this was a wise way of spending my evening.
+
+## Chicken Little
+
+I watched this almost immediately afterwards, so Chicken Little started with an unfair disadvantage. The first scene with the false alarm was pretty amazing; the chain of baby rabbits was perhaps the most entertaining part of the movie. The rest was kind of meh. A typical coming of age story with a bland alien-invasion ending.
+
+## Why Are You Here?
+
+Did you seriously just read a review for two Disney movies from twenty years ago written by some random internet stranger? Weirdo.
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

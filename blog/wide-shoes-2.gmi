@@ -1,0 +1,46 @@
+
+# Wide Shoes: The Resolvening
+
+
+My Softstair Shoes Primal RunAmocs came in a couple days ago. Since my feet were at the upper end of one size and I intended to wear the shoes with socks, I sized up. Muah, they fit like a dream; there's plenty of space for my toes to splay out while still being secure. I can't believe I've let myself wear uncomfortable shoes for so long.
+
+I orderd the Dash RunAmocs as well and they also fit well. The toe box isn't as large, and so my toes do press against the leather, but since it's so soft, it stretches out and doesn't feel squishy. Overall, I am a very happy camper right now.
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+

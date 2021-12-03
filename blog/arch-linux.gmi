@@ -1,0 +1,44 @@
+
+# Wanting to love Arch and SwayWM
+
+
+I originally wrote a long post about transitioning back from Arch to Ubuntu and how slow everything feels in comparison. I then reinstalled Arch and SwayWM, and couldn't get Firefox to use Wayland, no matter where I placed`MOZENABLEWAYLAND=1`or`export MOZENABLEWAYLAND=1` XWayland programs were a blurry mess. I had managed to get everything working the first time around (sort of), but this time, no amount of DDG or Googling could work it out. I'm feeling less bad about going back to Ubuntu (again) now.
+
+
+
+
+
+## Site sections
+=> /index.gmi  Home
+=> /posts/.gmi  Posts
+
+
+=> /categories.gmi  categories:
+
+=> /tags.gmi  tags:
+=> /tags/academia.gmi   academia
+=> /tags/life.gmi   life
+=> /tags/living.gmi   living
+=> /tags/misc.gmi   misc
+=> /tags/rant.gmi   rant
+=> /tags/society.gmi   society
+=> /tags/software.gmi   software
+=> /tags/worldbuilding.gmi   worldbuilding
+
+
+
+
+
+
+<no value>
+
+
+
+=> /index.gmi  Return to main page
+
+
+
+milde copyright 2021
+
+
+
