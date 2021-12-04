@@ -59,7 +59,7 @@ I'm not a front end person so I'm sure I messed something up, but it's irritatin
 
 ## Related articles
 
-=> /post/gemini/index.gmi New Theme and Gemini!: <no value>
+=> /post/gemini-theme/index.gmi New Theme and Gemini!: <no value>
 => /post/termux/index.gmi Termux and Android: <no value>
 => /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene: <no value>
 ---

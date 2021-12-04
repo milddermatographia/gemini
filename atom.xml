@@ -11,8 +11,8 @@
   
   
   <entry>
-    <title>New Theme and Gemini!</title><link rel="alternate" href="gemini://milddermatographia.com/post/gemini/"/>
-    <id>gemini://milddermatographia.com/post/gemini/</id>
+    <title>New Theme and Gemini!</title><link rel="alternate" href="gemini://milddermatographia.com/post/gemini-theme/"/>
+    <id>gemini://milddermatographia.com/post/gemini-theme/</id>
     <published>2021-12-04T10:10:08+0100</published>
     <updated>2021-12-04T10:10:08+0100</updated>
     <summary>Continuing my procrastination streak, I finally got this website up and running using Gemini. Since this blog is made with Hugo, and I have no desire to dig around in it&amp;rsquo;s internals, I used the amberterm theme by Michael Clemens and messed around with the color scheme to make it light. I then followed this guide by LandChad to set up the agate Gemini server. Finally, I set up nginx and certbot on the same Vultr instance (since 3.</summary>

@@ -20,7 +20,7 @@ I don't doubt that Termux might fall short for actual-software-engineering-level
 
 ## Related articles
 
-=> /post/gemini/index.gmi New Theme and Gemini!: <no value>
+=> /post/gemini-theme/index.gmi New Theme and Gemini!: <no value>
 => /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene: <no value>
 => /post/ddg-google/index.gmi Duck Duck Go > Google: <no value>
 ---

@@ -66,7 +66,7 @@ That said, I need to take the time to weigh their strengths and weaknesses prope
 
 ## Related articles
 
-=> /post/gemini/index.gmi New Theme and Gemini!: <no value>
+=> /post/gemini-theme/index.gmi New Theme and Gemini!: <no value>
 => /post/still-alive/index.gmi I'm Still Alive!: <no value>
 => /post/port-blocking/index.gmi My Student Housing is Blocking Ports: <no value>
 ---
