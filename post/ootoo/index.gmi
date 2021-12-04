@@ -1,0 +1,125 @@
+# Prepare and Apply an Ootoo as an Appendage Replacement
+
+
+
+## Context
+
+Loss of appendages is an unfortunate reality for many professions; masons and carpenters lose digits, soldiers, hands, arms and legs.
+While cauterization and magic can be used to close the wound to avoid bleeding out, this leaves the unfortunate permanence of absence.
+Ootoo, a parasitic species found in Caesem, provide a method of replacing the missing appendage in a semi-permanent way.
+Doing so, however, requires rigourously following the steps below to avoid spreading the parasite and/or killing the patient.
+
+---
+
+## Preparation
+
+To prepare an Ootoo for application, perform the following steps:
+
+* Determine the mass of the missing limb. Averages can be found at the bottom of this document; absolute precision is not required.
+* Remove the equivalent mass from the surrogate host. The flesh must be removed such that the host does not die before the Ootoo fixes and deposits its eggs. Suitable surrogate hosts can be found at the bottom of this document.
+* Apply the Ootoo to the wound and hold in place until attached. 
+* After approximately four days, the Ootoo will begin to contract. Wait at least 10 minutes after contractions end for the last of the eggs to be deposited into the surrogate host. Failure to do so may result in cleanup upon removal.
+
+Considering the time required for Ootoo to prepare and insert their eggs, they should be prepared and discarded regularily in case of need.
+
+---
+
+## Application
+
+Now that the Ootoo is prepared for application, proceed to replace the missing appendage:
+
+* Remove the Ootoo from the surrogate host. Doing so will require careful prying to avoid killing the parasite
+* Apply the Ootoo to the injury of the patient. Hold in place until attached.
+* Wait approximately six hours for the Ootoo to form tissue and nerve bonds. The patient should avoid straining the new appendage during this time, or risk detaching the parasite.
+* Bring the patient through the range of motion of the new appendage to ensure the Ootoo has properly fixated and adapted to new host. Minor visual differences between the original appendage and Ootoo replacement are common, but large variations, such as lack of skin texture and motor capacity, suggests a dying Ootoo.
+* Repeat the application process with another prepared Ootoo in case of a dying parasite.
+
+---
+
+## Cleanup
+
+Incinerate the surrogate host to ensure eggs cannot hatch and propogate; while their gestation period is approximately a week, the potential fallout of an infestation demands immediate and thorough eradication.
+
+---
+
+## Repeated Treatement
+
+An Ootoo appendage will live between a year and two.
+As long as the procedure is repeated before the death of the parasite, it can generally be replaced with a new one with little difficulty.
+A near-dead Ootoo can be identified by lack of skin texture and loss of motor capacity.
+
+Before removal, numb the area where the Ootoo attaches to the patient, as their nerves are fully connected at this point.
+The fixation point can be identified by a faint line and dimpling of the skin.
+A straight cut across the area will remove the Ootoo, which can be discarded however is seen fit.
+
+---
+
+## Answers for Patients
+
+While the thought of losing a limb or potentially dying is certainly the main concern of the patient, they may question the safety of using an Ootoo before application.
+Here are answers to some commonly asked questions:
+
+Q: Does putting it on hurt?   
+A: No, the procedure is entirely painless. Ootoo first use suction to attach to their host, only forming tissue and nerve bonds over the following hours and days.
+
+Q: Will it lay eggs inside me?   
+A: If the preparation phase is completed thoroughly, all eggs will be deposited inside the surrogate host. Further, Ootoo only carry a single clutch of eggs for their lifespan.
+
+Q: Will my limb work like before?   
+A: Mostly; major muscle function will return within a matter of hours, however finer actions, such as writing, may not be possible.
+
+Q: Will I feel through my new limb?   
+A: Yes; after a few hours the patient will begin to regain sensation in the new appendage.
+
+Q: Will it suck all my blood?   
+A: No; an Ootoo will draw approximately as much blood as the original appendage.
+
+Q: Will it last forever?   
+A: No; Ootoo are not designed to live decades at a time, and will thus die naturally within a couple years.
+
+Q: Help, it's pulsing!   
+A: Those contractions are used to push eggs into the host; since all the eggs were removed using the surrogate host, the contractions don't achieve anything. Contractions may occur every few days for a few minutes at a time, for the life of the Ootoo.
+
+---
+
+## Reference Material
+
+### Average Segment Masses
+
+The following table gives average segment mass percentages for humans.
+
+| Segment | Average (Human) |
+|----------|--------------------|
+| Total Arm | 5 |
+| Upper Arm	| 3 |
+| Forearm | 1.5 |
+| Hand | 0.5 |
+| Total Leg | 18 |
+| Thigh | 11 |
+| Calf | 5.5 |
+| Foot | 1.5 |
+
+### Surrogate Host
+
+While technically any blood-carying creature can be used as a surrogate host, some have been found to allow for faster egg laying.
+They are presented in no particular order.
+
+* Deer
+* Dogs
+
+This list is a work in progress and requires further experimentation.
+
+
+---
+2 June 2021.
+
+
+## Related articles
+
+=> /post/akumaic-hunter/index.gmi The First Akumaic Hunter: <no value>
+=> /post/gris/index.gmi Siege of Gris: <no value>
+=> /post/geas/index.gmi Musings on Geas: <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/ootoo/ View this article on the WWW

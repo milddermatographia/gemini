@@ -1,48 +1,54 @@
 # Mild Dermatographia
 
-Mildly Irritating
-
-<no value>
-
-
-
-
-
-## Site sections
-=> /index.gmi  Home
-=> /posts/.gmi  Posts
-
-
-=> /categories.gmi  categories:
-
-=> /tags.gmi  tags:
-=> /tags/academia.gmi   academia
-=> /tags/life.gmi   life
-=> /tags/living.gmi   living
-=> /tags/misc.gmi   misc
-=> /tags/rant.gmi   rant
-=> /tags/society.gmi   society
-=> /tags/software.gmi   software
-=> /tags/worldbuilding.gmi   worldbuilding
-
-
-
+Slightly Irritating
 
 ## Posts
 
+### 2021
 
-
-
-
-<no value>
-
-
-
-=> /index.gmi  Return to main page
-
-
-
-milde copyright 2021
-
+=> gemini://milddermatographia.com/post/hikes/index.gmi 2021/11/21 - [Living] Hikes
+=> gemini://milddermatographia.com/post/broken-clock/index.gmi 2021/11/17 - A Broken Clock Isn't Right Twice a Day
+=> gemini://milddermatographia.com/post/still-alive/index.gmi 2021/11/17 - I'm Still Alive!
+=> gemini://milddermatographia.com/post/akumaic-hunter/index.gmi 2021/09/26 - The First Akumaic Hunter
+=> gemini://milddermatographia.com/post/port-blocking/index.gmi 2021/09/06 - My Student Housing is Blocking Ports
+=> gemini://milddermatographia.com/post/termux/index.gmi 2021/09/01 - Termux and Android
+=> gemini://milddermatographia.com/post/murphy/index.gmi 2021/09/01 - Beating Murphy
+=> gemini://milddermatographia.com/post/alien/index.gmi 2021/09/01 - I dream of Aliens
+=> gemini://milddermatographia.com/post/bears/index.gmi 2021/08/17 - Bears! An Incomplete Mini D&D Adventure
+=> gemini://milddermatographia.com/post/equal-rites/index.gmi 2021/08/17 - Review: Equal Rites (Discworld)
+=> gemini://milddermatographia.com/post/wide-shoes-2/index.gmi 2021/08/17 - Wide Shoes: The Resolvening
+=> gemini://milddermatographia.com/post/tfa-2/index.gmi 2021/08/15 - Two-Factor Authentication and Digital Hygiene
+=> gemini://milddermatographia.com/post/washroom-stalls/index.gmi 2021/08/08 - Washroom Stalls in North America Suck
+=> gemini://milddermatographia.com/post/wide-shoes/index.gmi 2021/07/30 - Wide Shoes
+=> gemini://milddermatographia.com/post/music-listening-to-2/index.gmi 2021/07/26 - Music I'm Listening To 2
+=> gemini://milddermatographia.com/post/escalators/index.gmi 2021/07/26 - Escalators
+=> gemini://milddermatographia.com/post/bicycle/index.gmi 2021/07/16 - You're Riding Your Bike Wrong
+=> gemini://milddermatographia.com/post/checkout-lane/index.gmi 2021/07/16 - German Grocery Store Checkout Lanes are The Best
+=> gemini://milddermatographia.com/post/military-kid/index.gmi 2021/07/16 - Fallout of Being a Military Brat
+=> gemini://milddermatographia.com/post/saved-posts/index.gmi 2021/07/07 - My Saved Articles
+=> gemini://milddermatographia.com/post/ddg-google/index.gmi 2021/07/04 - Duck Duck Go > Google
+=> gemini://milddermatographia.com/post/gris/index.gmi 2021/07/04 - Siege of Gris
+=> gemini://milddermatographia.com/post/empathy/index.gmi 2021/06/29 - Empathy
+=> gemini://milddermatographia.com/post/pet-abuse/index.gmi 2021/06/27 - Don't Abuse your Pets
+=> gemini://milddermatographia.com/post/bechdel/index.gmi 2021/06/27 - The Reverse Bechdel Test
+=> gemini://milddermatographia.com/post/mantario/index.gmi 2021/06/22 - The Mantario Trail
+=> gemini://milddermatographia.com/post/ootoo/index.gmi 2021/06/02 - Prepare and Apply an Ootoo as an Appendage Replacement
+=> gemini://milddermatographia.com/post/review-llama-chkn/index.gmi 2021/05/27 - Review: The Emperor's New Groove and Chicken Little
+=> gemini://milddermatographia.com/post/geas/index.gmi 2021/05/16 - Musings on Geas
+=> gemini://milddermatographia.com/post/onenote/index.gmi 2021/05/01 - Modern OneNote is Designed to Lock You In
+=> gemini://milddermatographia.com/post/gab/index.gmi 2021/04/24 - Shit Gab.com Says
+=> gemini://milddermatographia.com/post/canada-engineering-wasteland/index.gmi 2021/04/16 - The Great Canadian (Mechanical) Engineering Wasteland
+=> gemini://milddermatographia.com/post/infinite-states/index.gmi 2021/04/11 - Can We Create a Sentence With Infinite States?
+=> gemini://milddermatographia.com/post/video-games/index.gmi 2021/04/11 - Horsemen of the Modern Apocalypse
+=> gemini://milddermatographia.com/post/music-listening-to/index.gmi 2021/03/20 - Music I'm Listening To
+=> gemini://milddermatographia.com/post/link-rot/index.gmi 2021/03/15 - Link Rot
+=> gemini://milddermatographia.com/post/prisoner-dilemma/index.gmi 2021/03/09 - The Prisoner's Dilemma for Politicians and Journalists
+=> gemini://milddermatographia.com/post/chicken-pot-pie/index.gmi 2021/02/27 - Chicken Pot Pie
+=> gemini://milddermatographia.com/post/animal-ownership/index.gmi 2021/02/27 - Should I get a Pet?
+=> gemini://milddermatographia.com/post/arch-linux/index.gmi 2021/02/20 - Wanting to love Arch and SwayWM
+=> gemini://milddermatographia.com/post/hedonic-treadmill/index.gmi 2021/02/15 - The Hedonic Treadmill is Wrong
+=> gemini://milddermatographia.com/post/scholarships/index.gmi 2021/02/13 - Scholarships
+=> gemini://milddermatographia.com/post/two-factor-authentication/index.gmi 2021/02/07 - Two-Factor Authentication
+=> gemini://milddermatographia.com/post/university-retrospective/index.gmi 2021/01/23 - A Retrospection on University
 
 

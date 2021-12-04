@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Mild Dermatographia</title><link rel="self" type="application/atom+xml" href="https://milddermatographia.com/"/>
+  <link rel="alternate" type="text/html" href="gemini://milddermatographia.com/"/>
+  <updated>2021-11-21T00:04:49-0500</updated>
+  <author>
+    <name><no value></name>
+    <uri>gemini://milddermatographia.com/</uri>
+  </author>
+  <id>https://milddermatographia.com/</id>
+  
+  
+  <entry>
+    <title>[Living] Hikes</title><link rel="alternate" href="gemini://milddermatographia.com/post/hikes/"/>
+    <id>gemini://milddermatographia.com/post/hikes/</id>
+    <published>2021-11-21T00:04:49-0500</published>
+    <updated>2021-11-21T00:04:49-0500</updated>
+    <summary>This is the first &amp;ldquo;living&amp;rdquo; document I&amp;rsquo;ll be creating on this blog, which I&amp;rsquo;ll update as I have new content to add to it; the publication date will always be that of the latest hike, so it doesn&amp;rsquo;t get lost down in the blog list. It&amp;rsquo;s a big &amp;lsquo;ol list of the hikes I&amp;rsquo;ve done, with a quick description/review for each.
+ 2018 Switzerland I visited Switzerland for a week in April while working in Germany.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>A Broken Clock Isn't Right Twice a Day</title><link rel="alternate" href="gemini://milddermatographia.com/post/broken-clock/"/>
+    <id>gemini://milddermatographia.com/post/broken-clock/</id>
+    <published>2021-11-17T22:08:04+0100</published>
+    <updated>2021-11-17T22:08:04+0100</updated>
+    <summary>I decided I&amp;rsquo;d rather do this than work right now. Don&amp;rsquo;t get me wrong, I love my program so far, and there&amp;rsquo;ll be an article with a bunch of gushing over the Holidays, but I also really like writing on here, despite what the lack of consistency and frequency would suggest.
+Onto the actual content. Well, the title says it all. A broken clock might be right twice a day, but only if it&amp;rsquo;s broken in the &amp;ldquo;arms don&amp;rsquo;t move at all&amp;rdquo; sense.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>I'm Still Alive!</title><link rel="alternate" href="gemini://milddermatographia.com/post/still-alive/"/>
+    <id>gemini://milddermatographia.com/post/still-alive/</id>
+    <published>2021-11-17T21:53:18+0100</published>
+    <updated>2021-11-17T21:53:18+0100</updated>
+    <summary>Title says it all. I realized it&amp;rsquo;s been almost two months since I&amp;rsquo;ve written anything on here, which is a darn shame, because I have a big ol list of topics I just can&amp;rsquo;t get around to. I moved to Switzerland in September for grad school and, while it&amp;rsquo;s been an absolute blast so far, it&amp;rsquo;s also crazy busy. Hopefully, over Christmas, I&amp;rsquo;ll be able to whittle away at my list.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>The First Akumaic Hunter</title><link rel="alternate" href="gemini://milddermatographia.com/post/akumaic-hunter/"/>
+    <id>gemini://milddermatographia.com/post/akumaic-hunter/</id>
+    <published>2021-09-26T22:23:27+0200</published>
+    <updated>2021-09-26T22:23:27+0200</updated>
+    <summary>Chaos. Caretakers ushering the young to the upper levels. Sentinals guiding builders to the lower levels, to the hungry darkness, swallowing them whole, creeping ever forward. The hive is compromised, a force incontestable. Faint visions, smells, the descent, something awry, then fear. Terror. Senseless, turning, bumbling. Something is here. Something is hunting.
+Here. Away, drifting from the whole, to the part. Forest, and ahead, a human. Their arrival, silent. Curious. Shared hunger with companions, a suitable meal.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>My Student Housing is Blocking Ports</title><link rel="alternate" href="gemini://milddermatographia.com/post/port-blocking/"/>
+    <id>gemini://milddermatographia.com/post/port-blocking/</id>
+    <published>2021-09-06T10:59:02+0200</published>
+    <updated>2021-09-06T10:59:02+0200</updated>
+    <summary>I&amp;rsquo;ve moved into student housing at my grad school, and immediately noticed I wasn&amp;rsquo;t able to synchronize notes with, or even navigate, my Nextcloud instance. I wasn&amp;rsquo;t really sure what was going on, but using the VPN I had from travel allowed me to access it, so I chalked it up to Nextcloud using some obscure port to transfer files and communicate with their mobile and browser applications. When I tried pulling repos or pushing changes using SSH without the VPN enabled, however, those didn&amp;rsquo;t work either.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Termux and Android</title><link rel="alternate" href="gemini://milddermatographia.com/post/termux/"/>
+    <id>gemini://milddermatographia.com/post/termux/</id>
+    <published>2021-09-01T09:55:34+0000</published>
+    <updated>2021-09-01T09:55:34+0000</updated>
+    <summary>As I previously mentioned, I recently picked up an Android tablet. While I found a way of doing remote work using JupyterLab and &amp;ldquo;The Cloud&amp;rdquo;, I wanted a way to develop locally (or at least, update this blog). For my purposed, Termux is working pretty darn well. I&amp;rsquo;m currently sitting in the airport writing this (as well as the Alien and Murphy articles, apologies for their lack of refinement) using Neovim, generating HTML files with Hugo, and syncing to Github with Git.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Beating Murphy</title><link rel="alternate" href="gemini://milddermatographia.com/post/murphy/"/>
+    <id>gemini://milddermatographia.com/post/murphy/</id>
+    <published>2021-09-01T09:45:58+0000</published>
+    <updated>2021-09-01T09:45:58+0000</updated>
+    <summary>According to Wikipedia, Murphy&amp;rsquo;s Law is the adage that:
+ Anything that can possibly go wrong, does.
+ On your way to work? You left your phone at home. Trying to get an insurance rep on the phone? It&amp;rsquo;ll take three hours. Unless, of course, you leave the room. In which case, they&amp;rsquo;ll pick up instantly, ask if you&amp;rsquo;re there, then hang up.
+While Murphy is often presented as a force of evil, I see it as an opportunity to game the system and fight back.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>I dream of Aliens</title><link rel="alternate" href="gemini://milddermatographia.com/post/alien/"/>
+    <id>gemini://milddermatographia.com/post/alien/</id>
+    <published>2021-09-01T09:41:09+0000</published>
+    <updated>2021-09-01T09:41:09+0000</updated>
+    <summary>A couple years ago, I played Alien: Isolation with my sister and her friend. We didn&amp;rsquo;t get too far into the game; we definitely encountered the alien and got to a point where it became less scary/suspensful and more annoying. That said, it certainly didn&amp;rsquo;t stop my amygdala from going haywire at night; I&amp;rsquo;ve had alien nightmares every once and a while ever since. Sometimes the dreams will be months apart, other times back-to-back over nights.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Bears! An Incomplete Mini D&D Adventure</title><link rel="alternate" href="gemini://milddermatographia.com/post/bears/"/>
+    <id>gemini://milddermatographia.com/post/bears/</id>
+    <published>2021-08-17T21:08:50-0500</published>
+    <updated>2021-08-17T21:08:50-0500</updated>
+    <summary>I wrote a mini adventure while in Waterton Lakes National Park for the long car ride home. I don&amp;rsquo;t think I&amp;rsquo;ll have time to fully flesh out the areas, build maps, etc., but I figure&amp;rsquo;d I&amp;rsquo;d put it up in case someone wants something to build off of. I can send the LaTeX source if anyone is interested (milddermatographia@gmail.com) in editing it. The template came from here.
+Bears! (1.6MB)</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Review: Equal Rites (Discworld)</title><link rel="alternate" href="gemini://milddermatographia.com/post/equal-rites/"/>
+    <id>gemini://milddermatographia.com/post/equal-rites/</id>
+    <published>2021-08-17T07:42:45-0500</published>
+    <updated>2021-08-17T07:42:45-0500</updated>
+    <summary>I didn&amp;rsquo;t read Harry Potter at the age most people did. For whatever reason, it just never tempted me when I was younger. I finally read the series when I was near the end of high school and I wasn&amp;rsquo;t very impressed. The prose was basic and boring, the plots were meh, and there were a dozen macguffins a page. I chalked my experience down to no longer being the target audience, and wondering at how others experienced the books.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Wide Shoes: The Resolvening</title><link rel="alternate" href="gemini://milddermatographia.com/post/wide-shoes-2/"/>
+    <id>gemini://milddermatographia.com/post/wide-shoes-2/</id>
+    <published>2021-08-17T07:35:48-0500</published>
+    <updated>2021-08-17T07:35:48-0500</updated>
+    <summary>My Softstair Shoes Primal RunAmocs came in a couple days ago. Since my feet were at the upper end of one size and I intended to wear the shoes with socks, I sized up. Muah, they fit like a dream; there&amp;rsquo;s plenty of space for my toes to splay out while still being secure. I can&amp;rsquo;t believe I&amp;rsquo;ve let myself wear uncomfortable shoes for so long.
+I orderd the Dash RunAmocs as well and they also fit well.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Two-Factor Authentication and Digital Hygiene</title><link rel="alternate" href="gemini://milddermatographia.com/post/tfa-2/"/>
+    <id>gemini://milddermatographia.com/post/tfa-2/</id>
+    <published>2021-08-15T12:53:48-0500</published>
+    <updated>2021-08-15T12:53:48-0500</updated>
+    <summary>I&amp;rsquo;ve written about my dislike of TFA on phones before, although then, it was more of a rant than anything. This is an attempt at putting down my thoughts in a more coherent manner.
+Healthy Habits and Consumption vs Production Devices Digital Hygiene is the idea of having healthy computing habits, just like we do in real life. The emphasis of this phrasing, however, is mainly on securing your devices and accounts; keeping your software up-to-date, making backups, using TFA (ha), creating secure passwords, and so forth.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Washroom Stalls in North America Suck</title><link rel="alternate" href="gemini://milddermatographia.com/post/washroom-stalls/"/>
+    <id>gemini://milddermatographia.com/post/washroom-stalls/</id>
+    <published>2021-08-08T17:48:45-0500</published>
+    <updated>2021-08-08T17:48:45-0500</updated>
+    <summary>Washroom stall doors are stuck in the neolithic era, here in North America. They have massive gaps on all sides, allowing anyone to look in to see you. Sometimes the gaps on the left and right side are only a centimeter wide, sometimes they&amp;rsquo;re an inch (no exaggeration either, those gaps can get w i d e)! In wider stalls which are meant to be accessible, the toilet is always positioned in such a way that those outside the stall can&amp;rsquo;t help but look at you while you grace the porcelain throne with your presence.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Wide Shoes</title><link rel="alternate" href="gemini://milddermatographia.com/post/wide-shoes/"/>
+    <id>gemini://milddermatographia.com/post/wide-shoes/</id>
+    <published>2021-07-30T18:38:15-0500</published>
+    <updated>2021-07-30T18:38:15-0500</updated>
+    <summary>I have wide feet. Not super wide. I&amp;rsquo;d argue barely any larger than a D on the brannock scale. But regardless of my ever so slight statistical aberration, no shoes fit me. Every single pair pinches my little toe inwards. They cause my toes to hammer when walking to avoid discomfort.
+My father said that my feet are the same width as his, and his fit in normal shoes, so I must just be oversensitive.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Music I'm Listening To 2</title><link rel="alternate" href="gemini://milddermatographia.com/post/music-listening-to-2/"/>
+    <id>gemini://milddermatographia.com/post/music-listening-to-2/</id>
+    <published>2021-07-26T16:58:16-0500</published>
+    <updated>2021-07-26T16:58:16-0500</updated>
+    <summary>Well, it&amp;rsquo;s been a third of a year, so I figured I&amp;rsquo;d create a second version of this.
+Proggy Froggy One of my siblings is a big fan of Zeal and Ardor and I&amp;rsquo;ve finally managed to get into their stuff a bit. For those not familiar, their music is a hybrid of black metal and slave songs or, as Gagneux, their lead singer, so eloquently put it,
+ what if American slaves had embraced Satan instead of Jesus?</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Escalators</title><link rel="alternate" href="gemini://milddermatographia.com/post/escalators/"/>
+    <id>gemini://milddermatographia.com/post/escalators/</id>
+    <published>2021-07-26T15:25:14-0500</published>
+    <updated>2021-07-26T15:25:14-0500</updated>
+    <summary>I&amp;rsquo;m a pretty collectivist person. I&amp;rsquo;d like to see Universal Basic Income implemented. I&amp;rsquo;ll gladly pay more taxes for it to happen. I want public healthcare to be expanded to include dental and vision. I think we should be trying to rehabilitate people, not punish them, for committing crimes. I want public transportation to replace cars in Canada.
+If there&amp;rsquo;s one place that I refuse to sacrifice my lifestyle for that of the collective, it&amp;rsquo;s escalators.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>You're Riding Your Bike Wrong</title><link rel="alternate" href="gemini://milddermatographia.com/post/bicycle/"/>
+    <id>gemini://milddermatographia.com/post/bicycle/</id>
+    <published>2021-07-16T13:18:18-0500</published>
+    <updated>2021-07-16T13:18:18-0500</updated>
+    <summary>I see this often enough that I feel the need to make a PSA: your bike seat should be at a height that, when at the bottom of the stroke, your leg is almost straight. If this isn&amp;rsquo;t the case, your seat is very likely too low, or your bike frame is too small. See this video or any really to see how to fit your bike and seat post properly.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>German Grocery Store Checkout Lanes are The Best</title><link rel="alternate" href="gemini://milddermatographia.com/post/checkout-lane/"/>
+    <id>gemini://milddermatographia.com/post/checkout-lane/</id>
+    <published>2021-07-16T09:03:39-0500</published>
+    <updated>2021-07-16T09:03:39-0500</updated>
+    <summary>I spent a few months in Germany and quickly grew to love their grocery stores. Coming back to Canada felt like I&amp;rsquo;d stepped into a bizarre, incompetent dystopia. Allow me to set the scene.
+You just finished filling your cart at Aldi/Lidl. You have your produce, your meats, your diary, and maybe a Käsebrötchen or Brezel from the cute little dispenser machine as a reward for shopping. You get to the back of the line and find yourself at the checkout lane in the blink of an eye.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Fallout of Being a Military Brat</title><link rel="alternate" href="gemini://milddermatographia.com/post/military-kid/"/>
+    <id>gemini://milddermatographia.com/post/military-kid/</id>
+    <published>2021-07-16T05:31:49-0500</published>
+    <updated>2021-07-16T05:31:49-0500</updated>
+    <summary>My father is in the military. A few months ago, my siblings and I were musing about the impact moving around has had on us. He overheard and seemed kind of hurt, but also like he was trying to convincd himself that the military lifestyle hadn&amp;rsquo;t overly negatively impacted us, that there were lots of upsides. I don&amp;rsquo;t think anyone really had the heart to give him an honest answer, so since I&amp;rsquo;m up stupid early and have nothing better to do, I&amp;rsquo;ll do it now.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>My Saved Articles</title><link rel="alternate" href="gemini://milddermatographia.com/post/saved-posts/"/>
+    <id>gemini://milddermatographia.com/post/saved-posts/</id>
+    <published>2021-07-07T21:21:52-0500</published>
+    <updated>2021-07-07T21:21:52-0500</updated>
+    <summary>I posted a while ago that I have a Git repo with all my saved web content. I figured I&amp;rsquo;d compile a list of the articles I&amp;rsquo;ve kept since starting my little archive, alongside a quick (probably not accurate) description of each. I&amp;rsquo;ve organized the content of each category with my favorites/must-reads of each above the ... and everything else below, each subset in no particular order. I&amp;rsquo;ll hopefully remember to keep this up to date as I add save more content.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Duck Duck Go > Google</title><link rel="alternate" href="gemini://milddermatographia.com/post/ddg-google/"/>
+    <id>gemini://milddermatographia.com/post/ddg-google/</id>
+    <published>2021-07-04T21:22:51-0500</published>
+    <updated>2021-07-04T21:22:51-0500</updated>
+    <summary>I&amp;rsquo;ve used Duck Duck Go (DDG) practically exclusively for the past few years; I can&amp;rsquo;t recall the last time I used Google, other than to reinforce my decision to use DDG. DDG gives the programming related results I want every time, often with a convenient StackOverflow box on the side with some sample code immediately visible. Google&amp;rsquo;s results, meanwhile, are hidden beneath layers of SEO crap. When opening an image from the Images tab of DDG, the image takes the center of the screen, and the next row of images is pushed down out of view.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Siege of Gris</title><link rel="alternate" href="gemini://milddermatographia.com/post/gris/"/>
+    <id>gemini://milddermatographia.com/post/gris/</id>
+    <published>2021-07-04T21:15:26-0500</published>
+    <updated>2021-07-04T21:15:26-0500</updated>
+    <summary>The siege, Migara decided, was not going well. From her vantage point atop a mesa near an outlying farm, the mass of soldiers and war machines pressing up against the walls of Gris appeared frightingly similar to the waves which crashed upon the coastal side of the city, and equally efficacious. The city held, as it had through tsunamis and armies alike for generations. The commander knew its layout and defenses well enough through spies which had scouted the city-state&amp;rsquo;s defenses in the months leading up to the siege.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Empathy</title><link rel="alternate" href="gemini://milddermatographia.com/post/empathy/"/>
+    <id>gemini://milddermatographia.com/post/empathy/</id>
+    <published>2021-06-29T23:04:29-0500</published>
+    <updated>2021-06-29T23:04:29-0500</updated>
+    <summary>I stumbled onto an excellent collection of anectotes by Joyce Arthur about pro-life/anti-choice advocates getting abortions, and it triggered a whole set of old thoughts and memories pertaining to an idea my father has brought up over the years: we judge ourselves by our intentions, and others by their actions. In other words, we (humans as a whole) lack empathy. We don&amp;rsquo;t try to understand the motives and experiences of others, and instead judge them through some bizarre, inconsistent and often hypocritical lense, and ignore the ensuing cognitive dissonance.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Don't Abuse your Pets</title><link rel="alternate" href="gemini://milddermatographia.com/post/pet-abuse/"/>
+    <id>gemini://milddermatographia.com/post/pet-abuse/</id>
+    <published>2021-06-27T15:20:54-0500</published>
+    <updated>2021-06-27T15:20:54-0500</updated>
+    <summary>One of my sisters had the brilliant idea of tying a balloon to our cat&amp;rsquo;s tail. She (the cat) bolted, ran around the house screaming, went under a bed, and sprayed a massive puddle which she got soaked in before we could remove the balloon. She spent the rest of the day hiding in a corner. Please please please take a moment to think about how your pet will react before doing something stupid or goofy, otherwise you might end up casually abusing them.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>The Reverse Bechdel Test</title><link rel="alternate" href="gemini://milddermatographia.com/post/bechdel/"/>
+    <id>gemini://milddermatographia.com/post/bechdel/</id>
+    <published>2021-06-27T14:08:52-0500</published>
+    <updated>2021-06-27T14:08:52-0500</updated>
+    <summary>The Bechdel test is a measure of the representation of women in fiction. The criteria for passing the test are:
+ The fiction (movie, book, etc.) must have two women in it who talk to each other about something other than a man. (optionally) both of them are named  A simple test which a surprising number of movies fail. I see the Bechdel test as a primitive method of determining how male-centric a given book or movie is; if something fails the test, it&amp;rsquo;s likely because the cast is mainly male, and women are either under-represented, or exist solely to support the male casting.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>The Mantario Trail</title><link rel="alternate" href="gemini://milddermatographia.com/post/mantario/"/>
+    <id>gemini://milddermatographia.com/post/mantario/</id>
+    <published>2021-06-22T21:59:38-0500</published>
+    <updated>2021-06-22T21:59:38-0500</updated>
+    <summary>I backpacked the Mantario Trail this past weekend with my sisters. For those who aren&amp;rsquo;t familiar, it&amp;rsquo;s a 66km trail traversing the Canadian Shield, majoritarily in Manitoba, but dipping into Ontario slightly (thus the name). It was definitely a fun experience, and also a learning one.
+How Many Days? We did the trail in two 33km days and it was death. By the end, our feet were pulsing with every step and our legs would cramp up if we stopped moving.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Prepare and Apply an Ootoo as an Appendage Replacement</title><link rel="alternate" href="gemini://milddermatographia.com/post/ootoo/"/>
+    <id>gemini://milddermatographia.com/post/ootoo/</id>
+    <published>2021-06-02T22:18:13-0500</published>
+    <updated>2021-06-02T22:18:13-0500</updated>
+    <summary>Context Loss of appendages is an unfortunate reality for many professions; masons and carpenters lose digits, soldiers, hands, arms and legs. While cauterization and magic can be used to close the wound to avoid bleeding out, this leaves the unfortunate permanence of absence. Ootoo, a parasitic species found in Caesem, provide a method of replacing the missing appendage in a semi-permanent way. Doing so, however, requires rigourously following the steps below to avoid spreading the parasite and/or killing the patient.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Review: The Emperor's New Groove and Chicken Little</title><link rel="alternate" href="gemini://milddermatographia.com/post/review-llama-chkn/"/>
+    <id>gemini://milddermatographia.com/post/review-llama-chkn/</id>
+    <published>2021-05-27T10:37:55-0500</published>
+    <updated>2021-05-27T10:37:55-0500</updated>
+    <summary>I decided to watch old movies for nastolgia&amp;rsquo;s sake yesterday. I haven&amp;rsquo;t the faintest idea why, since I generally hate movies.
+The Emperor&amp;rsquo;s New Groove Once you get past the kind of cringy intro-music-piece, holy crap is this amazing. This movie is the equivalent of the random bullshit go meme.
+   You have witty banter, temper tantrums, Kronk, breaking the 4th wall 4 times (which, in itself, might be breaking the 4th wall again?</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Musings on Geas</title><link rel="alternate" href="gemini://milddermatographia.com/post/geas/"/>
+    <id>gemini://milddermatographia.com/post/geas/</id>
+    <published>2021-05-16T21:56:47-0500</published>
+    <updated>2021-05-16T21:56:47-0500</updated>
+    <summary>The presence of a Geas is undeniable. Looming, unaturally thin, and draped in layers of black rags, they glide across the ground, legs locked straight as a scarecrow. As the apparition approaches, details are revealed. Fingers, long and sickled; mask, contorted into a demented grin. One cannot help but recoil in horror as they pass by. Yet, crowds will follow cautiously, for the Geas are most singular in their purpose. Nearby, there is a Hunter who has broken their contract and is about to be eliminated most efficaciously.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Modern OneNote is Designed to Lock You In</title><link rel="alternate" href="gemini://milddermatographia.com/post/onenote/"/>
+    <id>gemini://milddermatographia.com/post/onenote/</id>
+    <published>2021-05-01T21:55:45-0500</published>
+    <updated>2021-05-01T21:55:45-0500</updated>
+    <summary>Having finished my degree, I figured I&amp;rsquo;d export my course notes from OneNote to PDFs, since it&amp;rsquo;s a more agnostic format. That, and OneNote documents are just web links, so they can&amp;rsquo;t really be saved somewhere else. Unsurprisingly, exporting them was not as simple as hitting the hamburger menu and printing the notebook. Nope.
+I first tried opening a notebook and printed it to a PDF directly, like I used to be able to do with OneNote 2016.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Shit Gab.com Says</title><link rel="alternate" href="gemini://milddermatographia.com/post/gab/"/>
+    <id>gemini://milddermatographia.com/post/gab/</id>
+    <published>2021-04-24T15:08:31-0500</published>
+    <updated>2021-04-24T15:08:31-0500</updated>
+    <summary>Apologies in advance for the large images; I was too lazy to add HTML content in my markdown files.
+ What Is Gab.com? Gab.com is, in their own words,
+ A social network that champions free speech, individual liberty and the free flow of information online. All are welcome.
+ It recieved its first major publicity in 2018 after it was found that the Pittsburgh synagogue shooter had posted a message on Gab beforehand indicating his intent.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>The Great Canadian (Mechanical) Engineering Wasteland</title><link rel="alternate" href="gemini://milddermatographia.com/post/canada-engineering-wasteland/"/>
+    <id>gemini://milddermatographia.com/post/canada-engineering-wasteland/</id>
+    <published>2021-04-16T12:55:44-0500</published>
+    <updated>2021-04-16T12:55:44-0500</updated>
+    <summary>I finished my Mechanical Engineering and Computer Science program in 2020 and, while waiting for my Masters degree to begin in September, have been on the hunt for internships. What I have observed is disheartening; the quick TL;DR is that Canada has no companies which actually do (mechanical) engineering work.
+Obviously a smidge hyperbolic, but looking through jobs in LinkedIn and Indeed is a depressing affair indeed (pun intended). Let&amp;rsquo;s compare some raw numbers.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Can We Create a Sentence With Infinite States?</title><link rel="alternate" href="gemini://milddermatographia.com/post/infinite-states/"/>
+    <id>gemini://milddermatographia.com/post/infinite-states/</id>
+    <published>2021-04-11T22:53:38-0500</published>
+    <updated>2021-04-11T22:53:38-0500</updated>
+    <summary>There&amp;rsquo;s a classic story of a person who approaches two doors, each flanked by a guardian. The person is told that they may ask one question to ascertain which door is the correct one to continue on their way. One guardian speaks only the truth, while the other only lies. The solution? To ask the following:
+ If I asked the other guard which door is the correct one, what would they say?</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Horsemen of the Modern Apocalypse</title><link rel="alternate" href="gemini://milddermatographia.com/post/video-games/"/>
+    <id>gemini://milddermatographia.com/post/video-games/</id>
+    <published>2021-04-11T08:09:59-0500</published>
+    <updated>2021-04-11T08:09:59-0500</updated>
+    <summary>Ever since the release of the Playstation 3 in 2006, I&amp;rsquo;ve played video games; Call of Duty, Battlefield, Fallout, Dark Souls, etc. Our parents, ever diligent, restricted our play-time to an hour at night on three weeknights, and one hour on Saturday. Like most kids, we also watched Saturday morning cartoons. Again, my parents restricted this to an hour or two a week (or more if we really pestered, or they weren&amp;rsquo;t home to enforce their rules).</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Music I'm Listening To</title><link rel="alternate" href="gemini://milddermatographia.com/post/music-listening-to/"/>
+    <id>gemini://milddermatographia.com/post/music-listening-to/</id>
+    <published>2021-03-20T20:07:00-0500</published>
+    <updated>2021-03-20T20:07:00-0500</updated>
+    <summary>Erra released their new self-titled album a few days ago and it&amp;rsquo;s been wonderful. A lot of the best songs were singles (House of Glass, Scorpion Hymn), but the rest of the album still delivered. House of Glass, Scorpion Hymn and Gungrave deliver the heavy with some fun riffing and drumming, Vanish Canvas goes full Periphery, and Jesse pulls out a Polyphia-esque solo in Remnant. While I think the first half of the album is stronger than the second, it&amp;rsquo;s overall great.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Link Rot</title><link rel="alternate" href="gemini://milddermatographia.com/post/link-rot/"/>
+    <id>gemini://milddermatographia.com/post/link-rot/</id>
+    <published>2021-03-15T08:52:57-0600</published>
+    <updated>2021-03-15T08:52:57-0600</updated>
+    <summary>Have you ever opened an old bookmark only to find it doesn&amp;rsquo;t exist? Or read an article and tried to follow a link, only to get a 404 error? You&amp;rsquo;ve encountered link rot, the phenomenon where an older link is no longer valid; that web-page has effectively disappeared.
+It&amp;rsquo;s an unfortunate side-effect of how the internet functions. If someone restructures their website, an article which was previously at domain.com/article might now be at domain.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>The Prisoner's Dilemma for Politicians and Journalists</title><link rel="alternate" href="gemini://milddermatographia.com/post/prisoner-dilemma/"/>
+    <id>gemini://milddermatographia.com/post/prisoner-dilemma/</id>
+    <published>2021-03-09T07:08:23-0600</published>
+    <updated>2021-03-09T07:08:23-0600</updated>
+    <summary>Have you ever watched an interview with a politician or company representative where, instead of answering a seemingly straightforward question, they beat around the bush endlessly? Or spout some empty catch-phrase? It&amp;rsquo;s infuriating. Justin Trudeau does it. Donald Trump does it. It really seems like everyone does it. I&amp;rsquo;ve theorized on why privately in the past, but I think I&amp;rsquo;ve finally figured out why; the prisoner&amp;rsquo;s dilemma.
+ The Prisoner&amp;rsquo;s Dilemma According to wikipedia:</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Chicken Pot Pie</title><link rel="alternate" href="gemini://milddermatographia.com/post/chicken-pot-pie/"/>
+    <id>gemini://milddermatographia.com/post/chicken-pot-pie/</id>
+    <published>2021-02-27T16:32:22-0600</published>
+    <updated>2021-02-27T16:32:22-0600</updated>
+    <summary>Like a thing having a gradual and cumulative effect, it was insidious. Harmless at first, then snowballing with ever greater intertia. No one could have imagined the world would end this way. And yet.
+It began harmlessly enough. A post appeared on Readit with a link to an ad from Utube. It was 10 minutes, unskipeable, and of a man eating a Chicken Pot Pie. No dialogue, no branding, no effects.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Should I get a Pet?</title><link rel="alternate" href="gemini://milddermatographia.com/post/animal-ownership/"/>
+    <id>gemini://milddermatographia.com/post/animal-ownership/</id>
+    <published>2021-02-27T00:00:00+0000</published>
+    <updated>2021-02-27T00:00:00+0000</updated>
+    <summary>Pets are pretty darn common in Canada. Some of my friends have dogs. Some have cats. Some have more esoteric pets, like turtles or snakes or lizards. Heck, our family has gone through a few generations of rodents of various families. Despite absolute immersion in a pet-friendly society, I&amp;rsquo;ve been pretty against pet ownership for a few years, for various reasons outlined below. That said, I&amp;rsquo;ve never done the research to really back up (or refute) my position, so this is my shoddy attempt at developing a coherent stance on pets.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Wanting to love Arch and SwayWM</title><link rel="alternate" href="gemini://milddermatographia.com/post/arch-linux/"/>
+    <id>gemini://milddermatographia.com/post/arch-linux/</id>
+    <published>2021-02-20T21:54:35-0600</published>
+    <updated>2021-02-20T21:54:35-0600</updated>
+    <summary>I originally wrote a long post about transitioning back from Arch to Ubuntu and how slow everything feels in comparison. I then reinstalled Arch and SwayWM, and couldn&amp;rsquo;t get Firefox to use Wayland, no matter where I placed MOZ_ENABLE_WAYLAND=1 or export MOZ_ENABLE_WAYLAND=1. XWayland programs were a blurry mess. I had managed to get everything working the first time around (sort of), but this time, no amount of DDG or Googling could work it out.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>The Hedonic Treadmill is Wrong</title><link rel="alternate" href="gemini://milddermatographia.com/post/hedonic-treadmill/"/>
+    <id>gemini://milddermatographia.com/post/hedonic-treadmill/</id>
+    <published>2021-02-15T16:19:17-0600</published>
+    <updated>2021-02-15T16:19:17-0600</updated>
+    <summary>According the Wikipedia:
+ The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes.
+ This theory has two major shortcomings which I shall (very very seriously) outline and refute. I will then propose a superior theory.
+ Hedonism does not adequately describe the variation of happiness A treadmill is a shit fucking analogy for the &amp;ldquo;spring&amp;rdquo; effect demonstrated above  Hedonism is Big Stupid Refering again to the premier source of absolute truth on the internet:</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Scholarships</title><link rel="alternate" href="gemini://milddermatographia.com/post/scholarships/"/>
+    <id>gemini://milddermatographia.com/post/scholarships/</id>
+    <published>2021-02-13T10:44:31-0600</published>
+    <updated>2021-02-13T10:44:31-0600</updated>
+    <summary>Tuition at my university costed about $$10,000$ per year; a steal when compared to lofty American universities like Stanford ($$80,000$), not great when compared to other schools in Canada (around $$6,000-$8,000$), and downright criminal when compared to some European schools (free?). This cost was partially offset by a decent scholarship setup. My entry scholarship was worth $$4,000$ for every year of my degree. Since it was a 5 year degree, this effectively covered $$20,000$ of tuition, or about two-fifths the cost of my degree.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Two-Factor Authentication</title><link rel="alternate" href="gemini://milddermatographia.com/post/two-factor-authentication/"/>
+    <id>gemini://milddermatographia.com/post/two-factor-authentication/</id>
+    <published>2021-02-07T21:03:38-0600</published>
+    <updated>2021-02-07T21:03:38-0600</updated>
+    <summary>My University made 2FA mandatory to access remote resources (such as SolidWorks, electrical labs, etc.) a while ago. Once 2FA was set up, however, it was applied universally; if I want to log into my university email, I need to use 2FA. If I want to check my grades, 2FA. If I want to see my schedule, 2FA. If I want to apply for scholarships, you guessed it, 2FA. There&amp;rsquo;s also no return policy on it either.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>A Retrospection on University</title><link rel="alternate" href="gemini://milddermatographia.com/post/university-retrospective/"/>
+    <id>gemini://milddermatographia.com/post/university-retrospective/</id>
+    <published>2021-01-23T17:31:07-0600</published>
+    <updated>2021-01-23T17:31:07-0600</updated>
+    <summary>I graduated from my Mechanical Engineering and Computer Science program last December. A month later, I&amp;rsquo;m in some bizarre purgatory where I spend my days applying for jobs, flicking through streaming services, and slowly rotting away from the inside. Seeing as I might actually spontaneously combust if I don&amp;rsquo;t do something to keep my brain active, here&amp;rsquo;s some thoughts on my university experience. I&amp;rsquo;m sure this will be followed up with belligerent posts on topics outside my expertise, as per internet convention.</summary>
+  </entry>
+  
+  
+</feed>

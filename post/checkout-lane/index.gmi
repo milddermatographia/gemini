@@ -1,0 +1,59 @@
+# German Grocery Store Checkout Lanes are The Best
+
+
+
+I spent a few months in Germany and quickly grew to love their grocery stores.
+Coming back to Canada felt like I'd stepped into a bizarre, incompetent dystopia.
+Allow me to set the scene.
+
+You just finished filling your cart at Aldi/Lidl.
+You have your produce, your meats, your diary, and maybe a Käsebrötchen or Brezel from the cute little dispenser machine as a reward for shopping.
+You get to the back of the line and find yourself at the checkout lane in the blink of an eye.
+You place your items on the conveyor belt, begin frantically packing your items into your cart as the sour-faced middle-aged woman virtually throws your items at you, then pay after wiping the sweat from your brow.
+The whole payment and packaging experience is done in -5 minutes.
+
+Now you're back in Canada, and have your cart full of much of the same.
+You get to the back of the line and wait.
+And wait.
+And wait.
+You wonder what's taking so long and look to the cash register.
+Someone is standing, watching the cashier scan their items.
+They pay, **then** they begin bagging their items and putting them in the cart.
+Still a few more people in line.
+You fall asleep.
+Finally, someone nudges you; it's your turn.
+You put your items on the belt.
+The employee is working at a reasonable pace, and you have your items bagged and in the cart by the time they've scanned the nastolgia pretzel.
+
+What makes the experience so much more streamlined in Germany than in Canada?
+Checkout design.
+Behold my brilliant ascii art.
+
+Here is a German conveyor belt:
+
+begin ================== cashier == end
+
+Here is a Canadian conveyor belt:
+
+begin ================== cashier ==================== end
+
+In Germany, the section of the checkout after the cashier is super short; there's only space for a few items, so you're forced to load as they scan.
+Contrast that to in Canada where, if all your items fit on the belt before the cashier, then they'll fit on the belt afterwards.
+Human laziness kicks in, and so people wait until everything is scanned and paid for before bagging and loading their stuff.
+That, or they don't know any better.
+Either way, I'm excited to be back in a country that does grocery shopping properly.
+
+
+---
+16 July 2021.
+
+
+## Related articles
+
+=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day: <no value>
+=> /post/murphy/index.gmi Beating Murphy: <no value>
+=> /post/bears/index.gmi Bears! An Incomplete Mini D&D Adventure: <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/checkout-lane/ View this article on the WWW

@@ -1,0 +1,230 @@
+# Shit Gab.com Says
+
+
+
+Apologies in advance for the large images; I was too lazy to add HTML content in my markdown files.
+
+---
+
+## What Is Gab.com?
+
+Gab.com is, in their own words,
+
+> A social network that champions free speech, individual liberty and the free flow of information online. All are welcome.
+
+It recieved its first major publicity in 2018 after it was found that the Pittsburgh synagogue shooter had posted a message on Gab beforehand indicating his intent.
+In January 2021, it was one of many websites used to organize the US Capitol storming (others include Parler, TheDonald.win, Telegram, etc.).
+Finally, Gab has become a large platform for public figures who have been kicked off of Twitter, Youtube and friends, such as Donald Trump, Michael Flynn, and Steve Bannon.
+They were kicked off for inciting the Capitol Hill Riots, encouraging Trump to use martial law to overturn election results, and calling for the decapitation of Dr. Anthony Fauci, respectively.
+
+---
+
+## Shit Gab Says
+
+Behold, my stuff.
+I figured I'd add some commentary to counter the nonsense, but feel free to skip everything between the images if you just want that sweet sweet stupid.
+
+---
+
+## Bill Gates Likes Poop
+
+Let's start things off reaaaaal light:
+
+=> /img/gab-bill-gates-poop.jpg Embedded Image: /img/gab-bill-gates-poop.jpg
+
+Turns out Bill Gates has a poop fetish.
+Checks out, otherwise how could he have possibly become so successful?
+I did a tiny bit of digging into this, since of course people on the internet won't present a story with any kind of goodwill.
+
+Back in 2015, Bill Gates drank water which had gone through a machine called the Janicki Omni Processor (JOP) in Dakar, Senegal.
+This machine intakes human waste and turns it into drinking water, electricity, and ash.
+The motive, as per the GatesNotes.com article [10] detailing the Omni Processor, isn't to provide water, but rather improve sanitation conditions in poor countries around the world, as apparently 2 billion people use latrines which aren't properly drained; the infrastructure we use for sanitation just isn't affordable in their countries.
+The hope is that, by making theses machines sufficiently inexpensive and accessible, sanitation conditions will improve, and as a result reduce the prevalence of diseases which kill around 700,000 children per year.
+
+In the end, what Bill Gates claims to be doing doesn't matter, because we all know that he really likes the taste of poop.
+Yummy.
+
+---
+
+## Masks, Huh, What Are They Good For?
+
+=> /img/gab-immune-system.jpg Embedded Image: /img/gab-immune-system.jpg
+
+The number of people who don't realize *why* we're wearing masks is staggering.
+No surprise they congregate to Gab.
+
+For those who may have forgotten, here [11] is a refresher from the CDC.
+Long story short, a mask kinda protects you from immediately inhaling droplets in the surrounding air.
+It's not a perfect solution, because those droplets can still get on your clothing, your skin, your hands, etc., from where they can then be inhaled if you touch your mouth (or plenty of other surfaces around you, and then your mouth).
+Masks protect everyone else from you, since they greatly reduce the number of droplets you're putting into the air.
+If everyone is wearing a mask, then everyone is contributing a lot less droplets to the atmosphere, and thus making everyone else less likely to get covid.
+What if you're young and will likely survive getting covid?
+Cool, but the issue isn't that you'll get covid, have a cold, and then be fine.
+It's that too many people will get covid and, while few will have severe, medical-attention-requiring symptoms, it's still enough people that hospitals will be over capacity and will need to start deciding who [12] lives [13] and [14] who [15] dies [16].
+It's not about individual resistance to covid, it's about health systems not being able to keep up with the number of people with covid at a given time.
+
+---
+
+## Showing Your Work in Math is White Supremacy
+
+The following post was made on Gab Trends:
+
+=> /img/gab-math-white-supremacy.jpg Embedded Image: /img/gab-math-white-supremacy.jpg
+
+This one definitely piqued my curiousity, so I did more digging.
+It's been a while since I read through their "strides", available on equitablemath.org [17], but my conclusion was kind of mixed.
+I can oversimplify and reduce the presented points into two subjective categories:
+
+* This is a good idea regardless of race
+* This is a good idea with regard to race
+
+The former category has a lot of really good ideas that everyone can benefit from.
+For example, removing state learning standards.
+I'm sure there's a ton of debate over this, with both pros and cons, but I can see how setting a standard, alongside a standardized examination, results in teachers ensuring that students perform well on the test and meet the standard, instead of focusing on understanding and mastery of the topic.
+Another really great example is how schools emphasize procedural fluency over conceptual knowledge; essentially, we teach students how to execute an equation or solve a specific problem instead of helping them understand the roots of that equation.
+This happened a lot during my engineering degree.
+We were presented with an equation and told to use it.
+With no understanding of where it came from/how it was derived, it had no meaning.
+When we did derive equations to their final form, they made much more sense and had more meaning; you could look at each part of an equation and "see" its significance.
+
+In the second category, there is the recommendation to encourage students of colour to explore fields in which they are under-represented, such as STEM.
+Another is reclaiming scientific achievements which were stolen from people of color; the book *Hidden Figures* by Margot Lee Shetterly explores 50 such figures from the Langley Memorial Aeronautical Laboratory from 1943 to 1980 alone.
+If we look adjacent to people of colour, this has happened time and time again with women, from Jocelyn Bell Burnell with the first pulsar to Rosalind Franklin with DNA.
+
+I had some trouble seeing how the opposite of many of the ideas presented were racist; for example, how are state standards racist?
+They're arguably not great, but what makes them racist?
+Maybe the publishers of the guides wanted to make more of a splash and so tacked on racism as a catch-all.
+At the risk of falling into an appeal to authority fallacy, the collaborators for the project include directors of professional learning, teachers, program coordinators, and beyond.
+I don't doubt that there is underlying logic I'm not aware of.
+I just wish they had done a bit of a better job of explaining their logic to a casual reader such as myself.
+
+Anyhoo, that's my take on the Gab Trends post.
+What about Gab users themselves?
+
+=> /img/gab-math-white-supremacy-comments.jpg Embedded Image: /img/gab-math-white-supremacy-comments.jpg
+
+Juicy.
+Credit where credit is due; TextDriversAreKillers *does* present some factual truths, such as black americans coming last in standardized testing, "only" having peace, literature, and economics, and there only being three black chess grandmasters.
+That said, I don't think they took the time to really consider possible reasons *why* they perform worse, or have less Nobel Prizes, etc.
+The first point they present is pretty good proof of this; they claim that, since black americans perform poorly on standardized tests but asian americans do well, it's not due to cultural bias in the tests.
+All that really shows, however, is that standardized testing is not biases against *all* non-white ethnic groups.
+It could still be biases towards a few.
+
+There are some alternative explanations for why black americans perform worse. Just off the top of my head: household income, parenting style, friend groups, etc.
+For example, the working paper "Investigating Test Prep Impact on Score Gains Using Quasi-Experimental Propensity Score Matching" by the ACT found that hiring a private tutor improved standardized test scores on a second test when compared to other preparatory routes (no tutor).
+Private tutors cost money, so if you're strapping (and black americans disproportionately are), then you're less likely to be able to afford the tutelage which will help you score better.
+It doesn't take a lot of effort to see that there are other possible explanations beyond "black people are mentally inferior".
+Yet that's right where TextDriversAreKillers went.
+
+---
+
+## Why is it Always the Jews?
+
+I feel like it's almost a (sad) meme that this point that, if something happens, Jews will get blamed for it.
+Naturally:
+
+=> /img/gab-karl-marx.jpg Embedded Image: /img/gab-karl-marx.jpg
+
+I didn't know enough about Marx and Engels to rebutte or agree with the basic premise of the clearly incredibly intellectual commentors, so once more I grabbed my digital shovel.
+Turns out, Marx's heritage is Jewish, but his father joined the Evangelical Church of Prussia and took a German forename in place of his original Yiddish one.
+Marx was baptised into the Lutheran Church, but became a Protestant.
+Engels, on the other hand, was raised a Protestant.
+
+This smidge of research opened my eyes to 2 things:
+
+* Some people take issue with the Jewish ethnic group, not Judaism as a religion (okay, more likely they hate both)
+* Some people just want to blame the Jews for everything, even when the people they're blaming aren't Jewish
+
+---
+
+## Christian Unite! Nevermind
+
+The founder of Gab, Andrew Torba, posted the following well-meaning post:
+
+=> /img/gab-christians-unite.jpg Embedded Image: /img/gab-christians-unite.jpg
+
+Combatdad162 brought up a really good point:
+
+=> /img/gab-christians-unite-damn-left.jpg Embedded Image: /img/gab-christians-unite-damn-left.jpg
+
+Of course, the left is causing all the division in the States.
+If all the minorities and leftists just went away, there would be perfect cohesion.
+
+=> /img/gab-christians-unite-not.jpg Embedded Image: /img/gab-christians-unite-not.jpg
+
+Damn leftists, how did they get into our website and sow division between Christians?
+The comments are beautiful to behold.
+
+---
+
+## Joe Biden Ruined America
+
+An image is worth at least a word:
+
+=> /img/gab-biden-ruined-america.jpg Embedded Image: /img/gab-biden-ruined-america.jpg
+
+Lets dive into the claims here.
+According to wikipedia, the power grid falter was caused in part by inadequately winterized [18] natural gas [19] equipment (and yes, solar and wind power, although those provide a minute percentage of megawatt hours compared to natural gas and coal).
+The second factor was the isolation of Texas' power grid [20] from the two major national grids in order to avoid federal oversight.
+Considering that Texas has suffered such power failures in 2011 and there were similar massive cold events going back to the eighties, it seems like continuously poor decision-making from some people in the Texas State government, not a guy who has been president for around three weeks at the time, was responsible for the outages.
+
+Biden had presented a general covid plan during the 2020 elections [21], which included encouraging universal masking, investing 25 billion in vaccine production and distribution, protecting vulnerable populations, etc.
+Some of these points are fairly high-level; how exactly will he protect vulnerable populations?
+No clue, but I get the impression that it's tough to give an incredibly concrete plan until you're in office and aware of all the variables that are at play.
+At the very least, partial points.
+
+According to tradingeconomics.com [22], full time employment has steadily been climbing back from the massive slump at the beginning of 2020.
+Arguably, this is good for both Biden *and* Trump!
+
+Some of the points have a kernel of truth to them; Biden promised 2000 dollars during the election, then made the 2000 include the 600 already given.
+The airforce base was not US, but rather an Iraqi base hosting US troops.
+Technically, I don't think there has been a formal military response (whether that is a good thing, on the other hand, could be debated).
+Biden froze the bill that would limit insuline prices, but only because he froze every bill which was pending, in order to review them before proceeding.
+
+Some things are just factually true.
+In response to what is happening to the Uyghur and in Hong Kong, he *did* indeed say that "culturally, there are different norms".
+And he is indeed a dictator ruling by executive order.
+Just kidding.
+Or am I?
+
+---
+
+## What Is Gab.com? V2
+
+I'd like to conclude that Gab.com is the ultimate internet cesspool.
+It is a guillible quagmire devoid of critical thinking, or any thinking for that matter.
+Its users cannot distinguish correlation and causation.
+They are not consistent in their treatement of "their people" and the opposition.
+They regularily post content which can be proven to be false with the most cursory of searches.
+Just like the dumb fucks who still believe that vaccines cause autism [23] despite years of studies contradicting this and the study results being falsified, Gab users create their own realities and cover their ears so they can't hear your vile communist filth.
+
+---
+
+## Gab, Reddit, and Social Media as a Whole
+
+People say a lot of shit on Gab.
+A lot of shit which can be fact-checked in about 3 seconds flat.
+While much of what is above is clearly ludicrous, I realize I've seen the exact same thing play out on Reddit, although to a (significantly) lesser extent.
+For example, when Trump was president, users would blame him for an event, even though he has no control over it (state-level stuff, for example).
+While lots of people on Gab are absolute batshit bonkers (looking at you, Jewish Space Laser [24] MTG), Reddit isn't free of jumping to conclusions and placing blame where none belongs.
+Equally, Gab has subcommunities dedicated to certain topics like Linux and fitness which are more focused; most of the scum revolves around political subcommunities and the front page, as it does with Reddit as well.
+
+I have mixed feelings about websites like Gab.
+I think that the idea of a free speech website is kind of cool, and it's unfortunate that it's mainly populated by people who seem like they'd get banned on other websites, creating what looks like a fairly homogenous experience.
+
+Comparing Gab more thoroughly to other social media platforms is a topic for another time.
+
+
+---
+24 April 2021.
+
+
+## Related articles
+
+=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day: <no value>
+=> /post/murphy/index.gmi Beating Murphy: <no value>
+=> /post/bears/index.gmi Bears! An Incomplete Mini D&D Adventure: <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/gab/ View this article on the WWW

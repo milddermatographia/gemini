@@ -1,0 +1,24 @@
+# My Student Housing is Blocking Ports
+
+
+
+I've moved into student housing at my grad school, and immediately noticed I wasn't able to synchronize notes with, or even navigate, my Nextcloud instance.
+I wasn't really sure what was going on, but using the VPN I had from travel allowed me to access it, so I chalked it up to Nextcloud using some obscure port to transfer files and communicate with their mobile and browser applications.
+When I tried pulling repos or pushing changes using SSH without the VPN enabled, however, those didn't work either.
+I'm no internet expert, but port 22 is used pretty often, and this *is* a technical/engineering oriented university, so I'm surprised their student housing would block such an essential port for development.
+I guess I'm just keeping my VPN subscription until the end of my degree.
+
+
+---
+6 September 2021.
+
+
+## Related articles
+
+=> /post/still-alive/index.gmi I'm Still Alive!: <no value>
+=> /post/alien/index.gmi I dream of Aliens: <no value>
+=> /post/wide-shoes-2/index.gmi Wide Shoes: The Resolvening: <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/port-blocking/ View this article on the WWW

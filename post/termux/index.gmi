@@ -1,0 +1,25 @@
+# Termux and Android
+
+
+
+As I previously mentioned, I recently picked up an Android tablet.
+While I found a way of doing remote work using JupyterLab and "The Cloud", I wanted a way to develop locally (or at least, update this blog).
+For my purposed, Termux is working pretty darn well.
+I'm currently sitting in the airport writing this (as well as the Alien and Murphy articles, apologies for their lack of refinement) using Neovim, generating HTML files with Hugo, and syncing to Github with Git.
+This workflow works like a dream.
+I don't doubt that Termux might fall short for actual-software-engineering-level projects, but for just goofing around like I usually do, it's more than good enough.
+
+
+---
+1 September 2021.
+
+
+## Related articles
+
+=> /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene: <no value>
+=> /post/ddg-google/index.gmi Duck Duck Go > Google: <no value>
+=> /post/onenote/index.gmi Modern OneNote is Designed to Lock You In: <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/termux/ View this article on the WWW

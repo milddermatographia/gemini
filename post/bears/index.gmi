@@ -1,0 +1,25 @@
+# Bears! An Incomplete Mini D&D Adventure
+
+
+
+I wrote a mini adventure while in Waterton Lakes National Park for the long car ride home.
+I don't think I'll have time to fully flesh out the areas, build maps, etc., but I figure'd I'd put it up in case someone wants something to build off of.
+I can send the LaTeX source if anyone is interested (`milddermatographia@gmail.com`) in editing it.
+The template came from here [1].
+
+Bears! (1.6MB) [2]
+
+
+---
+17 August 2021.
+
+
+## Related articles
+
+=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day: <no value>
+=> /post/murphy/index.gmi Beating Murphy: <no value>
+=> /post/equal-rites/index.gmi Review: Equal Rites (Discworld): <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/bears/ View this article on the WWW

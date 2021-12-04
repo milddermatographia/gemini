@@ -1,0 +1,24 @@
+# Wanting to love Arch and SwayWM
+
+
+
+I originally wrote a long post about transitioning back from Arch to Ubuntu and how slow everything feels in comparison.
+I then reinstalled Arch and SwayWM, and couldn't get Firefox to use Wayland, no matter where I placed `MOZ_ENABLE_WAYLAND=1` or `export MOZ_ENABLE_WAYLAND=1`.
+XWayland programs were a blurry mess.
+I had managed to get everything working the first time around (sort of), but this time, no amount of DDG or Googling could work it out.
+I'm feeling less bad about going back to Ubuntu (again) now.
+
+
+---
+20 February 2021.
+
+
+## Related articles
+
+=> /post/termux/index.gmi Termux and Android: <no value>
+=> /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene: <no value>
+=> /post/ddg-google/index.gmi Duck Duck Go > Google: <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/arch-linux/ View this article on the WWW

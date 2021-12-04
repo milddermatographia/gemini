@@ -1,0 +1,70 @@
+# Two-Factor Authentication and Digital Hygiene
+
+
+
+I've written about my dislike of TFA on phones before [1], although then, it was more of a rant than anything.
+This is an attempt at putting down my thoughts in a more coherent manner.
+
+## Healthy Habits and Consumption vs Production Devices
+
+Digital Hygiene is the idea of having healthy computing habits, just like we do in real life.
+The emphasis of this phrasing, however, is mainly on securing your devices and accounts; keeping your software up-to-date, making backups, using TFA (ha), creating secure passwords, and so forth.
+While this is important, I think there's a second kind of digital hygiene that is of massive importance: adopting habits when interacting with technology that are healthy for **you as an individual**, not just healthy for your devices.
+
+Looking at the real world, how do we stay healthy?
+We exercise.
+Eat clean.
+Get enough sleep.
+Brush our teeth.
+Wash regularily.
+etc., etc.
+All of these involve habitual activities, things we must do regularily for them to work as effectively as possible and maximize our health (of course, anything can be overdone, but the risk here is likely underdoing them for most).
+
+Just as the goal of regular hygiene is to keep your body and mind working at their best via real-world habits, the goal of (my deliberate misuse of) digital hygiene is to keep your body and mind working at their best via digital habits.
+What habits constitute positive contributors to digital hygiene?
+Minimizing screen time in the evening, since it's hard on our eyes and winds up our brains, delaying sleep.
+Avoid doomscrolling, as it can have a negative impact on our mood.
+Minimize time spent on social media, positive or not, since, while it may feel good at the time, often (for me) leads to feelings of regret or self-flagellation, and lost time on other endeavors.
+
+One of the most effective methods I've found of ensuring my behavior is healthy is separating my consumption and my production devices.
+My laptop runs Linux (distro depends on the time of day, really) and isn't very strong; I can program, I can write this blog, but I can't play video games.
+I could hypothetically still watch Youtube videos or visit Reddit or Hacker News, but I mainly don't, because there's somewhere better for that: my phone.
+
+I'm not sure what the science or theories behind this are, but my smart phone (not that specifying smart is necessary in this day and age) is infinitely more convenient for consuming media.
+Maybe it's because it's always on.
+Maybe it's one-tap-to-access apps vs typing an address into the address bar.
+Maybe it's the simplified UI.
+Idunno.
+Whatever explanation, I find it much easier to start consuming on my phone, and keep consuming.
+That's why the distinction between a consumption and production device is so nice; when on my laptop, I don't feel the itch (much) to goof off, while if I'm on my phone, or even near it, I'm compulsively opening Reddit, closing it, then opening Hacker News, then closing it, then opening Reddit, ad infinitum.
+
+## Two-Factor Authentication Breaks Digital Hygiene
+
+Part of my solution for maintaining my appropriation of digital hygiene is to keep my phone in my room on a separate floor when working on my laptop.
+It reduces the temptation to use it to 0, and keeps the amount of shinanigans I get into on my laptop to a minimum.
+Two-Factor Authentication which uses a phone app, however, breaks this separation, and forces me to keep my phone nearby.
+It attempts to turn it from a consumption device into a production one, and fails miserably, because making me grab a code from my phone doesn't change its fundamental usage, which is to consume low quality, time wasting drivel.
+
+## Better Two-Factor Authentication
+
+Something I've conveniently avoided so far is that TFA doesn't need to use your phone.
+TFA can use your desktop, or a hardware token like a YubiKey, or even biometric data like fingerprints.
+Each has their own downsides; desktop-based TFA is on the same device you're logging on with, so if someone has your laptop, they have your TFA device.
+Hardware tokens can get lost and also hypothetically stolen (although if you have a fingerprint based hardware token, them stealing the key shouldn't help as much).
+Biometric data-based authentication isn't available everywhere.
+That said, I need to take the time to weigh their strengths and weaknesses properly to determine if any are a suitable substitute for my phone, because by golly do I hate using my phone for TFA.
+
+
+---
+15 August 2021.
+
+
+## Related articles
+
+=> /post/still-alive/index.gmi I'm Still Alive!: <no value>
+=> /post/port-blocking/index.gmi My Student Housing is Blocking Ports: <no value>
+=> /post/termux/index.gmi Termux and Android: <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/tfa-2/ View this article on the WWW
