@@ -58,6 +58,11 @@ That said, I need to take the time to weigh their strengths and weaknesses prope
 ---
 15 August 2021.
 
+## References
+ 
+ => https://milddermatographia.com/two-factor-authentication/ [1] before (https://milddermatographia.com/two-factor-authentication/)
+
+
 
 ## Related articles
 

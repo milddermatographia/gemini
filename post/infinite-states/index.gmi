@@ -44,6 +44,10 @@ True and false are binary states; are there alternative states a sentence can po
 ---
 11 April 2021.
 
+## References
+ 
+
+
 
 ## Related articles
 
