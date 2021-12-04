@@ -60,9 +60,9 @@ I've forgotten a lot of them already, so I'll update this list as they come back
 
 ## Related articles
 
+=> /post/food-switzerland/index.gmi Food Prices in Switzerland: <no value>
 => /post/still-alive/index.gmi I'm Still Alive!: <no value>
 => /post/port-blocking/index.gmi My Student Housing is Blocking Ports: <no value>
-=> /post/alien/index.gmi I dream of Aliens: <no value>
 ---
 
 => / Back to the Index

@@ -6,6 +6,7 @@ Slightly Irritating
 
 ### 2021
 
+=> gemini://milddermatographia.com/post/food-switzerland/index.gmi 2021/12/04 - Food Prices in Switzerland
 => gemini://milddermatographia.com/post/gemini-theme/index.gmi 2021/12/04 - New Theme and Gemini!
 => gemini://milddermatographia.com/post/hikes/index.gmi 2021/11/21 - [Living] Hikes
 => gemini://milddermatographia.com/post/broken-clock/index.gmi 2021/11/17 - A Broken Clock Isn't Right Twice a Day
