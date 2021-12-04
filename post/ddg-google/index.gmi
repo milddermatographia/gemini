@@ -28,9 +28,9 @@ Beyond the actual experience of using each search engine, Google is a pretty scu
 
 ## Related articles
 
+=> /post/gemini/index.gmi New Theme and Gemini!: <no value>
 => /post/termux/index.gmi Termux and Android: <no value>
 => /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene: <no value>
-=> /post/washroom-stalls/index.gmi Washroom Stalls in North America Suck: <no value>
 ---
 
 => / Back to the Index

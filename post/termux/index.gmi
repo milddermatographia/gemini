@@ -20,9 +20,9 @@ I don't doubt that Termux might fall short for actual-software-engineering-level
 
 ## Related articles
 
+=> /post/gemini/index.gmi New Theme and Gemini!: <no value>
 => /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene: <no value>
 => /post/ddg-google/index.gmi Duck Duck Go > Google: <no value>
-=> /post/onenote/index.gmi Modern OneNote is Designed to Lock You In: <no value>
 ---
 
 => / Back to the Index
