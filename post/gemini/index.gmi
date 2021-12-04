@@ -1,0 +1,42 @@
+# New Theme and Gemini!
+
+
+
+Continuing my procrastination streak, I finally got this website up and running using Gemini [1].
+Since this blog is made with Hugo, and I have no desire to dig around in it's internals, I used the amberterm [2] theme by Michael Clemens [3] and messed around with the color scheme to make it light.
+I then followed this guide [4] by LandChad to set up the agate [5] Gemini server.
+Finally, I set up nginx and certbot on the same Vultr instance (since 3.50 a month is pretty hard to beat) for the HTML version of the website.
+I used a few different sources to piece together how to do the latter, but the gist of it was:
+
+* Point your domain to Vultr's DNS [6]
+* Install cerbot and nginx on an Arch Linux node
+* Open the /etc/nginx/nginx.conf file, replace the server_name with your website url (in my case, milddermatographia.com)
+* Run certbot using certbot --nginx --redirect -d milddermatographia.com -m youremailhere --agree-tos
+* If automatic renewal isn't set (see here [7]), then maybe the guide [8] I used will help
+* Place your content in /usr/share/nginx/html (I ran into issues putting it somewhere else, and there's nothing critical on here, so I didn't bother troubleshooting)
+* systemctl enable nginx, systemclt start nginx, and you're good to go
+
+Now when I make changes, I push the html and gemini output of hugo to two repos, sign into my Vultr instance, and pull both repos down into their respective directories.
+It's not the most efficient thing in the world, but I'm just happy to have it working at all.
+
+
+---
+4 December 2021.
+
+## References
+ 
+ => https://gemini.circumlunar.space [1] Gemini (https://gemini.circumlunar.space)
+ => https://git.qrz.is/clemens/amberterm [2] amberterm (https://git.qrz.is/clemens/amberterm)
+ => https://qrz.is/about/ [3] Michael Clemens (https://qrz.is/about/)
+ => https://landchad.net/gemini [4] this guide (https://landchad.net/gemini)
+ => https://github.com/mbrubeck/agate [5] agate (https://github.com/mbrubeck/agate)
+ => https://www.vultr.com/docs/introduction-to-vultr-dns [6] DNS (https://www.vultr.com/docs/introduction-to-vultr-dns)
+ => https://www.vultr.com/docs/setup-letsencrypt-on-linux [7] here (https://www.vultr.com/docs/setup-letsencrypt-on-linux)
+ => https://myshell.co.uk/blog/2017/02/lets-encrypt-with-nginx-and-systemd-timers-for-renewal/ [8] guide (https://myshell.co.uk/blog/2017/02/lets-encrypt-with-nginx-and-systemd-timers-for-renewal/)
+
+
+
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/gemini/ View this article on the WWW
