@@ -48,9 +48,9 @@ I hate wasting so much time waiting for another pair of shoes to come in, only f
 
 ## Related articles
 
+=> /post/all-music-sucks/index.gmi All Music Sucks: <no value>
 => /post/food-switzerland/index.gmi Food Prices in Switzerland: <no value>
 => /post/still-alive/index.gmi I'm Still Alive!: <no value>
-=> /post/port-blocking/index.gmi My Student Housing is Blocking Ports: <no value>
 ---
 
 => / Back to the Index

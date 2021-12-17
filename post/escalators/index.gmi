@@ -55,9 +55,9 @@ Please, Walk Down the Escalator [3]
 
 ## Related articles
 
+=> /post/all-music-sucks/index.gmi All Music Sucks: <no value>
 => /post/washroom-stalls/index.gmi Washroom Stalls in North America Suck: <no value>
 => /post/wide-shoes/index.gmi Wide Shoes: <no value>
-=> /post/ddg-google/index.gmi Duck Duck Go > Google: <no value>
 ---
 
 => / Back to the Index

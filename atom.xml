@@ -2,12 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Mild Dermatographia</title><link rel="self" type="application/atom+xml" href="https://milddermatographia.com/"/>
   <link rel="alternate" type="text/html" href="gemini://milddermatographia.com/"/>
-  <updated>2021-12-04T19:46:25+0100</updated>
+  <updated>2021-12-17T00:17:03-0500</updated>
   <author>
     <name><no value></name>
     <uri>gemini://milddermatographia.com/</uri>
   </author>
   <id>https://milddermatographia.com/</id>
+  
+  
+  <entry>
+    <title>All Music Sucks</title><link rel="alternate" href="gemini://milddermatographia.com/post/all-music-sucks/"/>
+    <id>gemini://milddermatographia.com/post/all-music-sucks/</id>
+    <published>2021-12-17T00:17:03-0500</published>
+    <updated>2021-12-17T00:17:03-0500</updated>
+    <summary>I feel like I&amp;rsquo;ve become disillusioned with music in the last month. No matter what I listened to, it just made me irrationally angry. About 3 weeks ago, I deleted my Spotify account and didn&amp;rsquo;t listen to anything for about 2 weeks. Creating a new account and coming back to music, I find I&amp;rsquo;m still not happy with anything I find. I figured I&amp;rsquo;d direct my frustration towards this pointless rant about how some genres of music are stupid.</summary>
+  </entry>
+  
   
   
   <entry>
