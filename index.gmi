@@ -6,6 +6,7 @@ Slightly Irritating
 
 ### 2021
 
+=> gemini://milddermatographia.com/post/saved-articles-2/index.gmi 2021/12/23 - My Saved Articles 2
 => gemini://milddermatographia.com/post/vanessa-hudgens/index.gmi 2021/12/20 - Review: The Princess Switch 2: Switched Again
 => gemini://milddermatographia.com/post/all-music-sucks/index.gmi 2021/12/17 - All Music Sucks
 => gemini://milddermatographia.com/post/food-switzerland/index.gmi 2021/12/04 - Food Prices in Switzerland
@@ -29,7 +30,7 @@ Slightly Irritating
 => gemini://milddermatographia.com/post/bicycle/index.gmi 2021/07/16 - You're Riding Your Bike Wrong
 => gemini://milddermatographia.com/post/checkout-lane/index.gmi 2021/07/16 - German Grocery Store Checkout Lanes are The Best
 => gemini://milddermatographia.com/post/military-kid/index.gmi 2021/07/16 - Fallout of Being a Military Brat
-=> gemini://milddermatographia.com/post/saved-posts/index.gmi 2021/07/07 - My Saved Articles
+=> gemini://milddermatographia.com/post/saved-articles/index.gmi 2021/07/07 - My Saved Articles
 => gemini://milddermatographia.com/post/ddg-google/index.gmi 2021/07/04 - Duck Duck Go > Google
 => gemini://milddermatographia.com/post/gris/index.gmi 2021/07/04 - Siege of Gris
 => gemini://milddermatographia.com/post/empathy/index.gmi 2021/06/29 - Empathy

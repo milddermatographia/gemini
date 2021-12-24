@@ -1,0 +1,218 @@
+# My Saved Articles 2
+
+
+
+Well, it's been a few months, so here's a new list of articles I've found and saved since the previous post [1].
+I've tried to keep the structure the same as before, minus the author names because of laziness.
+Once more, my standout articles are above the `...`, while everything else is below it, unless the entire category is unsorted.
+It's been a few months since I've read some of these articles, so the descriptions may be less than precise on occassion, sorry in advance!
+
+If you click on a link and find that it's dead, send me an email at `milddermatographia@gmail.com`, and I can send you a raw HTML copy; it won't work well for articles that rely on images heavily, but better than nothing, I suppose.
+If you try clicking on a link that has (Gemini [81] #77 #47 #38 #36 #19 #2) beside it, click that link to find out about Gemini :)
+
+## Programming/Engineering/Robotics
+
+Educational content with code snippets, workflows, concrete recommendations, etc.
+
+* Do Low-level Optimizations Matter? [3] - Explores optimizing sorting algorithms and the use of a swap-if function.
+* 14,000x Speedup a.k.a. Computer Science For the Win [4] - Simple-ish example of how knowledge of computer science theory can massively improve performance compared to a naive approach.
+* Speeding up atan2f by 50x [5] - More of the same, technical explanation of how to optimize the atan2f function.
+* What scientists must know about hardware to write fast code [6] - Super in-depth notebook on useful hardware knowledge. I still haven't this fully, saving it for a rainy day.
+* ...
+* The Whitworth Three Plates Method [7] - How smooth surfaces are made using less smooth surfaces.
+* This is How Science Happens [8] - Great summary of controversy in the methodology of a scientific paper.
+* No, a supercomputer won’t make your code run faster [9] - More of a micro-rant than an informative article, but a reminder to take a look at why your code may be slow before throwing more hardware at the problem.
+* Some reasons to measure [10] - Why benchmarking in important.
+* What is the copy-and-swap idiom? [11] - Self-explanatory.
+* What is Move Semantics? [12] - Ditto.
+* Technical blogs worth reading [13] - A big 'ol list of blogs.
+* Creating and serving gemini capsules [14] - What I used to get this blog up and serving gemposts.
+
+## Software/Science and Society
+
+* ... (unsorted category)
+* The Internet Is A Potemkin Village: Proof Of Dead Internet Theory? [15] - Maybe the internet isn't as large as we think it is.
+* Four Horsemen of the Infocalypse [16] - Common scapegoats for eroding privacy and anonymity.
+* Police to begin regular, warrant-free searches of homes for child abuse material [17] - Speaking of... an analogy for Apple's CSAM detection attempt.
+* Keeping Infrastructure Free [18] (Gemini [81] #77 #47 #38 #36 #19 #2) - Counter-argument to mega-corps paying open-source developers.
+* A privacy war is raging in W3C [20] - Details the conflicts in the W3C consortium between advertisement companies trying to push either overtly hostile measures or make consessions to keep some tracking, and everyone else.
+* I critiqued my past papers on social media — here’s what I learnt [21] - Author touches lightly on how publically criticising their work went, and then transtions to talking about the importance of critiquing our own academic work.
+* Hollywood’s Secret Weapon: DRM [22] - Why DRM is bad.
+* Why I Wrote PGP [23] - Philip Zimmermann on why he wrote PGP.
+* The PGP Problem [24] - Definitely miscategorized, but placed here due to the above article. A big list of technical issues with PGP.
+* The Real Benefits Of Staying Off Social Media [25] - Title.
+* Is internet addiction eradicating the habit of reading? [26] - No spoilers here.
+
+## Society
+
+* Schelling fences on slippery slopes [27] - Slippery slopes are themselves slippery slopes; how can we make decisions without invoking a comparison to and potentially risk this all-too-common, yet ofetn valid criticism?
+* Why Afghan Forces So Quickly Laid Down Their Arms [28] - Very informative article on Afghan society and how it relates to their surrending to the Taliban.
+* The Shadowy Business of International Education [29] - "Foreign students are lied to and exploited on every front. They’re also propping up higher education as we know it".
+* Review: Progress and Poverty [30] - A book review which explores how poverty can continue to exist when such massive strides are made.
+* Our Self-Imposed Scarcity of Nice Places [31] - We could have more nice places, but give up once we see rich people move in first.
+* Crush Point [32] - What causes casualties in crowds, how companies ignore the issues and blame those who participate, and how to solve the issue.
+* How The Birth of the Influencer Led to the Death of Hobbies [33] - Individuals are less likely to pursue hobbies for the sake of self-satisfaction, when they might feel the pressure to do what gains the approval of others.
+* There is a reason why famous people are often screwed up [34] - Great retrospective by Tim Minchin on how fame messes with your head.
+* Against Economics [35] (Gemini [81] #77 #47 #38 #36 #19 #2) - Copy-Pasta of a David Graeber article on why economics is bullshit.
+* Winners Take All: The Elite Charade of Changing the World by Anand Giridharadas [37] (Gemini [81] #77 #47 #38 #36 #19 #2) - Rich people donating money after they're already rich is bullshit.
+* ... (these are all great, the last one is just because it's been forever since I've read it).
+* Does capital at home matter more than capital at school? Social capital effects on academic achievement [39] - How social capital at home and at school influence academic achievement.
+
+## Misc/Other
+
+Fantasy, butterflies, pyramid schemes, deadly sausages, pepsi fighter jets, and more.
+
+* False Hydra [40] - One of the most terrifying RPG creatures.
+* On Thud and Blunder [41] - Hilarious article on dumb tropes and bullshit in high-fantasy novels.
+* Tucker's Kobolds [42] - Kobolds can be scary if you play them right.
+* The Gradual Extinction of Softness by Chantha Nguon with Kim Green [43] - The author's harrowing experience around the time of the Khmer Rouge.
+* Please, Walk Down the Escalator [44] - Article I found while writing my own escalator piece.
+* What do you do after winning the lottery? [45] - It's not all fun and games; you're likely screwed.
+* I'm an alcoholic, it's hard, and for some reason this capsule is the only place I've ever wanted to write about it [46] (Gemini [81] #77 #47 #38 #36 #19 #2) - Very insightful for someone with no exposure to alcoholism.
+* ...
+* William Shatner Describes His Experience in Space [48] - Shatner has a way with words.
+* On leaving California and the Silicon Valley [49] - Critique of the bay area.
+* Please, enough with the dead butterflies! [50] - Most people are illustrating butterflies wrong.
+* Who Owns My Name? [51] - Article written by Amanda Knox about her experience.
+* One Bad Apple [52] - Technical and legal issues with Apple's CSAM proposal.
+* Better Than Free [53] - The internet is a copying machine, and that's a good thing.
+* Quality and Effort [54] - A good system can work wonders to reduce errors.
+* The time Pepsi got sued for a $33m fighter jet [55] - The title says it all.
+* The Rise and Fall of Albania's Pyramid Schemes [56] - Wow, just wow.
+* gail.com [57] - gail.com.
+* Burning out and quitting [58] - The author's experience with burnout.
+* My Tungsten Cube [59] - An article about owning a Tungsten cube. I don't what I'm doing with my life at this point.
+* Gombe Chimpanzee War [60] - Donkey Kong v Donkey Kong.
+* Ask HN: Favorite Blogs by Individuals? [61] - A list of HNers favorite blogs.
+* 2006: Dwarf Fortress [62] - History of Dwarf Fortress.
+* Working From Orbit [63] - Author works in VR, gives tons of details on their setup and how it goes.
+* We're Hiring [64] - Humour/parody piece on software culture.
+* Last Exit From The Secret Sea [65] - Escaping from a flooding cave deep underground.
+* Telling time in the deep sea [66] - How animals track time where the sun don't shine.
+* Fingerprints are Usernames, not Passwords [67] - Fingerprints shouldn't be enough to log in by themselves.
+* The World’s Deadliest Thing [68] - From sausages to botox.
+* Aspen 20 – The SR-71 Blackbird Groundspeed Story [69] - Fun little story about flexing while in a Blackbird.
+* Why do dieters regain weight? [70] - Calorie deprivation alters body and mind, overwhelming willpower.
+* Hard worldbuilding vs soft worldbuilding, a study of Studio Ghibli (video) [71] - Very insightful for someone who may have tried going a bit too much on the hard side for my own good.
+
+## Life Advice and Productivity
+
+* ... (unsorted category)
+* Your Idea Is Brilliant, Your Idea Is Worthless [72] - Ideas aren't worth anything until they're implemented.
+* Don't Call Yourself A Programmer, And Other Career Advice [73] - Title says it all.
+* Scattered Thoughts on Why I Waste My Own Time [74] - Top shelf theory, junk food, attention span, lack of evidence, and more. Very relatable.
+* Staying warm and safe this winter (advice from a Canadian) [75] - I live in a cold climate and still learned some things.
+* I Never Lend People Money [76] (Gemini [81] #77 #47 #38 #36 #19 #2) - Debt obligations shift relationships, it should never be anything but a gift.
+
+
+## Blogs, Small Web and Critiquing the Modern One
+
+* ... (unsorted category)
+* You should write blogs [78] - Self-explanatory.
+* The Melancholy of Subculture Society [79] - Subcultures give a degree of freedom that monocultures can't, and more.
+* Gemini and the Joy of Niche-ness [80] (Gemini [81] #77 #47 #38 #36 #19 #2) - Small spaces are nice sometimes :)
+
+
+## Dead Links
+
+* None this time! For now.
+
+
+---
+23 December 2021.
+
+## References
+ 
+ => https://milddermatographia.com/post/saved-posts/ [1] post (https://milddermatographia.com/post/saved-posts/)
+ => https://gemini.circumlunar.space/ [2] Gemini (https://gemini.circumlunar.space/)
+ => https://cantrip.org/sortfast.html [3] Do Low-level Optimizations Matter? (https://cantrip.org/sortfast.html)
+ => http://james.hiebert.name/blog/work/2015/09/14/CS-FTW.html [4] 14,000x Speedup a.k.a. Computer Science For the Win (http://james.hiebert.name/blog/work/2015/09/14/CS-FTW.html)
+ => https://mazzo.li/posts/vectorized-atan2.html [5] Speeding up atan2f by 50x (https://mazzo.li/posts/vectorized-atan2.html)
+ => https://viralinstruction.com/posts/hardware/ [6] What scientists must know about hardware to write fast code (https://viralinstruction.com/posts/hardware/)
+ => https://ericweinhoffer.com/blog/2017/7/30/the-whitworth-three-plates-method [7] The Whitworth Three Plates Method (https://ericweinhoffer.com/blog/2017/7/30/the-whitworth-three-plates-method)
+ => https://www.hillelwayne.com/post/this-is-how-science-happens/ [8] This is How Science Happens (https://www.hillelwayne.com/post/this-is-how-science-happens/)
+ => https://lemire.me/blog/2017/12/11/no-a-supercomputer-wont-make-your-code-run-faster/ [9] No, a supercomputer won’t make your code run faster (https://lemire.me/blog/2017/12/11/no-a-supercomputer-wont-make-your-code-run-faster/)
+ => https://danluu.com/why-benchmark/ [10] Some reasons to measure (https://danluu.com/why-benchmark/)
+ => https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom [11] What is the copy-and-swap idiom? (https://stackoverflow.com/questions/3279543/what-is-the-copy-and-swap-idiom)
+ => https://stackoverflow.com/questions/3106110/what-is-move-semantics [12] What is Move Semantics? (https://stackoverflow.com/questions/3106110/what-is-move-semantics)
+ => https://web.eecs.utk.edu/~azh/blog/favblogs.html [13] Technical blogs worth reading (https://web.eecs.utk.edu/~azh/blog/favblogs.html)
+ => https://landchad.net/gemini [14] Creating and serving gemini capsules (https://landchad.net/gemini)
+ => https://forum.agoraroad.com/index.php?threads/the-internet-is-a-potemkin-village-proof-of-dead-internet-theory.3554/ [15] The Internet Is A Potemkin Village: Proof Of Dead Internet Theory? (https://forum.agoraroad.com/index.php?threads/the-internet-is-a-potemkin-village-proof-of-dead-internet-theory.3554/)
+ => https://en.m.wikipedia.org/wiki/Four_Horsemen_of_the_Infocalypse [16] Four Horsemen of the Infocalypse (https://en.m.wikipedia.org/wiki/Four_Horsemen_of_the_Infocalypse)
+ => https://drewdevault.com/2021/08/10/Apple-CSAM-scanning.html [17] Police to begin regular, warrant-free searches of homes for child abuse material (https://drewdevault.com/2021/08/10/Apple-CSAM-scanning.html)
+ => gemini://idiomdrottning.org/keep-infrastructure-free [18] Keeping Infrastructure Free (gemini://idiomdrottning.org/keep-infrastructure-free)
+ => https://gemini.circumlunar.space/ [19] Gemini (https://gemini.circumlunar.space/)
+ => https://www.protocol.com/policy/w3c-privacy-war [20] A privacy war is raging in W3C (https://www.protocol.com/policy/w3c-privacy-war)
+ => https://www.nature.com/articles/d41586-021-01879-y [21] I critiqued my past papers on social media — here’s what I learnt (https://www.nature.com/articles/d41586-021-01879-y)
+ => https://rosenzweig.io/blog/hollywoods-secret-weapon.html [22] Hollywood’s Secret Weapon: DRM (https://rosenzweig.io/blog/hollywoods-secret-weapon.html)
+ => https://philzimmermann.com/EN/essays/WhyIWrotePGP.html [23] Why I Wrote PGP (https://philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+ => https://latacora.micro.blog/2019/07/16/the-pgp-problem.html [24] The PGP Problem (https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)
+ => https://durmonski.com/life-advice/benefits-of-staying-off-social-media/ [25] The Real Benefits Of Staying Off Social Media (https://durmonski.com/life-advice/benefits-of-staying-off-social-media/)
+ => https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/ [26] Is internet addiction eradicating the habit of reading? (https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/)
+ => https://www.lesswrong.com/posts/Kbm6QnJv9dgWsPHQP/schelling-fences-on-slippery-slopes [27] Schelling fences on slippery slopes (https://www.lesswrong.com/posts/Kbm6QnJv9dgWsPHQP/schelling-fences-on-slippery-slopes)
+ => https://www.politico.com/news/magazine/2021/08/16/afghanistan-history-taliban-collapse-504977 [28] Why Afghan Forces So Quickly Laid Down Their Arms (https://www.politico.com/news/magazine/2021/08/16/afghanistan-history-taliban-collapse-504977)
+ => https://thewalrus.ca/the-shadowy-business-of-international-education/ [29] The Shadowy Business of International Education (https://thewalrus.ca/the-shadowy-business-of-international-education/)
+ => https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty [30] Review: Progress and Poverty (https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty)
+ => https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places [31] Our Self-Imposed Scarcity of Nice Places (https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places)
+ => https://www.newyorker.com/magazine/2011/02/07/crush-point [32] Crush Point (https://www.newyorker.com/magazine/2011/02/07/crush-point)
+ => https://medium.com/swlh/how-the-birth-of-the-influencer-led-to-the-death-of-hobbies-ac8cfbd1f0f9 [33] How The Birth of the Influencer Led to the Death of Hobbies (https://medium.com/swlh/how-the-birth-of-the-influencer-led-to-the-death-of-hobbies-ac8cfbd1f0f9)
+ => https://www.theguardian.com/stage/2021/oct/09/there-is-a-reason-why-famous-people-are-often-screwed-up-tim-minchin-on-quitting-comedy [34] There is a reason why famous people are often screwed up (https://www.theguardian.com/stage/2021/oct/09/there-is-a-reason-why-famous-people-are-often-screwed-up-tim-minchin-on-quitting-comedy)
+ => gemini://beyondneolithic.life/graeber_archive/against_economics/index.gmi [35] Against Economics (gemini://beyondneolithic.life/graeber_archive/against_economics/index.gmi)
+ => https://gemini.circumlunar.space/ [36] Gemini (https://gemini.circumlunar.space/)
+ => gemini://pennywhether.xyz/articles/winners-take-all.gmi [37] Winners Take All: The Elite Charade of Changing the World by Anand Giridharadas (gemini://pennywhether.xyz/articles/winners-take-all.gmi)
+ => https://gemini.circumlunar.space/ [38] Gemini (https://gemini.circumlunar.space/)
+ => https://www.sciencedirect.com/science/article/abs/pii/S027656241200042X?via%3Dihub [39] Does capital at home matter more than capital at school? Social capital effects on academic achievement (https://www.sciencedirect.com/science/article/abs/pii/S027656241200042X?via%3Dihub)
+ => http://goblinpunch.blogspot.com/2014/09/false-hydra.html?m=1 [40] False Hydra (http://goblinpunch.blogspot.com/2014/09/false-hydra.html?m=1)
+ => https://www.sfwa.org/2005/01/04/on-thud-and-blunder/ [41] On Thud and Blunder (https://www.sfwa.org/2005/01/04/on-thud-and-blunder/)
+ => https://dungeonmaster.academy/articles/tuckers-kobolds [42] Tucker's Kobolds (https://dungeonmaster.academy/articles/tuckers-kobolds)
+ => https://hippocampusmagazine.com/2021/11/the-gradual-extinction-of-softness-by-chantha-nguon-with-kim-green/ [43] The Gradual Extinction of Softness by Chantha Nguon with Kim Green (https://hippocampusmagazine.com/2021/11/the-gradual-extinction-of-softness-by-chantha-nguon-with-kim-green/)
+ => https://www.gawker.com/please-walk-down-the-escalator-507496613 [44] Please, Walk Down the Escalator (https://www.gawker.com/please-walk-down-the-escalator-507496613)
+ => https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf/ [45] What do you do after winning the lottery? (https://old.reddit.com/r/AskReddit/comments/24vzgl/you_just_won_a_656_million_dollar_lottery_what_do/chba4bf/)
+ => gemini://beyondneolithic.life/posts/alcoholism_is_hard_work.gmi [46] I'm an alcoholic, it's hard, and for some reason this capsule is the only place I've ever wanted to write about it (gemini://beyondneolithic.life/posts/alcoholism_is_hard_work.gmi)
+ => https://gemini.circumlunar.space/ [47] Gemini (https://gemini.circumlunar.space/)
+ => https://cosmicperspective.com/william-shatner-overview-effect-ns18/ [48] William Shatner Describes His Experience in Space (https://cosmicperspective.com/william-shatner-overview-effect-ns18/)
+ => https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/ [49] On leaving California and the Silicon Valley (https://bartwronski.com/2021/06/28/on-leaving-california-and-the-silicon-valley/)
+ => https://www.emilydamstra.com/please-enough-dead-butterflies/ [50] Please, enough with the dead butterflies! (https://www.emilydamstra.com/please-enough-dead-butterflies/)
+ => https://amandamarieknox.medium.com/who-owns-my-name-93561f83e502 [51] Who Owns My Name? (https://amandamarieknox.medium.com/who-owns-my-name-93561f83e502)
+ => https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html [52] One Bad Apple (https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html)
+ => https://kk.org/thetechnium/better-than-fre/ [53] Better Than Free (https://kk.org/thetechnium/better-than-fre/)
+ => https://seths.blog/2018/11/quality-and-effort/ [54] Quality and Effort (https://seths.blog/2018/11/quality-and-effort/)
+ => https://thehustle.co/leonard-v-pepsi-harrier-jet-lawsuit/?amp [55] The time Pepsi got sued for a $33m fighter jet (https://thehustle.co/leonard-v-pepsi-harrier-jet-lawsuit/?amp)
+ => https://www.imf.org/external/pubs/ft/fandd/2000/03/jarvis.htm [56] The Rise and Fall of Albania's Pyramid Schemes (https://www.imf.org/external/pubs/ft/fandd/2000/03/jarvis.htm)
+ => https://gail.com/ [57] gail.com (https://gail.com/)
+ => https://mayakaczorowski.com/blogs/burnout [58] Burning out and quitting (https://mayakaczorowski.com/blogs/burnout)
+ => https://thume.ca/2019/03/03/my-tungsten-cube/ [59] My Tungsten Cube (https://thume.ca/2019/03/03/my-tungsten-cube/)
+ => https://en.m.wikipedia.org/wiki/Gombe_Chimpanzee_War [60] Gombe Chimpanzee War (https://en.m.wikipedia.org/wiki/Gombe_Chimpanzee_War)
+ => https://news.ycombinator.com/item?id=27302195 [61] Ask HN: Favorite Blogs by Individuals? (https://news.ycombinator.com/item?id=27302195)
+ => https://if50.substack.com/p/2006-dwarf-fortress [62] 2006: Dwarf Fortress (https://if50.substack.com/p/2006-dwarf-fortress)
+ => https://blog.immersed.team/working-from-orbit-39bf95a6d385 [63] Working From Orbit (https://blog.immersed.team/working-from-orbit-39bf95a6d385)
+ => https://imgz.org/blog/2020/12/23/haha-suckers/ [64] We're Hiring (https://imgz.org/blog/2020/12/23/haha-suckers/)
+ => https://www.base-mag.com/last-exit-from-the-secret-sea-caving-exploration-veryovnika/ [65] Last Exit From The Secret Sea (https://www.base-mag.com/last-exit-from-the-secret-sea-caving-exploration-veryovnika/)
+ => https://oceanbites.org/telling-time-in-the-deep-sea/ [66] Telling time in the deep sea (https://oceanbites.org/telling-time-in-the-deep-sea/)
+ => https://blog.dustinkirkland.com/2013/10/fingerprints-are-user-names-not.html?m=1 [67] Fingerprints are Usernames, not Passwords (https://blog.dustinkirkland.com/2013/10/fingerprints-are-user-names-not.html?m=1)
+ => https://www.the-angry-chef.com/blog/the-worlds-deadliest-thing [68] The World’s Deadliest Thing (https://www.the-angry-chef.com/blog/the-worlds-deadliest-thing)
+ => http://b.johnwurth.com/aspen-20/ [69] Aspen 20 – The SR-71 Blackbird Groundspeed Story (http://b.johnwurth.com/aspen-20/)
+ => https://www.apa.org/science/about/psa/2018/05/calorie-deprivation# [70] Why do dieters regain weight? (https://www.apa.org/science/about/psa/2018/05/calorie-deprivation#)
+ => https://www.youtube.com/watch?app=desktop&v=gcyrrTud3x4 [71] Hard worldbuilding vs soft worldbuilding, a study of Studio Ghibli (video) (https://www.youtube.com/watch?app=desktop&v=gcyrrTud3x4)
+ => https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/ [72] Your Idea Is Brilliant, Your Idea Is Worthless (https://stonemaiergames.com/kickstarter-lesson-204-your-idea-is-brilliant-your-idea-is-worthless/)
+ => https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/ [73] Don't Call Yourself A Programmer, And Other Career Advice (https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+ => https://mbuffett.com/posts/wasting_time/ [74] Scattered Thoughts on Why I Waste My Own Time (https://mbuffett.com/posts/wasting_time/)
+ => https://www.reddit.com/r/LifeProTips/comments/3u9el0/lpt_staying_warm_and_safe_this_winter_advice_from/ [75] Staying warm and safe this winter (advice from a Canadian) (https://www.reddit.com/r/LifeProTips/comments/3u9el0/lpt_staying_warm_and_safe_this_winter_advice_from/)
+ => gemini://warmedal.se/~bjorn/posts/2021-12-08-i-never-lend-people-money.gmi [76] I Never Lend People Money (gemini://warmedal.se/~bjorn/posts/2021-12-08-i-never-lend-people-money.gmi)
+ => https://gemini.circumlunar.space/ [77] Gemini (https://gemini.circumlunar.space/)
+ => https://sites.google.com/site/steveyegge2/you-should-write-blogs [78] You should write blogs (https://sites.google.com/site/steveyegge2/you-should-write-blogs)
+ => https://www.gwern.net/The-Melancholy-of-Subculture-Society [79] The Melancholy of Subculture Society (https://www.gwern.net/The-Melancholy-of-Subculture-Society)
+ => gemini://pennywhether.xyz/articles/gemini-nicheness.gmi [80] Gemini and the Joy of Niche-ness (gemini://pennywhether.xyz/articles/gemini-nicheness.gmi)
+ => https://gemini.circumlunar.space/ [81] Gemini (https://gemini.circumlunar.space/)
+
+
+
+## Related articles
+
+=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again: <no value>
+=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day: <no value>
+=> /post/murphy/index.gmi Beating Murphy: <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/saved-articles-2/ View this article on the WWW

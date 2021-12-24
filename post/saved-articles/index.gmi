@@ -1,0 +1,241 @@
+# My Saved Articles
+
+
+
+I posted a while ago [1] that I have a Git repo with all my saved web content.
+I figured I'd compile a list of the articles I've kept since starting my little archive, alongside a quick (probably not accurate) description of each.
+I've organized the content of each category with my favorites/must-reads of each above the `...` and everything else below, each subset in no particular order.
+~~I'll hopefully remember to keep this up to date as I add save more content.~~
+I won't add to this post, since it'll be impossible to determine what was added when if looking for new content.
+I'll make a V2 if anything in a few months.
+
+## Programming/Engineering/Robotics
+
+Educational content with code snippets, workflows, concrete recommendations, etc.
+
+* `...` (unsorted category)
+* How I'm able to take notes in mathematics lectures using LaTeX and Vim [2] - The most in-depth, fancy-pants note-taking setup I've ever seen.
+* Tips for hobby embedded development beginners - Eldruin's Blog [3] - A big list of recommended hardware for someone starting in embedded development.
+* Sparse Matrices - Matt Eding [4] - Good intro to what sparse matrices are and the various ways of representing them.
+* Adding copyright notices to papers - Bastian Rieck [5] - Literally how to add a copyright notice to a LaTeX document in a nice way.
+* Is this a branch - Bart Wronski [6] - Branches and "if" statements aren't necessarily to be avoided, with code examples and diagrams.
+* How I cut GTA Online loading times by 70% - T0ST [7] - Reverse engineering GTA V source code, then finding an operation which should be `O(n)`, but was implemented in `O(n^2)` by using a poorly designed function in a library (at least I think, I'm not an expert with time complexity analysis).
+* It Can Happen to You [8] - Someone else following up on the GTA story and finding a similar bug in their 3D viewer.
+* Computer Latency - Dan Luu [9] - A study of how, despite massive increases in raw computing power, input latency has (in general) gone up since the 80s. Goes over the challenges associated with lowering latency, and describes the iOS rendering pipeline.
+* An introduction to lockless algorithms - Paolo Bonzini [10] - Can't describe this because I still don't get it.
+* Surprisingly Slow - Gregory Szorc [11] - Relatively deep dive into what makes build systems, terminal writing, thermal throttling, interpreter startup, and storage I/O (amongst others) slow.
+* Donald B. Gillies Lecture: Dr. Michael Stonebraker [12] - Youtube video, professor discussing how the field of Database study/design has fallen from grace.
+* Poisson's Equation is the Most Powerful Tool not yet in your Toolbox - matt Ferraro [13] - Understanding and using Poisson's Equation.
+* Open problems in Robotics - Scott Locklin [14] - Big list of big problems in robotics.
+* Grand Challenges of Robotics - Shuby [15] - (Another) big list of big problems in robotics.
+* Getting started in Robotics - Allshire [16] - Big list of everything to take a peek at/study, as well as resources.
+
+## Software and Society
+
+* On the fact that the Atlantic Ocean has two sides - E.W. Dijkstra [17] - Dijkstra (yes, that one!) breaks down the differences between how Computer Science is treated in Europe vs the USA.
+* Advertising is a cancer on society - Jacek Złydach [18] - Big ol list and breakdown of how advertising is terrible.
+* Please Commit More Blatant Academic Fraud - Jacob Buckman [19] - Recently brought to light academic fraud, and a call for idiots/system abusers to keep doing it in obvious ways so that readers think twice before taking the info in an AI paper for granted. Not exactly software specific, but couldn't think of a better spot for it.
+* Youtubers have to declare ads. Why doesn't anyone else? - Tom Scott [20] - A Youtube video, goes into the legality behind why movies don't need to announce when they have product placements, but Youtube content does (spoiler alert, it's bullshit). 30 minutes, worth the watch, especially if unfamiliar with the issue.
+* `...`
+* Why most Hacktoberfest PRs are from India - Pulkit Sharma [21] - An enlightening article describing how massive competition in India results in many students doing anything necessary to get a leg up.
+* People expect technology to suck - kilobitspersecond [22] - People often put up with unecessary, easily fixable software pain points because they expect technology to suck.
+* How and why I stopped buying new laptops - Low Tech Magazine [23] - New devices are bad for the environment and in many cases, more powerful than you need. Give life to old electronics, save yourself money and the environment some landfill.
+* Faut-il réguler Internet? - La Quadrature du Net [24] (Part 2 [25]) - Article en Francais :) Discute l'économie de l'attention, les platformes décentralisées, et le cas pour la régulation de l'Internet.
+* Don't Let Social Media Think For You - DisgustinglyOptimistic [26] - Uses a recent online controversy to reinforce thinking for yourself intead of following the black-and-white online mob.
+* Why did I leave Google or why did I stay so long - Noam Bardin [27] - Lot of reasons, including entitlement from tech workers ("sushi? again?"), lack of connection between compensation and effort, poor signal-to-noise ratio.
+* I Cut the 'Big Five' Tech Giants From My Life. It Was Hell - Kashmir Hill [28] - It's basically impossible to stop using all their services.
+* WhatsApp and the domestication of users - Rohan Kumar [29] - WhatsApp and well-meaning open companies like Signal and Mozilla end up penning in their users to their platforms.
+* GitHub, f*ck your name change. - MooseyAnon [30] - Github changed the Main branch from Master to Main, but does jack all to address the real inequality and racism problems in the world and in their company.
+* 5G: The outsourced elephant in the room - berthub [31] - How Huwaei has become a large part of the European telecom network, repercussions, and what to do about it. Considering Canada was potentially shafted out of becoming Silicon Valley North thanks to Nortel's collapse, relevant.
+
+## Society
+
+* Meditations on Moloch - Slate Star Codex [32] - An absolute must read about how humanity is ever on a downwards spiral in a pointless winner-less competition.
+* The Toxoplasma of Rage - Slate Star Codex [33] -  What do PETA, rape cases, police brutality, Tumblr, and caterpillars have in common? CONTROVERSY.
+* “The Only Moral Abortion is My Abortion” - Joyce Arthur [34] - The article which finally convinced me to write Empathy [35]; people are happy to set ridiculous double standards when they're personally involved. A collection of anecdotes from patients and doctors alike.
+* America’s Dead Souls - Molly McGhee [36] - An unfuriating and gut-wrenching anecdote on predatory debt-collectors preying on the vulnerable relatives of the newly deceased
+* How knitters got knotted in a purity spiral - UnHerd [37] - Moral outbidding corrodes communities from within, great read.
+* In Praise of Idleness - Bertrand Russell [38] - Another incredibly dense article I can't do justice summarizing. Read it.
+* `...`
+* New Atheism: The Godlessness That Failed - Slate Star Codex [39] - Atheism is no longer the cool counter-culture.
+* Hating men is a freeing form of hostility - Grzmot [40] - I can't articulate my thoughts on the discussion surrounding this Tildes post, I recommend reading it and the comments, and developing your own take.
+* We are not prisoners of groupthink [41] - Social media companies place us in content bubbles to maximize engagement through outrage. A call to action to ditch toxic social media platforms.
+* Compensation as a Reflection of Values - Bryan Cantrill [42] - Oxide Computer pays all their employees the same amount.
+* Efficiency is the Enemy - fs [43] - Efficiency removes slack and without slack, the system falls apart once outside the established margins.
+* Just be Rich - Keenen Charles [44] - A rebuttal of Paul Graham's claims about quality of life improvments.
+* New threats to an old problem: The pandemic has made 'brain drain' even worse - Bianca Bharti [45] - Canadian companies underpay their prospective educated employees, then wonder why they can't hire anyone.
+* The New York Times - Robert Rhinehart [46] - Big news companies subvert the truth to meet their agendas and no longer represent bastions of truth or freedom of speech, independant journalists do. Also, write!
+* In Defense of Substack - Matt Taibbi [47] - A refutal of critiques of Substack, and critique of traditional media platforms, namely how newspapers are now going beyond presenting raw information, and are instead trying to convince the reader of the correct stance to take on the information they're being given.
+
+## Misc/Other
+
+Dothraki, Michael Scott, Philosophy, Satire, SpongeBob, and all kinds of other stuff I really should sort.
+
+* Collections: That Dothraki Horde, Part I: Barbarian Couture - A Collection of Unmitigated Pedantry [48] - A delectable critique of A Song of Ice and Fire's Dothraki culture, specifically their clothing.
+* The Gervais Principle, Or The Office According to “The Office” - Ribbonfarm [49] - Mindblowing depiction of the modern workplace (and society) divided into three tiers: the losers, the clueless, and the sociopaths.
+* Why Explore Space? [50] - Letter by director of science at NASA about the value exploring space provides when questioned as to how they can spend so much money "frivilously"
+* The Protagonist Problem - Ada Palmer and Jo Walton [51] - Excellent article. More and more recently, media portrays massive success as the efforts of individuals. This has an impact on how we perceive ourselves and others.
+* Writing Women Characters as Human Beings - Kate Elliot [52] - Following hot on the heels of the above article, many authors (men and women) struggle to write women, treating them as some kind of "other". Long story short, write them like human beings! Worth reading.
+* `...`
+* Old Man Henderson [53] - Curse of Cthulu story about the greatest PC to ever live.
+* Is Your Son a Computer hacker? - T Reginald Gibbons [54] - Satirical piece on a parent afraid of what computer hacking will do to their child.
+* Adamson & Low: Treasure Out of the Bog - nrhiller [55] - The story of a massive 5000 year old Black Oak tree converted into a table.
+* What Does Any of This Have To Do with Physics? - Bob Henderson [56] - Bob Henderson reflects on their grad school experience in physics and the challenges they faced, excellent long essay/story.
+* The Michael Scott Theory of Social Class - Alex Danco [57] - Same as the last in premise, different execution.
+* The Animal is tired - Robin Hobb [58] - Beautiful, short reflective piece on how we treat our bodies.
+* Another scam paper published in a “scientific” journal - Why Evolution is True [59] - Hilarious story of a ludicrous fake scientific paper which was published to a predatory journal.
+* LinkedIn's Alternative Universe - Fadeke Adegbuyi [60] - Hilarious article about how LinkedIn tries to be hip, cool, and more than just a place to add random people to your artificially constrained network.
+* How can you not be romantic about programming? - Thorsten Ball [61] - A love letter to programming.
+* HN: the good parts - Dan Luu [62] - A compilation of high-quality HackerNews comments, from technical content to workplace culture to society.
+* Fertility - Femfo [63] - Advice to freeze your eggs from a veteran startup veteran.
+* The Problem of Other Minds: The Aesthetic Solution - Michael LaBossiere [64] - Discusses Discartes, Wandavision, and the authors own logic for the existence of others.
+* The Continuing Decline of Popular Music - Andrew Syrios [65] - After taking a quick look at history, Brittney Spears is destined to become a classic.
+* Now that's what I call a Hacker - Alex Yumashev [66] - Short look at the legacy of a true hacker (mainly, scripts to automate weird things).
+* Why Would Anyone Choose to Live in A Cold Climate - Uncle Guido [67] - Exactly.
+* Making Your Own Tools - Future of Coding [68] - Interview with 100 rabbits co-creator Devine Lu Linvega about creating all the tools they use.
+* Principle of explosion [69] - Any statement can be determined to be true with this :D
+* A New Era for Mechanical CAD - Jessie Frazelle [70] - A call to action to move from outdated CAD kernels and concepts, and omdernize, with some examples.
+* I will be moving to the Netherlands - Drew DeVault [71] - Drew's values don't align with those of the US, and so they're leaving. I identify with this one, as my struggle is whether to go to the states and rack in a large salary, but have most people around me live in poverty and one accident away from bankrupcy, or live somewhere whose values I align more with.
+* Rise of the Star [72] - Super dark comic series about SpongeBob SquarePants.
+* What Real People Say about Their Computers - Cheapskate's Guide [73] - Professional reviews are BS because they haven't spent a significant amount of time with their devices. Here's a list of real long term reviews from people!
+* Instagram Has Becomme SkyMall - Clive Thompson [74]
+
+## Life Advice and Productivity
+
+* `...` (unsorted category)
+* HR is not your friend, and other things I think you should know [75] - Just yes.
+* A Few Rules - Morgan Housel [76] - Some unspoken rules to live by, such as *The person who tells the most compelling story wins. Not the best idea. Just the story that catches people’s attention and gets them to nod their heads*.
+* 100 Tips for a Better Life - Ideopunk [77] - Big list of ideas to keep in mind, from adding *reddit* to the end of a product review search to get actual opinions (that is, until companies start shilling hard on it), how often to get up while working, to things to watch out for in others. A bit of everything. Maybe some truisms?
+* The days are long but the decades are short - Sam Altman [78] - Another list of ideas to consider in life, some simple, some deeper.
+* Productivity Porn - Mike Crittenden [79] - Optimizing our workflows is a hobby, not something that pays dividends.
+* Where to Start Research - Aceso Under Glass [80] - We do our best research when we're starting with a question, not the goal of mastering a field of study.
+* The Definitive Guide to Dopamine Fasting 2.0: The Hot Silicon Valley Trend - Cameron Sepah [81] - A strategy for reducing technology addiction.
+
+
+## Blogs, Small Web and Critiquing the Modern One
+
+* `...` (unsorted category)
+* Hunting the Nearly-Invisible Personal Website - Cheapskatesguide [82] - Animal Planet-esque description of trying to find personal blogs in a sea of SEO and social media platforms.
+* Favorite Sites & Blogs - Sweetings [83] - Sweeting's list of friend's, individual, and corporate blogs. I'll get around to exploring this eventually.
+* Ask HN: Favorite Blogs by Individuals? [84] - HN gives their favorite blogs.
+* The small web is beautiful - Ben Hoyt [85] - A mix of love letter and solid advice for making small, well optimized websites.
+* The internet has changed - sadgrl [86] - A short manifesto for bringing back a more creative, personalized web, as well as a ton of links to related content.
+* There's no place like the old internet - sadgrl [87] - Nastolgia for the way the internet used to be, fall of blogs, dangers of the modern web, SEO garbage, and SAAS.
+* The Dark Forest Theory of the Internet - Yancey Strickler [88] - Social media glows in the dark, while the small web lurks in the shadows.
+* Around the Web, RSS as a Facebook Alternative - Nicholas A. Ferrel [89] - Australia has (had?) plans to ban Facebook for news, this makes a case for using RSS as a substitute.
+* The Website Obesity Crisis - Idle Words [90] - Half humour, half investigation of how the modern web is bloated.
+* The Bullshit Web - Nick Heer [91] - Another slam piece on how bad the modern web is.
+
+## Dead Links
+
+* Reclaim Technology - Thomas Wang - **Removed from Medium.com**.
+
+
+---
+7 July 2021.
+
+## References
+ 
+ => https://milddermatographia.com/link-rot/ [1] a while ago (https://milddermatographia.com/link-rot/)
+ => https://castel.dev/post/lecture-notes-1/ [2] How I'm able to take notes in mathematics lectures using LaTeX and Vim (https://castel.dev/post/lecture-notes-1/)
+ => https://blog.eldruin.com/tips-hobby-embedded-development-beginners/ [3] Tips for hobby embedded development beginners - Eldruin's Blog (https://blog.eldruin.com/tips-hobby-embedded-development-beginners/)
+ => https://matteding.github.io/2019/04/25/sparse-matrices/ [4] Sparse Matrices - Matt Eding (https://matteding.github.io/2019/04/25/sparse-matrices/)
+ => https://bastian.rieck.me/blog/posts/2017/adding_copyright_notices/ [5] Adding copyright notices to papers - Bastian Rieck (https://bastian.rieck.me/blog/posts/2017/adding_copyright_notices/)
+ => https://bartwronski.com/2021/01/18/is-this-a-branch/ [6] Is this a branch - Bart Wronski (https://bartwronski.com/2021/01/18/is-this-a-branch/)
+ => https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/ [7] How I cut GTA Online loading times by 70% - T0ST (https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+ => https://www.mattkeeter.com/blog/2021-03-01-happen/ [8] It Can Happen to You (https://www.mattkeeter.com/blog/2021-03-01-happen/)
+ => https://danluu.com/input-lag/ [9] Computer Latency - Dan Luu (https://danluu.com/input-lag/)
+ => https://lwn.net/Articles/844224/ [10] An introduction to lockless algorithms - Paolo Bonzini (https://lwn.net/Articles/844224/)
+ => https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/ [11] Surprisingly Slow - Gregory Szorc (https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/)
+ => https://www.youtube.com/watch?app=desktop&t=853&v=DJFKl_5JTnA&feature=youtu.be [12] Donald B. Gillies Lecture: Dr. Michael Stonebraker (https://www.youtube.com/watch?app=desktop&t=853&v=DJFKl_5JTnA&feature=youtu.be)
+ => https://mattferraro.dev/posts/poissons-equation [13] Poisson's Equation is the Most Powerful Tool not yet in your Toolbox - matt Ferraro (https://mattferraro.dev/posts/poissons-equation)
+ => https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/ [14] Open problems in Robotics - Scott Locklin (https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/)
+ => https://shuby.de/blog/scitech/grand-challenges-of-robotics/ [15] Grand Challenges of Robotics - Shuby (https://shuby.de/blog/scitech/grand-challenges-of-robotics/)
+ => https://allshire.org/getting-started-robotics/ [16] Getting started in Robotics - Allshire (https://allshire.org/getting-started-robotics/)
+ => https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD611.html [17] On the fact that the Atlantic Ocean has two sides - E.W. Dijkstra (https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD611.html)
+ => http://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html [18] Advertising is a cancer on society - Jacek Złydach (http://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
+ => https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/ [19] Please Commit More Blatant Academic Fraud - Jacob Buckman (https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/)
+ => https://www.youtube.com/watch?app=desktop&v=L-x8DYTOv7w [20] Youtubers have to declare ads. Why doesn't anyone else? - Tom Scott (https://www.youtube.com/watch?app=desktop&v=L-x8DYTOv7w)
+ => https://pulkitsharma07.github.io/2020/10/02/hacktoberfest-india/ [21] Why most Hacktoberfest PRs are from India - Pulkit Sharma (https://pulkitsharma07.github.io/2020/10/02/hacktoberfest-india/)
+ => https://www.kilobitspersecond.com/2020/09/22/people-expect-technology-to-suck/ [22] People expect technology to suck - kilobitspersecond (https://www.kilobitspersecond.com/2020/09/22/people-expect-technology-to-suck/)
+ => https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops.html [23] How and why I stopped buying new laptops - Low Tech Magazine (https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops.html)
+ => https://www.laquadrature.net/2020/11/01/faut-il-reguler-internet-1/ [24] Faut-il réguler Internet? - La Quadrature du Net (https://www.laquadrature.net/2020/11/01/faut-il-reguler-internet-1/)
+ => https://www.laquadrature.net/2021/02/14/faut-il-reguler-internet-2-2/ [25] Part 2 (https://www.laquadrature.net/2021/02/14/faut-il-reguler-internet-2-2/)
+ => https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you [26] Don't Let Social Media Think For You - DisgustinglyOptimistic (https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you)
+ => https://paygo.ghost.io/why-did-i-leave-google-or-why-did-i-stay-so-long/ [27] Why did I leave Google or why did I stay so long - Noam Bardin (https://paygo.ghost.io/why-did-i-leave-google-or-why-did-i-stay-so-long/)
+ => https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194 [28] I Cut the 'Big Five' Tech Giants From My Life. It Was Hell - Kashmir Hill (https://gizmodo.com/i-cut-the-big-five-tech-giants-from-my-life-it-was-hel-1831304194)
+ => https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html [29] WhatsApp and the domestication of users - Rohan Kumar (https://seirdy.one/2021/01/27/whatsapp-and-the-domestication-of-users.html)
+ => https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe0 [30] GitHub, f*ck your name change. - MooseyAnon (https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe0)
+ => https://berthub.eu/articles/posts/5g-elephant-in-the-room/ [31] 5G: The outsourced elephant in the room - berthub (https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
+ => https://slatestarcodex.com/2014/07/30/meditations-on-moloch/ [32] Meditations on Moloch - Slate Star Codex (https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+ => https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/ [33] The Toxoplasma of Rage - Slate Star Codex (https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)
+ => https://joycearthur.com/abortion/the-only-moral-abortion-is-my-abortion/ [34] “The Only Moral Abortion is My Abortion” - Joyce Arthur (https://joycearthur.com/abortion/the-only-moral-abortion-is-my-abortion/)
+ => https://milddermatographia.com/empathy/ [35] Empathy (https://milddermatographia.com/empathy/)
+ => https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/ [36] America’s Dead Souls - Molly McGhee (https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/)
+ => https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/ [37] How knitters got knotted in a purity spiral - UnHerd (https://unherd.com/2020/01/cast-out-how-knitting-fell-into-a-purity-spiral/)
+ => https://harpers.org/archive/1932/10/in-praise-of-idleness/ [38] In Praise of Idleness - Bertrand Russell (https://harpers.org/archive/1932/10/in-praise-of-idleness/)
+ => https://slatestarcodex.com/2019/10/30/new-atheism-the-godlessness-that-failed/ [39] New Atheism: The Godlessness That Failed - Slate Star Codex (https://slatestarcodex.com/2019/10/30/new-atheism-the-godlessness-that-failed/)
+ => https://tildes.net/~life/tcr/hating_men_is_a_freeing_form_of_hostility [40] Hating men is a freeing form of hostility - Grzmot (https://tildes.net/~life/tcr/hating_men_is_a_freeing_form_of_hostility)
+ => https://www.obsessivefacts.com/blog/2020-07-10-we-are-not-prisoners-of-groupthink.html [41] We are not prisoners of groupthink (https://www.obsessivefacts.com/blog/2020-07-10-we-are-not-prisoners-of-groupthink.html)
+ => https://oxide.computer/blog/compensation-as-a-reflection-of-values [42] Compensation as a Reflection of Values - Bryan Cantrill (https://oxide.computer/blog/compensation-as-a-reflection-of-values)
+ => https://fs.blog/2021/05/slack/ [43] Efficiency is the Enemy - fs (https://fs.blog/2021/05/slack/)
+ => https://keenen.xyz/just-be-rich/ [44] Just be Rich - Keenen Charles (https://keenen.xyz/just-be-rich/)
+ => https://financialpost.com/news/economy/virtual-brain-drain-pandemic-immigration [45] New threats to an old problem: The pandemic has made 'brain drain' even worse - Bianca Bharti (https://financialpost.com/news/economy/virtual-brain-drain-pandemic-immigration)
+ => https://www.robrhinehart.com/the-new-york-times/ [46] The New York Times - Robert Rhinehart (https://www.robrhinehart.com/the-new-york-times/)
+ => https://taibbi.substack.com/p/in-defense-of-substack [47] In Defense of Substack - Matt Taibbi (https://taibbi.substack.com/p/in-defense-of-substack)
+ => https://acoup.blog/2020/12/04/collections-that-dothraki-horde-part-i-barbarian-couture/ [48] Collections: That Dothraki Horde, Part I: Barbarian Couture - A Collection of Unmitigated Pedantry (https://acoup.blog/2020/12/04/collections-that-dothraki-horde-part-i-barbarian-couture/)
+ => https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/ [49] The Gervais Principle, Or The Office According to “The Office” - Ribbonfarm (https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+ => https://lettersofnote.com/2012/08/06/why-explore-space/ [50] Why Explore Space? (https://lettersofnote.com/2012/08/06/why-explore-space/)
+ => https://uncannymagazine.com/article/the-protagonist-problem/ [51] The Protagonist Problem - Ada Palmer and Jo Walton (https://uncannymagazine.com/article/the-protagonist-problem/)
+ => https://www.tor.com/2015/03/04/writing-women-characters-as-human-beings/ [52] Writing Women Characters as Human Beings - Kate Elliot (https://www.tor.com/2015/03/04/writing-women-characters-as-human-beings/)
+ => https://1d4chan.org/wiki/Old_Man_Henderson [53] Old Man Henderson (https://1d4chan.org/wiki/Old_Man_Henderson)
+ => https://wh0rd.ca/humor/text/Adequacy_org%20%20Is%20Your%20Son%20a%20Computer%20Hacker.htm [54] Is Your Son a Computer hacker? - T Reginald Gibbons (https://wh0rd.ca/humor/text/Adequacy_org%20%20Is%20Your%20Son%20a%20Computer%20Hacker.htm)
+ => https://blog.lostartpress.com/2021/02/21/adamson-low-treasure-out-of-the-bog/ [55] Adamson & Low: Treasure Out of the Bog - nrhiller (https://blog.lostartpress.com/2021/02/21/adamson-low-treasure-out-of-the-bog/)
+ => https://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics [56] What Does Any of This Have To Do with Physics? - Bob Henderson (https://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
+ => https://danco.substack.com/p/the-michael-scott-theory-of-social [57] The Michael Scott Theory of Social Class - Alex Danco (https://danco.substack.com/p/the-michael-scott-theory-of-social)
+ => http://www.robinhobb.com/blog/posts/38429 [58] The Animal is tired - Robin Hobb (http://www.robinhobb.com/blog/posts/38429)
+ => https://whyevolutionistrue.com/2021/01/15/another-scam-paper-published-in-a-scientific-journal/ [59] Another scam paper published in a “scientific” journal - Why Evolution is True (https://whyevolutionistrue.com/2021/01/15/another-scam-paper-published-in-a-scientific-journal/)
+ => https://every.to/cybernaut/linkedins-alternate-universe-21780381-7883 [60] LinkedIn's Alternative Universe - Fadeke Adegbuyi (https://every.to/cybernaut/linkedins-alternate-universe-21780381-7883)
+ => https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/ [61] How can you not be romantic about programming? - Thorsten Ball (https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/)
+ => https://danluu.com/hn-comments/ [62] HN: the good parts - Dan Luu (https://danluu.com/hn-comments/)
+ => https://femfosec.com/fertility/ [63] Fertility - Femfo (https://femfosec.com/fertility/)
+ => http://aphilosopher.drmcl.com/2021/03/12/the-problem-of-other-minds-the-aesthetic-solution/ [64] The Problem of Other Minds: The Aesthetic Solution - Michael LaBossiere (http://aphilosopher.drmcl.com/2021/03/12/the-problem-of-other-minds-the-aesthetic-solution/)
+ => https://thoughtcatalog.com/andrew-syrios/2015/07/the-continuing-decline-of-popular-music/ [65] The Continuing Decline of Popular Music - Andrew Syrios (https://thoughtcatalog.com/andrew-syrios/2015/07/the-continuing-decline-of-popular-music/)
+ => https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/ [66] Now that's what I call a Hacker - Alex Yumashev (https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/)
+ => https://www.uncleguidosfacts.com/2013/11/why-would-anyone-choose-to-live-in-cold.html?m=1 [67] Why Would Anyone Choose to Live in A Cold Climate - Uncle Guido (https://www.uncleguidosfacts.com/2013/11/why-would-anyone-choose-to-live-in-cold.html?m=1)
+ => https://futureofcoding.org/episodes/044 [68] Making Your Own Tools - Future of Coding (https://futureofcoding.org/episodes/044)
+ => https://rationalwiki.org/wiki/Principle_of_explosion [69] Principle of explosion (https://rationalwiki.org/wiki/Principle_of_explosion)
+ => https://queue.acm.org/detail.cfm?id=3469844 [70] A New Era for Mechanical CAD - Jessie Frazelle (https://queue.acm.org/detail.cfm?id=3469844)
+ => https://drewdevault.com/2021/06/07/The-Netherlands.html [71] I will be moving to the Netherlands - Drew DeVault (https://drewdevault.com/2021/06/07/The-Netherlands.html)
+ => https://stillinthesimulation.com/untitled-comic/the-bikini-bottom-horror-chapter-1-rise-of-the-star/ [72] Rise of the Star (https://stillinthesimulation.com/untitled-comic/the-bikini-bottom-horror-chapter-1-rise-of-the-star/)
+ => https://cheapskatesguide.org/articles/personal-computer-stories.html [73] What Real People Say about Their Computers - Cheapskate's Guide (https://cheapskatesguide.org/articles/personal-computer-stories.html)
+ => https://debugger.medium.com/instagram-has-become-skymall-68b9f2fbbc30 [74] Instagram Has Becomme SkyMall - Clive Thompson (https://debugger.medium.com/instagram-has-become-skymall-68b9f2fbbc30)
+ => http://rachelbythebay.com/w/2021/01/17/woe/ [75] HR is not your friend, and other things I think you should know (http://rachelbythebay.com/w/2021/01/17/woe/)
+ => https://www.collaborativefund.com/blog/a-few-rules/ [76] A Few Rules - Morgan Housel (https://www.collaborativefund.com/blog/a-few-rules/)
+ => https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life [77] 100 Tips for a Better Life - Ideopunk (https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life)
+ => https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short [78] The days are long but the decades are short - Sam Altman (https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+ => https://critter.blog/2020/08/06/productivity-porn/ [79] Productivity Porn - Mike Crittenden (https://critter.blog/2020/08/06/productivity-porn/)
+ => https://acesounderglass.com/2020/06/09/where-to-start-research/ [80] Where to Start Research - Aceso Under Glass (https://acesounderglass.com/2020/06/09/where-to-start-research/)
+ => https://medium.com/swlh/dopamine-fasting-2-0-the-hot-silicon-valley-trend-7c4dc3ba2213 [81] The Definitive Guide to Dopamine Fasting 2.0: The Hot Silicon Valley Trend - Cameron Sepah (https://medium.com/swlh/dopamine-fasting-2-0-the-hot-silicon-valley-trend-7c4dc3ba2213)
+ => https://cheapskatesguide.org/articles/personal-website-hunting.html [82] Hunting the Nearly-Invisible Personal Website - Cheapskatesguide (https://cheapskatesguide.org/articles/personal-website-hunting.html)
+ => https://docs.sweeting.me/s/favorite-blogs# [83] Favorite Sites & Blogs - Sweetings (https://docs.sweeting.me/s/favorite-blogs#)
+ => https://news.ycombinator.com/item?id=27302195 [84] Ask HN: Favorite Blogs by Individuals? (https://news.ycombinator.com/item?id=27302195)
+ => https://benhoyt.com/writings/the-small-web-is-beautiful/ [85] The small web is beautiful - Ben Hoyt (https://benhoyt.com/writings/the-small-web-is-beautiful/)
+ => https://sadgrl.online/newoldweb/manifesto.html [86] The internet has changed - sadgrl (https://sadgrl.online/newoldweb/manifesto.html)
+ => https://sadgrl.dreamwidth.org/1051.html [87] There's no place like the old internet - sadgrl (https://sadgrl.dreamwidth.org/1051.html)
+ => https://archive.md/ah1F4#selection-1451.0-1451.38 [88] The Dark Forest Theory of the Internet - Yancey Strickler (https://archive.md/ah1F4#selection-1451.0-1451.38)
+ => https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/ [89] Around the Web, RSS as a Facebook Alternative - Nicholas A. Ferrel (https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/)
+ => https://idlewords.com/talks/website_obesity.htm [90] The Website Obesity Crisis - Idle Words (https://idlewords.com/talks/website_obesity.htm)
+ => https://pxlnv.com/blog/bullshit-web/ [91] The Bullshit Web - Nick Heer (https://pxlnv.com/blog/bullshit-web/)
+
+
+
+## Related articles
+
+=> /post/saved-articles-2/index.gmi My Saved Articles 2: <no value>
+=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again: <no value>
+=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day: <no value>
+---
+
+=> / Back to the Index
+=> https://milddermatographia.com/post/saved-articles/ View this article on the WWW

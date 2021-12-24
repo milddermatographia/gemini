@@ -2,12 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Mild Dermatographia</title><link rel="self" type="application/atom+xml" href="https://milddermatographia.com/"/>
   <link rel="alternate" type="text/html" href="gemini://milddermatographia.com/"/>
-  <updated>2021-12-20T10:38:28-0500</updated>
+  <updated>2021-12-23T10:38:28-0500</updated>
   <author>
     <name><no value></name>
     <uri>gemini://milddermatographia.com/</uri>
   </author>
   <id>https://milddermatographia.com/</id>
+  
+  
+  <entry>
+    <title>My Saved Articles 2</title><link rel="alternate" href="gemini://milddermatographia.com/post/saved-articles-2/"/>
+    <id>gemini://milddermatographia.com/post/saved-articles-2/</id>
+    <published>2021-12-23T10:38:28-0500</published>
+    <updated>2021-12-23T10:38:28-0500</updated>
+    <summary>Well, it&amp;rsquo;s been a few months, so here&amp;rsquo;s a new list of articles I&amp;rsquo;ve found and saved since the previous post. I&amp;rsquo;ve tried to keep the structure the same as before, minus the author names because of laziness. Once more, my standout articles are above the ..., while everything else is below it, unless the entire category is unsorted. It&amp;rsquo;s been a few months since I&amp;rsquo;ve read some of these articles, so the descriptions may be less than precise on occassion, sorry in advance!</summary>
+  </entry>
+  
   
   
   <entry>
@@ -255,8 +265,8 @@ You just finished filling your cart at Aldi/Lidl. You have your produce, your me
   
   
   <entry>
-    <title>My Saved Articles</title><link rel="alternate" href="gemini://milddermatographia.com/post/saved-posts/"/>
-    <id>gemini://milddermatographia.com/post/saved-posts/</id>
+    <title>My Saved Articles</title><link rel="alternate" href="gemini://milddermatographia.com/post/saved-articles/"/>
+    <id>gemini://milddermatographia.com/post/saved-articles/</id>
     <published>2021-07-07T21:21:52-0500</published>
     <updated>2021-07-07T21:21:52-0500</updated>
     <summary>I posted a while ago that I have a Git repo with all my saved web content. I figured I&amp;rsquo;d compile a list of the articles I&amp;rsquo;ve kept since starting my little archive, alongside a quick (probably not accurate) description of each. I&amp;rsquo;ve organized the content of each category with my favorites/must-reads of each above the ... and everything else below, each subset in no particular order. I&amp;rsquo;ll hopefully remember to keep this up to date as I add save more content.</summary>
