@@ -120,9 +120,9 @@ This list is a work in progress and requires further experimentation.
 
 ## Related articles
 
-=> /post/akumaic-hunter/index.gmi The First Akumaic Hunter: <no value>
-=> /post/gris/index.gmi Siege of Gris: <no value>
-=> /post/geas/index.gmi Musings on Geas: <no value>
+=> /post/akumaic-hunter/index.gmi The First Akumaic Hunter
+=> /post/gris/index.gmi Siege of Gris
+=> /post/geas/index.gmi Musings on Geas
 ---
 
 => / Back to the Index

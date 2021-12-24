@@ -24,9 +24,9 @@ It's a wonderful experience, doing what you are there to do without constantly w
 
 ## Related articles
 
-=> /post/all-music-sucks/index.gmi All Music Sucks: <no value>
-=> /post/wide-shoes/index.gmi Wide Shoes: <no value>
-=> /post/escalators/index.gmi Escalators: <no value>
+=> /post/all-music-sucks/index.gmi All Music Sucks
+=> /post/wide-shoes/index.gmi Wide Shoes
+=> /post/escalators/index.gmi Escalators
 ---
 
 => / Back to the Index

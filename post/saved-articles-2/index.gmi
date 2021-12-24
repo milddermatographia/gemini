@@ -63,7 +63,7 @@ Educational content with code snippets, workflows, concrete recommendations, etc
 Fantasy, butterflies, pyramid schemes, deadly sausages, pepsi fighter jets, and more.
 
 * False Hydra [40] - One of the most terrifying RPG creatures.
-* On Thud and Blunder [41] - Hilarious article on dumb tropes and bullshit in high-fantasy novels.
+* On Thud and Blunder [41] - Hilarious article on dumb tropes and bullshit in heroic-fantasy novels.
 * Tucker's Kobolds [42] - Kobolds can be scary if you play them right.
 * The Gradual Extinction of Softness by Chantha Nguon with Kim Green [43] - The author's harrowing experience around the time of the Khmer Rouge.
 * Please, Walk Down the Escalator [44] - Article I found while writing my own escalator piece.
@@ -209,9 +209,9 @@ Fantasy, butterflies, pyramid schemes, deadly sausages, pepsi fighter jets, and 
 
 ## Related articles
 
-=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again: <no value>
-=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day: <no value>
-=> /post/murphy/index.gmi Beating Murphy: <no value>
+=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again
+=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
+=> /post/murphy/index.gmi Beating Murphy
 ---
 
 => / Back to the Index

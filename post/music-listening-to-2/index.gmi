@@ -64,9 +64,9 @@ I've been revisiting Nero's original album; "Doomsday" and "My Eyes" still slap 
 
 ## Related articles
 
-=> /post/food-switzerland/index.gmi Food Prices in Switzerland: <no value>
-=> /post/still-alive/index.gmi I'm Still Alive!: <no value>
-=> /post/port-blocking/index.gmi My Student Housing is Blocking Ports: <no value>
+=> /post/food-switzerland/index.gmi Food Prices in Switzerland
+=> /post/still-alive/index.gmi I'm Still Alive!
+=> /post/port-blocking/index.gmi My Student Housing is Blocking Ports
 ---
 
 => / Back to the Index

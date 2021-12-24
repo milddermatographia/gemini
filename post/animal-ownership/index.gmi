@@ -307,9 +307,9 @@ If you have any thoughts on this article or would like to contribute your own fi
 
 ## Related articles
 
-=> /post/empathy/index.gmi Empathy: <no value>
-=> /post/pet-abuse/index.gmi Don't Abuse your Pets: <no value>
-=> /post/bechdel/index.gmi The Reverse Bechdel Test: <no value>
+=> /post/empathy/index.gmi Empathy
+=> /post/pet-abuse/index.gmi Don't Abuse your Pets
+=> /post/bechdel/index.gmi The Reverse Bechdel Test
 ---
 
 => / Back to the Index

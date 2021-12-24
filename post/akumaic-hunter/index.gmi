@@ -218,9 +218,9 @@ You have a task.
 
 ## Related articles
 
-=> /post/gris/index.gmi Siege of Gris: <no value>
-=> /post/ootoo/index.gmi Prepare and Apply an Ootoo as an Appendage Replacement: <no value>
-=> /post/geas/index.gmi Musings on Geas: <no value>
+=> /post/gris/index.gmi Siege of Gris
+=> /post/ootoo/index.gmi Prepare and Apply an Ootoo as an Appendage Replacement
+=> /post/geas/index.gmi Musings on Geas
 ---
 
 => / Back to the Index

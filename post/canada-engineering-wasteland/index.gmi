@@ -185,9 +185,9 @@ Maybe I'll scrape LinkedIn's job postings, then create word clouds to find trend
 
 ## Related articles
 
-=> /post/all-music-sucks/index.gmi All Music Sucks: <no value>
-=> /post/food-switzerland/index.gmi Food Prices in Switzerland: <no value>
-=> /post/still-alive/index.gmi I'm Still Alive!: <no value>
+=> /post/all-music-sucks/index.gmi All Music Sucks
+=> /post/food-switzerland/index.gmi Food Prices in Switzerland
+=> /post/still-alive/index.gmi I'm Still Alive!
 ---
 
 => / Back to the Index

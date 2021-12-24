@@ -223,7 +223,7 @@ Either way, it was kind of cathartic putting it all down.
 
 ## Related articles
 
-=> /post/scholarships/index.gmi Scholarships: <no value>
+=> /post/scholarships/index.gmi Scholarships
 ---
 
 => / Back to the Index

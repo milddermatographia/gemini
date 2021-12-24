@@ -24,9 +24,9 @@ Join me next time when I "prove" that the egg does come before the chicken.
 
 ## Related articles
 
-=> /post/saved-articles-2/index.gmi My Saved Articles 2: <no value>
-=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again: <no value>
-=> /post/murphy/index.gmi Beating Murphy: <no value>
+=> /post/saved-articles-2/index.gmi My Saved Articles 2
+=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again
+=> /post/murphy/index.gmi Beating Murphy
 ---
 
 => / Back to the Index

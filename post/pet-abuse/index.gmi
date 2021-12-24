@@ -18,9 +18,9 @@ Please please please take a moment to think about how your pet will react before
 
 ## Related articles
 
-=> /post/all-music-sucks/index.gmi All Music Sucks: <no value>
-=> /post/washroom-stalls/index.gmi Washroom Stalls in North America Suck: <no value>
-=> /post/wide-shoes/index.gmi Wide Shoes: <no value>
+=> /post/all-music-sucks/index.gmi All Music Sucks
+=> /post/washroom-stalls/index.gmi Washroom Stalls in North America Suck
+=> /post/wide-shoes/index.gmi Wide Shoes
 ---
 
 => / Back to the Index

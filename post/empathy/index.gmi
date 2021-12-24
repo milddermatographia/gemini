@@ -135,9 +135,9 @@ Consider how they might want to be treated, and how you'd want to be treated, in
 
 ## Related articles
 
-=> /post/pet-abuse/index.gmi Don't Abuse your Pets: <no value>
-=> /post/bechdel/index.gmi The Reverse Bechdel Test: <no value>
-=> /post/canada-engineering-wasteland/index.gmi The Great Canadian (Mechanical) Engineering Wasteland: <no value>
+=> /post/pet-abuse/index.gmi Don't Abuse your Pets
+=> /post/bechdel/index.gmi The Reverse Bechdel Test
+=> /post/canada-engineering-wasteland/index.gmi The Great Canadian (Mechanical) Engineering Wasteland
 ---
 
 => / Back to the Index

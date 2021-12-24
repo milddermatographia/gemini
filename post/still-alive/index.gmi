@@ -26,9 +26,9 @@ I'm excited to work on this again.
 
 ## Related articles
 
-=> /post/food-switzerland/index.gmi Food Prices in Switzerland: <no value>
-=> /post/port-blocking/index.gmi My Student Housing is Blocking Ports: <no value>
-=> /post/alien/index.gmi I dream of Aliens: <no value>
+=> /post/food-switzerland/index.gmi Food Prices in Switzerland
+=> /post/port-blocking/index.gmi My Student Housing is Blocking Ports
+=> /post/alien/index.gmi I dream of Aliens
 ---
 
 => / Back to the Index

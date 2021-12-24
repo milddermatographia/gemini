@@ -21,9 +21,9 @@ Nearby, there is a Hunter who has broken their contract and is about to be elimi
 
 ## Related articles
 
-=> /post/akumaic-hunter/index.gmi The First Akumaic Hunter: <no value>
-=> /post/gris/index.gmi Siege of Gris: <no value>
-=> /post/ootoo/index.gmi Prepare and Apply an Ootoo as an Appendage Replacement: <no value>
+=> /post/akumaic-hunter/index.gmi The First Akumaic Hunter
+=> /post/gris/index.gmi Siege of Gris
+=> /post/ootoo/index.gmi Prepare and Apply an Ootoo as an Appendage Replacement
 ---
 
 => / Back to the Index

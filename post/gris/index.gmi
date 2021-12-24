@@ -301,9 +301,9 @@ If you have any thoughts, criticisms, etc., please send them to `milddermatograp
 
 ## Related articles
 
-=> /post/akumaic-hunter/index.gmi The First Akumaic Hunter: <no value>
-=> /post/ootoo/index.gmi Prepare and Apply an Ootoo as an Appendage Replacement: <no value>
-=> /post/geas/index.gmi Musings on Geas: <no value>
+=> /post/akumaic-hunter/index.gmi The First Akumaic Hunter
+=> /post/ootoo/index.gmi Prepare and Apply an Ootoo as an Appendage Replacement
+=> /post/geas/index.gmi Musings on Geas
 ---
 
 => / Back to the Index

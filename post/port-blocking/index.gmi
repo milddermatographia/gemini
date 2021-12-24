@@ -19,9 +19,9 @@ I guess I'm just keeping my VPN subscription until the end of my degree.
 
 ## Related articles
 
-=> /post/food-switzerland/index.gmi Food Prices in Switzerland: <no value>
-=> /post/still-alive/index.gmi I'm Still Alive!: <no value>
-=> /post/alien/index.gmi I dream of Aliens: <no value>
+=> /post/food-switzerland/index.gmi Food Prices in Switzerland
+=> /post/still-alive/index.gmi I'm Still Alive!
+=> /post/alien/index.gmi I dream of Aliens
 ---
 
 => / Back to the Index

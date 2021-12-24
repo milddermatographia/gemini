@@ -240,9 +240,9 @@ Comparing Gab more thoroughly to other social media platforms is a topic for ano
 
 ## Related articles
 
-=> /post/saved-articles-2/index.gmi My Saved Articles 2: <no value>
-=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again: <no value>
-=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day: <no value>
+=> /post/saved-articles-2/index.gmi My Saved Articles 2
+=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again
+=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
 ---
 
 => / Back to the Index

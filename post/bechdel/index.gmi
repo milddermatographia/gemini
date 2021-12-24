@@ -135,9 +135,9 @@ If you can think of anything, shoot me an email at `milddermatographia@gmail.com
 
 ## Related articles
 
-=> /post/empathy/index.gmi Empathy: <no value>
-=> /post/pet-abuse/index.gmi Don't Abuse your Pets: <no value>
-=> /post/canada-engineering-wasteland/index.gmi The Great Canadian (Mechanical) Engineering Wasteland: <no value>
+=> /post/empathy/index.gmi Empathy
+=> /post/pet-abuse/index.gmi Don't Abuse your Pets
+=> /post/canada-engineering-wasteland/index.gmi The Great Canadian (Mechanical) Engineering Wasteland
 ---
 
 => / Back to the Index
