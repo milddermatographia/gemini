@@ -223,5 +223,5 @@ You have a task.
 => /post/geas/index.gmi Musings on Geas
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/akumaic-hunter/ View this article on the WWW

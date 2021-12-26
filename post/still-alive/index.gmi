@@ -26,10 +26,10 @@ I'm excited to work on this again.
 
 ## Related articles
 
+=> /post/job-stats/index.gmi My Job Application Statistics
 => /post/food-switzerland/index.gmi Food Prices in Switzerland
 => /post/port-blocking/index.gmi My Student Housing is Blocking Ports
-=> /post/alien/index.gmi I dream of Aliens
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/still-alive/ View this article on the WWW

@@ -23,5 +23,5 @@ Please please please take a moment to think about how your pet will react before
 => /post/wide-shoes/index.gmi Wide Shoes
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/pet-abuse/ View this article on the WWW

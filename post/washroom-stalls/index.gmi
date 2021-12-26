@@ -29,5 +29,5 @@ It's a wonderful experience, doing what you are there to do without constantly w
 => /post/escalators/index.gmi Escalators
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/washroom-stalls/ View this article on the WWW

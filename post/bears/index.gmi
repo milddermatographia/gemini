@@ -27,5 +27,5 @@ Bears! (1.6MB) [2]
 => /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/bears/ View this article on the WWW

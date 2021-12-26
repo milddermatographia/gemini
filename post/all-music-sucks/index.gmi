@@ -62,5 +62,5 @@ Pop pretending it's not.
 => /post/escalators/index.gmi Escalators
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/all-music-sucks/ View this article on the WWW

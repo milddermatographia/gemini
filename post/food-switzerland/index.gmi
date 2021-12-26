@@ -18,10 +18,10 @@ It's absolutely bonkers how expensive food here is.
 
 ## Related articles
 
+=> /post/job-stats/index.gmi My Job Application Statistics
 => /post/still-alive/index.gmi I'm Still Alive!
 => /post/port-blocking/index.gmi My Student Housing is Blocking Ports
-=> /post/alien/index.gmi I dream of Aliens
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/food-switzerland/ View this article on the WWW

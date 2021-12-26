@@ -48,10 +48,10 @@ I hate wasting so much time waiting for another pair of shoes to come in, only f
 
 ## Related articles
 
+=> /post/job-stats/index.gmi My Job Application Statistics
 => /post/all-music-sucks/index.gmi All Music Sucks
 => /post/food-switzerland/index.gmi Food Prices in Switzerland
-=> /post/still-alive/index.gmi I'm Still Alive!
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/wide-shoes/ View this article on the WWW

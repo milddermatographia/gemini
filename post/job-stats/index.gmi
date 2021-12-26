@@ -1,0 +1,65 @@
+# My Job Application Statistics
+
+
+
+Apologies in advance, this is going to be a very short, uninformative post; it's more of a public diary entry of sorts for me to put down a couple quick thoughts, and so won't be especially englightening or deep.
+
+I've been applying for jobs since December of 2019.
+I figure, it being the two year anniversary of unemployment, I'd celebrate by making a diagram and rambling a bit about my experience!
+
+## Context
+
+I was in my undergrad program until December of 2020.
+Most of the jobs I applied for were internships; of the 141 job applications shown here, about 30 were full-time new-grad positions.
+
+My interests also changed over time; the first few applications were to mechanical engineering internships, then I realized that I really just don't enjoy mech eng, so my applications became more computer science/robotics oriented.
+
+By the time I began tracking these job applications, I had 3 internships under my belt; one, a mix of mechanical engineering and software development for a local startup, another, programming a robot, and the last, doing research for a professor which involved quite a bit of programming.
+So I had some experience, but it was fairly spread out across different domains.
+
+I was mainly applying for jobs in the Bay Area, where my partner works.
+There were maybe 20 or 30 jobs back home, but the majority were in San Francisco/San Jose.
+I was basically setting myself up for failure by trying to find a job in the most competitive market possible.
+
+I wrote a custom cover letter for pretty much every job; only in the last month or so have I been sending out generic cover letters, which hasn't changed my success rate at all.
+
+## The Diagram
+
+=> /img/job-application-stats.png Embedded Image: /img/job-application-stats.png
+
+I only counted applications on here which are more than two months old; I figured it would be unfair to count a recent application as ghosted.
+
+"Other" includes jobs which were cancelled due to covid, or which had a job opening window that didn't line up with with school, or the position was straight up removed (and they had the courtesy to let me know).
+
+I interviewed for 2 jobs; the first, I didn't get past the company recruiter.
+The second, I interviewed with their recruiter, then an engineer, then the CEO, the latter two interviews consisting of technical questions.
+They were a lot of fun to chat with, the the work was very interesting, but in the end, they said that I should probably get a Masters to work in robotics.
+
+## Thoughts
+
+I'm okay with getting rejected for jobs.
+Very often, I think I reached higher than I probably should have, and so there's no bruised ego associated with getting turned down.
+
+Like most though, getting ghosted is frustrating.
+I'm not on the other side, so I don't know what the applicant vetting process looks like, but I'd be surprised if there's not a "send generic rejection email" button on whatever UI companies are using to process applications.
+
+I'm curious to see how being in a Masters program will influence my interview rate for internships (mandatory part of the ETH program, will talk about in future post), especially for robotics jobs.
+
+
+---
+26 December 2021.
+
+## References
+ 
+
+
+
+## Related articles
+
+=> /post/food-switzerland/index.gmi Food Prices in Switzerland
+=> /post/still-alive/index.gmi I'm Still Alive!
+=> /post/port-blocking/index.gmi My Student Housing is Blocking Ports
+---
+
+=> / Back to site home
+=> https://milddermatographia.com/post/job-stats/ View this article on the WWW

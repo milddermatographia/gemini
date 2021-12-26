@@ -25,5 +25,5 @@ I don't doubt that Termux might fall short for actual-software-engineering-level
 => /post/ddg-google/index.gmi Duck Duck Go > Google
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/termux/ View this article on the WWW

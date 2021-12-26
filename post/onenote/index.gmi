@@ -52,5 +52,5 @@ Woopsie.
 => /post/termux/index.gmi Termux and Android
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/onenote/ View this article on the WWW

@@ -52,5 +52,5 @@ I feel vindicated for calling it a first world problem, because it's so much mor
 => /post/wide-shoes/index.gmi Wide Shoes
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/two-factor-authentication/ View this article on the WWW

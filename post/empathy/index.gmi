@@ -140,5 +140,5 @@ Consider how they might want to be treated, and how you'd want to be treated, in
 => /post/canada-engineering-wasteland/index.gmi The Great Canadian (Mechanical) Engineering Wasteland
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/empathy/ View this article on the WWW

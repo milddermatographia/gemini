@@ -19,10 +19,10 @@ I guess I'm just keeping my VPN subscription until the end of my degree.
 
 ## Related articles
 
+=> /post/job-stats/index.gmi My Job Application Statistics
 => /post/food-switzerland/index.gmi Food Prices in Switzerland
 => /post/still-alive/index.gmi I'm Still Alive!
-=> /post/alien/index.gmi I dream of Aliens
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/port-blocking/ View this article on the WWW

@@ -125,5 +125,5 @@ This list is a work in progress and requires further experimentation.
 => /post/geas/index.gmi Musings on Geas
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/ootoo/ View this article on the WWW

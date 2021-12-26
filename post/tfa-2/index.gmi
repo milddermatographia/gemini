@@ -66,10 +66,10 @@ That said, I need to take the time to weigh their strengths and weaknesses prope
 
 ## Related articles
 
+=> /post/job-stats/index.gmi My Job Application Statistics
 => /post/food-switzerland/index.gmi Food Prices in Switzerland
 => /post/gemini-theme/index.gmi New Theme and Gemini!
-=> /post/still-alive/index.gmi I'm Still Alive!
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/tfa-2/ View this article on the WWW

@@ -226,5 +226,5 @@ Either way, it was kind of cathartic putting it all down.
 => /post/scholarships/index.gmi Scholarships
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/university-retrospective/ View this article on the WWW

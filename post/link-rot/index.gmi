@@ -64,5 +64,5 @@ I'm not a front end person so I'm sure I messed something up, but it's irritatin
 => /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/link-rot/ View this article on the WWW

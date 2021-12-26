@@ -42,5 +42,5 @@ Oh, and they're not just for first year of the degree, but for each year.
 => /post/wide-shoes/index.gmi Wide Shoes
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/scholarships/ View this article on the WWW

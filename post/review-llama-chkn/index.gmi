@@ -45,5 +45,5 @@ Weirdo.
 => /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/review-llama-chkn/ View this article on the WWW

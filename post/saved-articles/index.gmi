@@ -237,5 +237,5 @@ Dothraki, Michael Scott, Philosophy, Satire, SpongeBob, and all kinds of other s
 => /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/saved-articles/ View this article on the WWW

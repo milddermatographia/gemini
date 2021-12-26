@@ -60,5 +60,5 @@ Please, Walk Down the Escalator [3]
 => /post/wide-shoes/index.gmi Wide Shoes
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/escalators/ View this article on the WWW

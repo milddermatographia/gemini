@@ -30,10 +30,10 @@ Overall, I think I need to get outside the metal bubble and explore other genres
 
 ## Related articles
 
+=> /post/job-stats/index.gmi My Job Application Statistics
 => /post/food-switzerland/index.gmi Food Prices in Switzerland
 => /post/still-alive/index.gmi I'm Still Alive!
-=> /post/port-blocking/index.gmi My Student Housing is Blocking Ports
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/music-listening-to/ View this article on the WWW

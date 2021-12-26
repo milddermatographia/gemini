@@ -33,5 +33,5 @@ Beyond the actual experience of using each search engine, Google is a pretty scu
 => /post/termux/index.gmi Termux and Android
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/ddg-google/ View this article on the WWW

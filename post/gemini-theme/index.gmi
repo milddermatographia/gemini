@@ -43,5 +43,5 @@ It's not the most efficient thing in the world, but I'm just happy to have it wo
 => /post/ddg-google/index.gmi Duck Duck Go > Google
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/gemini-theme/ View this article on the WWW

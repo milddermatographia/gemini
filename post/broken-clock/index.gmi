@@ -29,5 +29,5 @@ Join me next time when I "prove" that the egg does come before the chicken.
 => /post/murphy/index.gmi Beating Murphy
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/broken-clock/ View this article on the WWW

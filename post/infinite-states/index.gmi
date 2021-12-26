@@ -56,5 +56,5 @@ True and false are binary states; are there alternative states a sentence can po
 => /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/infinite-states/ View this article on the WWW

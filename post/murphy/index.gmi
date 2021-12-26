@@ -45,5 +45,5 @@ Obviously, not every situation you find yourself in can be gamed to have a posit
 => /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/murphy/ View this article on the WWW

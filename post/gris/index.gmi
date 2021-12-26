@@ -306,5 +306,5 @@ If you have any thoughts, criticisms, etc., please send them to `milddermatograp
 => /post/geas/index.gmi Musings on Geas
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/gris/ View this article on the WWW

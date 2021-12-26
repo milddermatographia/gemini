@@ -312,5 +312,5 @@ If you have any thoughts on this article or would like to contribute your own fi
 => /post/bechdel/index.gmi The Reverse Bechdel Test
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/animal-ownership/ View this article on the WWW

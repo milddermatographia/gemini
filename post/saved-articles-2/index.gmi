@@ -214,5 +214,5 @@ Fantasy, butterflies, pyramid schemes, deadly sausages, pepsi fighter jets, and 
 => /post/murphy/index.gmi Beating Murphy
 ---
 
-=> / Back to the Index
+=> / Back to site home
 => https://milddermatographia.com/post/saved-articles-2/ View this article on the WWW
