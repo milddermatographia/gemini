@@ -137,9 +137,9 @@ Sorry dad.
 
 ## Related articles
 
+=> /post/switzerland-4-month/index.gmi Living and Studying in Switzerland - 4 Month Retrospective
 => /post/job-stats/index.gmi My Job Application Statistics
 => /post/food-switzerland/index.gmi Food Prices in Switzerland
-=> /post/still-alive/index.gmi I'm Still Alive!
 ---
 
 => / Back to site home

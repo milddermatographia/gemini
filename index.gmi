@@ -6,6 +6,7 @@ Slightly Irritating
 
 ### 2021
 
+=> gemini://milddermatographia.com/post/switzerland-4-month/index.gmi 2021-12-27 - Living and Studying in Switzerland - 4 Month Retrospective
 => gemini://milddermatographia.com/post/job-stats/index.gmi 2021-12-26 - My Job Application Statistics
 => gemini://milddermatographia.com/post/saved-articles-2/index.gmi 2021-12-23 - My Saved Articles 2
 => gemini://milddermatographia.com/post/vanessa-hudgens/index.gmi 2021-12-20 - Review: The Princess Switch 2: Switched Again

@@ -1,0 +1,213 @@
+# Living and Studying in Switzerland - 4 Month Retrospective
+
+
+
+I moved to Switzerland for grad school back in September, and figured I'd take the lull in my schedule (not really, still have projects, oh well) to write about my experience so far.
+I'll definitely make an updated version of this when I graduated; it'll be nice to compare my final thoughts to how I felt pretty early on.
+
+I've split this into a few sections.
+The first is about my program at ETH Zurich; the second is about the university itself.
+The third, Zurich as a city, and finally, Switzerland as a whole.
+
+---
+
+## MS Robotics, Systems and Controls
+
+### My Education Background
+
+First, a wee bit of context about my education up to date; I did a joint degree in Mechanical Engineering and Computer Science.
+I loved the dynamics and controls bit of mechanical engineering, was meh about mechanical design, and downright hostile to materials, fluids, and thermodynamics.
+I absolutely loved the computer science side; the pure, abstract nature of algorithmic problems was a weirdly perfect fit for me, and writing code was just more fun than using SolidWorks.
+After goofing off with robots through an internship and engineering team, I decided that I wanted to learn how to make them autonomous; how can they see, or navigate, or move?
+I've absolutely romanticized the idea of building legged robots that can leap up cliffs like a goat, or follow an owner like a dog.
+A masters in robotics seemed like the perfect fusion of mechanical engineering and computer science, and ETH Zurich has a dedicated program, and research lab, to my subfield of interest.
+
+### Program Structure
+
+You can find all this information on the program page [1], but here's the condensed version.
+
+The program consists of 4 main components:
+
+* Courses
+* Internship
+* Semester Project
+* Masters Thesis
+
+I really appreciate how diverse the program is; back home, Masters programs consist of 4-ish courses and then a year long thesis, the Robotics Masters at ETH lets me do a bit of everything; the number of required credits comes out to around 8 courses, depending on which are taken.
+The internship is a great chance to apply that knowledge at a company.
+The semester project is like a mini thesis, meant to be done alongside classes.
+It's smaller in scale, and we are highly recommended to do it in a different lab than our thesis to gain a greater diversity of experience; for example, I could do a semester project dealing with feature tracking with event cameras and then a thesis in robot control, or reinforcement learing for a robotic manipulator and then working on novel high-performance computing algorithms, or any other combination of disparate topics.
+Finally, there's the thesis, which is done over a semester.
+Overall, I think the program is very well rounded, balancing course-work, industry experience, and research in different labs, all jam-packed into a 2-year program (although I've heard most people do it in longer so they can breath a bit more).
+
+### Courses
+
+As mentioned above, while courses at ETH vary in the number of credits they are worth, it seems as though people take about 8 courses to fill their credit requirements.
+These courses cover any topic related to robotics you could possible ask for; computer vision, path planning, control, deep learning, artificial intelligence, soft robotics, dynamics, high-performance computing, embedded computing, and more.
+There's such a diversity of classes that it's honestly tough to choose which I'd like to do.
+Unlike my undergrad program, I can choose what I want, so there's no sitting through a slog and studying to forget; I'm genuinly motivated to learn and master the course content.
+Sure, there's a module here or there that doesn't match what I care about (looking at you, drone lecture in the dynamics course), but by and large, the course content is fascinating and absolutley to my liking.
+
+I appreciate how many of the courses have hands-on exercises.
+It is very likely a matter of computer science vs mechanical engineering rather than ETH vs my old university, but all of my courses this past semester had programming exercises where we actually implemented what we learned in class; we built a visual-odometry pipeline and wrote a full planner for a rocket, from local planning, to exploration using RRT, to graph traversal using A-star.
+We optimized physics simulations using SIMD, primitives, OpenMP, and MPI, and implemented dynamic programming.
+Finally, we used deep learning for image segmenetation, and controlled legged, armed, and flying robots.
+This has all been in a single semester, and I've absolutely loved it.
+
+The professors thus far have been, with the exception of one, absolutely stellar.
+My old univerisity had some good professors, but it also had a lot of really awful ones.
+Professors who couldn't explain how basic electronics worked, or whose average grade on midterms had to be bellcurved from literally 30% up to something reasonable, not because the exam was difficult, but because they were so god-awful at teaching it, who blew through a controls course without explaining a thing, causing the follow-up course's professor to attempt reteaching the fundamentals of controls but inevitable give up because otherwise we wouldn't actually learn the content of their class.
+Professors so incompetent that the university either fired them or hid them away at the behest of years of complaining students.
+In fact, I did a quick look at my transcript, and I found I had 10 bad professors and 6 good ones (many taught multiple courses, thus why the total is so low); two of the poor professors have not been seen on campus since they taught the class, while students have petitioned the faculty to fire a third professor for years, to no avail.
+
+The professors I've had at ETH Zurich are without exception incredibly passionate about the course content they're teaching and, with the exception of one professor, excellent lecturers; they present the subject matter in a manner that takes into account our probable lack of previous experience when appropriate, and give sufficient examples to make tough content more comprehensible.
+There's some topics which I've struggled to understand immensely, but I think it's almost always because it's a topic that requires some time to digest, or I lacked the expected background knowledge to get it right away (that'll be covered a bit lower down).
+
+---
+
+## ETH Zurich
+
+This section will likely be a bit more messy, sorry!
+
+### Competence/Excellence
+
+The professors I've had so far are all at the top of their game and respective fields.
+Our planning professor founded nuTonomy, a self-driving car spinoff from MIT, which is still around and kicking through Motional.
+Our dynamic programming professor founded Kiva Systems, known now as Amazon Robotics.
+Our dynamics professor founded ANYbotics.
+Our vision algorithms professor founded Zurich Eye, which became Facebook Zurich and was responsible for the SLAM algorithms running on the Oculus Quest, as well as the PX4 autopilot.
+Our image analysis professor has over 160 000 citations (I know, a terrible metric of excellence) and introduced a few of the go-to algorithms in the field.
+During lectures, my professors sometimes present their own work because their work is either industry standard or state-of-the-art.
+
+There's just such a high concentration of competent researchers here, it's absolutely phenomenal.
+They're in an entirely different ball-park to back home; heck, even the PhD students here have many times more citations than the professors at my old university.
+Even if you ignore citations, the impact of the work being done here is very clearly further reaching.
+
+Besides research, there's also a huge list of spinoffs [2] from ETH; my old university has a buzzword article about collaborating with a business park in the city, and that's it.
+Literally.
+They have nothing to be proud of.
+They exist, and that's all.
+
+### Funding
+
+This university has money.
+A looot of money.
+
+Sometimes it manifests in more subtle ways; a meal at the mensa (cafeteria) costs about 5.80 CHF as a student, but that's about how much it costs to make by yourself, so they're subsidizing the cost of labour and the kitchen; the meal costs about 15 CHF for a non-student, which is probably a more accurate number.
+We get free beer and coffee from AMIV, the mechanical and electrical student association.
+I recall hearing that they had an excess 50 000 in their budget this year, which is about what my old all-engineering student association had for a whole year.
+Courses are between 8am and 7pm, although in my case, they're only between 8am to 5pm; I suspect this is because they actually have enough space on campus for their students, whereas my old university (which had twice the students but a smaller campus) needed to schedule classes from 8am to 10pm because they either couldn't afford to buy up the surrounding space to make more buildings, or just didn't care.
+
+While the above examples of ETH's wealth require a bit of thinking about, sometimes it's incredibly obvious that this university is swimming in money.
+I was told that professors get something like a million dollars a year each for research, no questions asked.
+Tuition is only about 2k per year.
+A single robotics lab here has a dozen robots that cost tens of thousands of dollars each, and there's a dozen such labs.
+Their self-driving car team looks like it had more funding than all my old university's engineering teams put together.
+There's posters around the main building saying that, if you have a business idea as a professor, they'll give you something like 50k, no questions asked.
+
+ETH Zurich has half the student my old university does, but 1.5 times the budget.
+
+### Driven by Fundamentals?
+
+I mentioned above that I struggled quite a bit with some concepts or modules, and I think it's in part because of philosophical differences in how Swiss (European?) and Canadian (North-American?) schools approach teaching.
+I found, with hind-sight being quite a bit more blurry than 20-20, that our classes back home followed a horizontal progression; outside of calculus (integrals and derivatives, really), previously learned content didn't have much relevance to other classes.
+There wasn't very many connections drawn between disparate topics, which made classes like ODE or linear algebra feel like these one-off, unrelated courses to be forgotten, since why bother remembering what an eigenvalue or eigenvector is if you never use it again?
+
+Virtually all my classes here have used eigenvectors and values to solve problems, from modelling to vision to path planning to principle component analysis.
+Quite a few have used Taylor Series expansions.
+I've really struggled to relearn concepts I haven't touched since first semester of undergrad, whereas talking to my European colleagues, it seems they all remember linear algebra and calculus basics because they used them again and again throughout undergrad; it seems as though their programs were much more of a pyramid, building on the fundamentals over time and reusing them again and again.
+
+I think part of the blame is definitely on me; I'm not nearly as smart or hard working as many of the people around me at ETH, and it's my fault for not trying harder to retain knowledge in undergrad, but it seems like a learn-and-forget philosophy back home also makes catching up here slightly harder.
+
+---
+
+## Zurich
+
+### Cost
+
+It's definitely expensive as a foreigner.
+Food costs about twice as much as back home, and I'm paying 620 CHF for a room in a 7-bedroom apartment.
+If I were living here and getting paid in swiss francs, I don't think it's that dreadful.
+At least, not for someone in a relatively high-paying job.
+
+### Toilets
+
+As a Canadian, I need to give this it's own spotlight; toilets here are wonderful.
+They don't have massive gaps in the stall doors that people can see in through.
+They have buttons to flush instead of almost-always-faulty proximity sensors.
+They have indicators that let you know someone is inside so you don't need to rattle the door, then scurry away embarrassed.
+They usually have a spray you can use to sanitize the seat before and after, and a brush to clean the inside of the bowl.
+I haven't experience the literal shitstorms that inconsiderate people leave behind in Canadian bathrooms; it seems as though people here actually respect the privately public spaces they use.
+
+### Density and Community
+
+In my experience, unless living in downtown of a city in Canada, you're in a suburb away from anything interesting, including essentials like grocery stores.
+You never see your neighbors, and need to a car to get anywhere.
+Here, most buildings are apartments/condos, and are often mixed usage, with a business or two on the main floor.
+This means no spread out houses or massive grocery stores, but rather densely-ish (from a Canadian perspective) packed buildings with small businesses spread out evenly.
+I can walk 2 minutes to the nearest small grocery store.
+5 minutes to the nearest gym.
+* minutes to the nearest full-size grocery store.
+I live about a half hour train ride from campus, so hardly city-center.
+
+This density, mixed with some very judicious placement of parks and common spaces, gives a sense of community too.
+We have mini parks between our apartment building and the three adjacent ones, and a massive park with playgrounds and gardens beside our little cluster of buildings.
+There are constantly kids playing outside, grandparents walking babies in strollers, couples sitting on benches, people cultivating their little gardens, groups doing yoga or running.
+It feels more alive than any place I've ever lived, suburb or downtown.
+
+### Weather
+
+It's not great.
+September was abnormally sunny, with the mountains visible quite often.
+November was mainly fog, with super low clouds giving fog-like visibility.
+December alternatived between snow, rain, sun, and clouds within literal minutes of each-other.
+Coming back home for the holidays, I kind of forgot what it was like to have a clear blue, cloudless sky.
+
+Apparently the weather will clear up when it gets colder, so I'll just need to wait and see.
+
+### Fitness
+
+I've seen far fewer overweight or obese people since moving to Zurich; they exist, but I think I'm more likely to see someone who is underweight than overweight.
+Also, the number of 80 year olds passing me on mountains is too damn high.
+
+I do really appreciate how out-doorsy people seem to be here.
+It almost feels like you need to be in a mountain town to see anyone doing exercise in Canada, but here, there's people of all ages running and hiking all over the darn place.
+Heck, parents will strap their kids onto their backs and then climb up a ladder to get to the top of a mountain.
+
+---
+
+## Switzerland
+
+### Mountains
+
+I love having mountains a half-hour train ride away (well, from the main train station).
+It makes getting up one morning and spontaneously deciding to go hiking very feasible.
+Their accessible nature is both a blessing and a curse; short of hiking in a storm, there will be other people on the trail, so it's not exactly an "alone in nature" activity like it may be in the rockies.
+It also means that there are chalets and restaurants at the top, which is very convenient.
+
+---
+
+## Closing Thoughts
+
+I'm curious to see how my take on ETHZ, Zurich, and Switzerland will change over time; our German instructor told us that people have a honeymoon phase that lasts about six months, then they start getting sick of Switzerland until reaching a more sustainable level of satisfaction, so I'll definitely write an updated version of this once I gradaute.
+
+
+---
+27 December 2021.
+
+## References
+ 
+ => https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html [1] program page (https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html)
+ => https://ethz.ch/en/industry/entrepreneurs/spinoff/uebersicht-eth-spin-offs.html [2] huge list of spinoffs (https://ethz.ch/en/industry/entrepreneurs/spinoff/uebersicht-eth-spin-offs.html)
+
+
+
+## Related articles
+
+=> /post/job-stats/index.gmi My Job Application Statistics
+=> /post/food-switzerland/index.gmi Food Prices in Switzerland
+=> /post/still-alive/index.gmi I'm Still Alive!
+---
+
+=> / Back to site home
+=> https://milddermatographia.com/post/switzerland-4-month/ View this article on the WWW

@@ -56,9 +56,9 @@ I'm curious to see how being in a Masters program will influence my interview ra
 
 ## Related articles
 
+=> /post/switzerland-4-month/index.gmi Living and Studying in Switzerland - 4 Month Retrospective
 => /post/food-switzerland/index.gmi Food Prices in Switzerland
 => /post/still-alive/index.gmi I'm Still Alive!
-=> /post/port-blocking/index.gmi My Student Housing is Blocking Ports
 ---
 
 => / Back to site home
