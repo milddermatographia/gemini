@@ -4,6 +4,10 @@ Slightly Irritating
 
 ## Posts
 
+### 2022
+
+=> gemini://milddermatographia.com/post/all-music-sucks-2/index.gmi 2022-01-01 - Update: All Music Sucks
+
 ### 2021
 
 => gemini://milddermatographia.com/post/switzerland-4-month/index.gmi 2021-12-27 - Living and Studying in Switzerland - 4 Month Retrospective

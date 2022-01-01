@@ -47,9 +47,9 @@ Woopsie.
 
 ## Related articles
 
+=> /post/all-music-sucks-2/index.gmi Update: All Music Sucks
 => /post/all-music-sucks/index.gmi All Music Sucks
 => /post/gemini-theme/index.gmi New Theme and Gemini!
-=> /post/termux/index.gmi Termux and Android
 ---
 
 => / Back to site home
