@@ -204,9 +204,9 @@ I'm curious to see how my take on ETHZ, Zurich, and Switzerland will change over
 
 ## Related articles
 
+=> /post/things-i-want-to-do/index.gmi Things I Want to Do
 => /post/job-stats/index.gmi My Job Application Statistics
 => /post/food-switzerland/index.gmi Food Prices in Switzerland
-=> /post/still-alive/index.gmi I'm Still Alive!
 ---
 
 => / Back to site home

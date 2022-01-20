@@ -22,9 +22,9 @@ Overall, I am a very happy camper right now.
 
 ## Related articles
 
+=> /post/things-i-want-to-do/index.gmi Things I Want to Do
 => /post/switzerland-4-month/index.gmi Living and Studying in Switzerland - 4 Month Retrospective
 => /post/job-stats/index.gmi My Job Application Statistics
-=> /post/food-switzerland/index.gmi Food Prices in Switzerland
 ---
 
 => / Back to site home

@@ -185,9 +185,9 @@ Maybe I'll scrape LinkedIn's job postings, then create word clouds to find trend
 
 ## Related articles
 
+=> /post/things-i-want-to-do/index.gmi Things I Want to Do
 => /post/all-music-sucks-2/index.gmi Update: All Music Sucks
 => /post/switzerland-4-month/index.gmi Living and Studying in Switzerland - 4 Month Retrospective
-=> /post/job-stats/index.gmi My Job Application Statistics
 ---
 
 => / Back to site home
