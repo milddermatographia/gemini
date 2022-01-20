@@ -6,6 +6,7 @@ Slightly Irritating
 
 ### 2022
 
+=> gemini://milddermatographia.com/post/hikes/index.gmi 2022-01-20 - [Living] Hikes
 => gemini://milddermatographia.com/post/all-music-sucks-2/index.gmi 2022-01-01 - Update: All Music Sucks
 
 ### 2021
@@ -17,7 +18,6 @@ Slightly Irritating
 => gemini://milddermatographia.com/post/all-music-sucks/index.gmi 2021-12-17 - All Music Sucks
 => gemini://milddermatographia.com/post/food-switzerland/index.gmi 2021-12-04 - Food Prices in Switzerland
 => gemini://milddermatographia.com/post/gemini-theme/index.gmi 2021-12-04 - New Theme and Gemini!
-=> gemini://milddermatographia.com/post/hikes/index.gmi 2021-11-21 - [Living] Hikes
 => gemini://milddermatographia.com/post/broken-clock/index.gmi 2021-11-17 - A Broken Clock Isn't Right Twice a Day
 => gemini://milddermatographia.com/post/still-alive/index.gmi 2021-11-17 - I'm Still Alive!
 => gemini://milddermatographia.com/post/akumaic-hunter/index.gmi 2021-09-26 - The First Akumaic Hunter

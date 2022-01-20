@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Mild Dermatographia</title><link rel="self" type="application/atom+xml" href="https://milddermatographia.com/"/>
   <link rel="alternate" type="text/html" href="gemini://milddermatographia.com/"/>
-  <updated>2022-01-01T16:09:51-0500</updated>
+  <updated>2022-01-20T00:04:49-0500</updated>
   <author>
     <name><no value></name>
     <uri>gemini://milddermatographia.com/</uri>
   </author>
   <id>https://milddermatographia.com/</id>
+  
+  
+  <entry>
+    <title>[Living] Hikes</title><link rel="alternate" href="gemini://milddermatographia.com/post/hikes/"/>
+    <id>gemini://milddermatographia.com/post/hikes/</id>
+    <published>2022-01-20T00:04:49-0500</published>
+    <updated>2022-01-20T00:04:49-0500</updated>
+    <summary>This is the first &amp;ldquo;living&amp;rdquo; document I&amp;rsquo;ll be creating on this blog, which I&amp;rsquo;ll update as I have new content to add to it; the publication date will always be that of the latest hike, so it doesn&amp;rsquo;t get lost down in the blog list. It&amp;rsquo;s a big &amp;lsquo;ol list of the hikes I&amp;rsquo;ve done, with a quick description/review for each.
+ 2018 Switzerland I visited Switzerland for a week in April while working in Germany.</summary>
+  </entry>
+  
   
   
   <entry>
@@ -89,17 +100,6 @@ I&amp;rsquo;ve been applying for jobs since December of 2019. I figure, it being
     <published>2021-12-04T10:10:08+0100</published>
     <updated>2021-12-04T10:10:08+0100</updated>
     <summary>Continuing my procrastination streak, I finally got this website up and running using Gemini. Since this blog is made with Hugo, and I have no desire to dig around in it&amp;rsquo;s internals, I used the amberterm theme by Michael Clemens and messed around with the color scheme to make it light. I then followed this guide by LandChad to set up the agate Gemini server. Finally, I set up nginx and certbot on the same Vultr instance (since 3.</summary>
-  </entry>
-  
-  
-  
-  <entry>
-    <title>[Living] Hikes</title><link rel="alternate" href="gemini://milddermatographia.com/post/hikes/"/>
-    <id>gemini://milddermatographia.com/post/hikes/</id>
-    <published>2021-11-21T00:04:49-0500</published>
-    <updated>2021-11-21T00:04:49-0500</updated>
-    <summary>This is the first &amp;ldquo;living&amp;rdquo; document I&amp;rsquo;ll be creating on this blog, which I&amp;rsquo;ll update as I have new content to add to it; the publication date will always be that of the latest hike, so it doesn&amp;rsquo;t get lost down in the blog list. It&amp;rsquo;s a big &amp;lsquo;ol list of the hikes I&amp;rsquo;ve done, with a quick description/review for each.
- 2018 Switzerland I visited Switzerland for a week in April while working in Germany.</summary>
   </entry>
   
   
