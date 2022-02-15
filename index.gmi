@@ -6,6 +6,7 @@ Slightly Irritating
 
 ### 2022
 
+=> gemini://milddermatographia.com/post/dont-look-up/index.gmi 2022-02-15 - Don't Look Up
 => gemini://milddermatographia.com/post/things-i-want-to-do/index.gmi 2022-01-20 - Things I Want to Do
 => gemini://milddermatographia.com/post/hikes/index.gmi 2022-01-20 - [Living] Hikes
 => gemini://milddermatographia.com/post/all-music-sucks-2/index.gmi 2022-01-01 - Update: All Music Sucks

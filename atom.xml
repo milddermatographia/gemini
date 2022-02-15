@@ -2,12 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Mild Dermatographia</title><link rel="self" type="application/atom+xml" href="https://milddermatographia.com/"/>
   <link rel="alternate" type="text/html" href="gemini://milddermatographia.com/"/>
-  <updated>2022-01-20T20:55:35+0100</updated>
+  <updated>2022-02-15T09:59:08-0800</updated>
   <author>
     <name><no value></name>
     <uri>gemini://milddermatographia.com/</uri>
   </author>
   <id>https://milddermatographia.com/</id>
+  
+  
+  <entry>
+    <title>Don't Look Up</title><link rel="alternate" href="gemini://milddermatographia.com/post/dont-look-up/"/>
+    <id>gemini://milddermatographia.com/post/dont-look-up/</id>
+    <published>2022-02-15T09:59:08-0800</published>
+    <updated>2022-02-15T09:59:08-0800</updated>
+    <summary>I watched Don&amp;rsquo;t Look Up over Christmas and, while I thoroughly enjoyed it from a cinematic perspective, found that it was probably more mastubatory than revolutionary. Myself and those who I watched it with nodded our heads at the empassioned speeches, laughed at the flagrant real-life stand-ins, and lamented how cynical yet accurate the movie is to the current climate crisis. We finished the movie, felt a vague sense of moral superiority for being in-tune with the dismal state of the universe, and promptly moved on with our lives.</summary>
+  </entry>
+  
   
   
   <entry>

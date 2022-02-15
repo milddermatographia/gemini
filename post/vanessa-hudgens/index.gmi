@@ -30,9 +30,9 @@ Rating: Vanessa Hudgens/10
 
 ## Related articles
 
+=> /post/dont-look-up/index.gmi Don't Look Up
 => /post/saved-articles-2/index.gmi My Saved Articles 2
 => /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
-=> /post/murphy/index.gmi Beating Murphy
 ---
 
 => / Back to site home
