@@ -1,0 +1,111 @@
+# Is There a Truth to Idiocracy?
+
+
+
+Idiocracy is the tale of an average man who is cryogenically frozen for 500 years and awakens in a future where he is the smartest person alive.
+The logic for how the world got to such a point is that smart people stopped reproducing and idiots didn't.
+While the film has been cricticized for such a simplistic take on evolution and intelligence (see this [1] xkcd comic for a quick summary), it does raise some less simplistic/one-dimensional questions: is there less evolutionary pressure to reduce/block certain genetic traits, and if so, will that lack of pressure result in an increase in traits which were previously culled?
+
+## Will "Undesirable" Traits Become More Common?
+
+To preface this section, I've put "undesirable" in quotes because it is debatable whether traits are universally undesirable, or only within a given context.
+ADHD is not beneficial when in a classroom setting, but may be beneficial when in the wild.
+I'm also vaguely uncomfortable with calling conditions like Down Syndrome undesirable or non-beneficial, although maybe less because I'm on the fence on whether or not it is universally vs contextually undesirable, or more because I'm worried about being criticized for casually dismissing it as such (although a quick search shows absolutely nothing in the way of benefits to having it).
+That said, if you have any knowledge on the topic, I'd love to learn more.
+
+I also don't want to assert what I find as some kind of global conclusion about the state of humanity; I'm just going to toss around some information as I find it.
+
+### Hardy-Weinberg Principle
+
+The base premise behind the dystopia in Idiocracy is that natural selection began selecting for negative traits instead of positive ones.
+Is this happening today?
+I did some very unscientific looking and my very unscientific conclusion is: nope, if anything, negative traits are a bit selected against.
+
+The Hardy-Weinberg Principle [2] describes an equilibrium where the genetic content of a population do not change over time (more accurately, allele frequencies don't change from generation to generation); it acts like a baseline of sorts, in contrast to an evolving population.
+There are certain criteria which must be met for this equilibrium to exist, some of which include:
+
+* Natural selection is not acting (no survival rate or reproduction rate differences)
+* No mutations or migrations are introduction new alleles to the population
+* Infinite population size (no sampling size issues)
+* Random mating (given allele does not influence rate or which whom reproduction takes place)
+
+### Condition 1: No Natural Selection (Mortality, Reproduction)
+
+Condition 1 seems violated; in the case of Down Syndrome, both men [3] and women [4] are much less fertile on average.
+From anecdote, some individuals with genetic defects avoid having children to pass their condition on to another generation, so their reproduction rate is at least a little lower than average.
+Genetic diseases seem to account for anywhere from 21 to 33 [5]% of infant mortality cases, impeding the propagation of those conditions.
+Even in the cases of birth defects for which there are treatements [6], their mortality rates are not higher than individuals without the given defect.
+Overall, genetic defects violate condition 1, but in a manner which isn't beneficial to their propagation (ie. lower survival rate and reproduction rate).
+What about non-defects such as general intelligence? Are smart people really reproducing less than less intelligent people?
+
+It seems so [7].
+Of course, since measured intelligence increases seem to be in part due to education and health [8] factors, then perhaps we're simply observing richer nations/individuals (who have better access to education, good nutrition, etc.) reproducing less than poorer individuals, which is actually illustrated in the opening Idiocracy, with the intelligent couple interviewing in a prestine house, while the less intelligent individuals are living in a trailer park.
+As a counterpoint, research [9] also seems to suggest that the intelligence of the mother, even within a similar socioeconomic cohort, has a measureable impact on the intelligence of the child.
+
+When it comes to intelligence, perhaps Idiocracy is half right when discussing reproduction rates; intelligence is certainly inversely-propertionate to reproduction rates, but that measure of intelligence may only be partially "true intelligence", while the rest is socio-economically induced.
+The wikipedia page on Fertility and Intelligence [10] links to some articles which show that IQ is rising in poorer countries, presumably as their quality of education and health is increasing, but is decreasing in developed nations, which are not going through large education and health revolutions.
+One of the linked articles [11] suggests that the vast majority of the Flynn effect reversal, at least in the context of Norway, is not due to dysgenic factors (fertility and intelligence), but rather environmental ones.
+In Sweden, there appears to be no connection [12] between IQ and the number of children had.
+Overall, it seems that pure intelligence has a tenous at-best connection with reproduction, and thus condition 1 is not violated in a way which would suggest an increase in less truly intelligent people due to them not being intelligent.
+
+### Condition 2: No Mutation or Migration
+
+Condition 2; there aren't near neighbors to homo sapiens with which we can exchange genetic information, but mutations are certainly a thing.
+I'm feeling lazy at this point, so I'll just assume that there's a pretty even chance that a mutation is negative or positive, so by the power of misunderstanding statistics and laziness, condition 2 is met.
+
+### Condition 3: Infinite Population Size
+
+Condition 3; I think there's enough humans that we don't have a sample size issue for topics such as intelligence and common genetic defects.
+
+### Condition 4: Random Mating
+
+Condition 4 is definitely violated; it seems that people tend to select partners of similar intelligence, psychiatric disorders, behavioral traits, and height [13].
+There's certainly a factor of "that makes sense" I'm willing to apply here and move on; it's unsurprising that people want a partner that they have things in common with.
+In this case, the condition is violated for both positive and negative traits, which perhaps cancel each-other out, in the sense that, as long as high and low intelligence people have similar reproductive rates (which the above study in Sweden suggests), then one will not become more prevalent than the other.
+When looking at genetic defects, I can't imagine that people with a congenital heart-defect are looking for other people with that condition.
+
+### Conclusion
+
+From the little literature review I've done, it doesn't seem like genetic defects will become more prevalent over time beyond a natural equilibrium; people with defects have shorter life expectancies and are less likely to reproduce, depending on the defect in question.
+Perhaps the proportion of individuals with defects will increase for a certain period of time as we develop new techniques to help them live longer and reproduce more, but they shouldn't (I think) grow beyond a natural equilibrium.
+In the case of intelligence, it seems as though the majority of intelligence gains over the past however long can be explained by environmental conditions such as education and nutrition, and as such, the future as portrayed by Idiocracy wouldn't be a consequence of reproduction within intellectual brackets, but rather a reduction in educational quality or health.
+
+Some major caveats; I've put all my faith in the Hardy-Weinberg Principle, with zero knowledge of how legitimate it is.
+I've also selected conditions that popped into my head, and there are probably a plethora that fall outside the conclusion I've found.
+
+## Is There Less Evolutionary Pressure?
+
+I introduced this question before that of whether undesirable traits will become more common, but moved it to the end after realizing how much easier the latter is to answer than the former.Now that I've gotten around to it, I've realized I don't even know how to begin tackling this, and so I'm going to leave it as an open question for if I ever find myself with a free weekend and some extra energy.
+If you know anything though, feel free to send an email to `milddermatographia at gmail dot com`.
+
+
+---
+15 February 2022.
+
+## References
+ 
+ => https://xkcd.com/603/ [1] this (https://xkcd.com/603/)
+ => https://www.nature.com/scitable/knowledge/library/the-hardy-weinberg-principle-13235724/ [2] Hardy-Weinberg Principle (https://www.nature.com/scitable/knowledge/library/the-hardy-weinberg-principle-13235724/)
+ => https://www.ndss.org/resources/sexuality/ [3] men (https://www.ndss.org/resources/sexuality/)
+ => https://www.medscape.com/answers/943216-181174/how-does-down-syndrome-affect-fertility [4] women (https://www.medscape.com/answers/943216-181174/how-does-down-syndrome-affect-fertility)
+ => https://www.nature.com/articles/s41525-020-00155-8 [5] 21 to 33 (https://www.nature.com/articles/s41525-020-00155-8)
+ => https://www.cdc.gov/ncbddd/heartdefects/facts.html [6] treatements (https://www.cdc.gov/ncbddd/heartdefects/facts.html)
+ => https://www.sciencedirect.com/science/article/abs/pii/S0160289607000244 [7] It seems so (https://www.sciencedirect.com/science/article/abs/pii/S0160289607000244)
+ => https://www.livescience.com/37095-humans-smarter-or-dumber.html [8] education and health (https://www.livescience.com/37095-humans-smarter-or-dumber.html)
+ => https://academic.oup.com/jn/article/135/9/2179/4664004?login=true [9] research (https://academic.oup.com/jn/article/135/9/2179/4664004?login=true)
+ => https://en.wikipedia.org/wiki/Fertility_and_intelligence [10] Fertility and Intelligence (https://en.wikipedia.org/wiki/Fertility_and_intelligence)
+ => https://www.pnas.org/content/115/26/6674 [11] linked articles (https://www.pnas.org/content/115/26/6674)
+ => https://pubmed.ncbi.nlm.nih.gov/1796252/ [12] no connection (https://pubmed.ncbi.nlm.nih.gov/1796252/)
+ => https://www.science.org/content/article/your-choice-life-partner-no-accident [13] intelligence, psychiatric disorders, behavioral traits, and height (https://www.science.org/content/article/your-choice-life-partner-no-accident)
+
+
+
+## Related articles
+
+=> /post/impermanence/index.gmi Review: Impermanence - Abbey Road Version by Architects
+=> /post/dont-look-up/index.gmi Don't Look Up
+=> /post/saved-articles-2/index.gmi My Saved Articles 2
+---
+
+=> / Back to site home
+=> https://milddermatographia.com/post/idiocracy/ View this article on the WWW

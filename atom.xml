@@ -2,12 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Mild Dermatographia</title><link rel="self" type="application/atom+xml" href="https://milddermatographia.com/"/>
   <link rel="alternate" type="text/html" href="gemini://milddermatographia.com/"/>
-  <updated>2022-02-15T09:59:08-0800</updated>
+  <updated>2022-02-15T15:05:40-0800</updated>
   <author>
     <name><no value></name>
     <uri>gemini://milddermatographia.com/</uri>
   </author>
   <id>https://milddermatographia.com/</id>
+  
+  
+  <entry>
+    <title>Review: Impermanence - Abbey Road Version by Architects</title><link rel="alternate" href="gemini://milddermatographia.com/post/impermanence/"/>
+    <id>gemini://milddermatographia.com/post/impermanence/</id>
+    <published>2022-02-15T15:05:40-0800</published>
+    <updated>2022-02-15T15:05:40-0800</updated>
+    <summary>I found this song and was immediately torn. I figure it&amp;rsquo;s both worth sharing and criticizing heavily, so without further ado:
+The Good Bringing in an orchestra for this song was a brilliant decision. The strings are emotional and sweeping, the brass is powerful with wonderfully dark downward slide at some points, the bells(?) are such a great touch for the breakdown. Sam pulls out some disgusting low growls that really should have made it on to the original recording.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Is There a Truth to Idiocracy?</title><link rel="alternate" href="gemini://milddermatographia.com/post/idiocracy/"/>
+    <id>gemini://milddermatographia.com/post/idiocracy/</id>
+    <published>2022-02-15T11:02:01-0800</published>
+    <updated>2022-02-15T11:02:01-0800</updated>
+    <summary>Idiocracy is the tale of an average man who is cryogenically frozen for 500 years and awakens in a future where he is the smartest person alive. The logic for how the world got to such a point is that smart people stopped reproducing and idiots didn&amp;rsquo;t. While the film has been cricticized for such a simplistic take on evolution and intelligence (see this xkcd comic for a quick summary), it does raise some less simplistic/one-dimensional questions: is there less evolutionary pressure to reduce/block certain genetic traits, and if so, will that lack of pressure result in an increase in traits which were previously culled?</summary>
+  </entry>
+  
   
   
   <entry>

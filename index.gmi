@@ -6,6 +6,8 @@ Slightly Irritating
 
 ### 2022
 
+=> gemini://milddermatographia.com/post/impermanence/index.gmi 2022-02-15 - Review: Impermanence - Abbey Road Version by Architects
+=> gemini://milddermatographia.com/post/idiocracy/index.gmi 2022-02-15 - Is There a Truth to Idiocracy?
 => gemini://milddermatographia.com/post/dont-look-up/index.gmi 2022-02-15 - Don't Look Up
 => gemini://milddermatographia.com/post/things-i-want-to-do/index.gmi 2022-01-20 - Things I Want to Do
 => gemini://milddermatographia.com/post/hikes/index.gmi 2022-01-20 - [Living] Hikes
