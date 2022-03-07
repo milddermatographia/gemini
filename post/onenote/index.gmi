@@ -47,9 +47,9 @@ Woopsie.
 
 ## Related articles
 
+=> /post/macbook/index.gmi Macbook Air M1
 => /post/all-music-sucks-2/index.gmi Update: All Music Sucks
 => /post/all-music-sucks/index.gmi All Music Sucks
-=> /post/gemini-theme/index.gmi New Theme and Gemini!
 ---
 
 => / Back to site home

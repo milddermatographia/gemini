@@ -1,0 +1,99 @@
+# Macbook Air M1
+
+
+
+My 1st gen surface book became nigh unusable in September 2021 after maybe 4 years of use; the keyboard would continuously disconnect from the tablet (I presume because a loose fit and the pins losing their connection), the screen has some major burn-in issues, the battery life had dropped to almost nothing, and the CPU would struggle to achieve anything.
+I imagine all this, minus the keyboard issues, were caused by me using it pretty heavily for CAD, programming, and occasional gaming; I get the impression it was never designed to sustain high loads for long periods of time, despite its purported productivity pedigree.
+In any case, I had just started my first semester of grad school and discovered that I had midterms which would be done in MATLAB on our personal laptops.
+In a fit of moderate panic, I bought the M1 Macbook Air, with its price-to-performance actually seeming pretty amazing compared to similar ultrabooks, and also being cheaper than any reasonably powerful non-mac laptop as a student.
+I used it from early October until late February, when some major software incompatibilities described below effectively wiped the performance advantages it has away.
+
+## The Good (Hardware)
+
+### Battery Life
+
+I could get close to 20 hours of battery life while web browsing.
+When I flew from Zurich to SF (12 hours), I gamed for about 6 hours, and still had half the battery left.
+For long stints away from a charger, this was amazing.
+I discovered throughout the semester, however, that I wasn't actually away from a plug that often; the TAs brought in extension cables during the midterms, so if the only issue with my surface book had been the battery, then the upgrade may have been unecessary.
+
+### Performance
+
+I returned to an Ubuntu laptop last week and does it ever feel sluggish.
+Boot times feel much much longer, as do login times.
+I'm not using a potato either; I'm running a workstation laptop with a 10th gen xeon processor, dedicated NVIDIA GPU, and the Macbook feels much more snappy, despite consuming 1/10th the power (Thanks to `dmesg` I discovered the NVIDIA driver was adding 10 seconds to my boot time; downgrading to an older driver brought the boot time to 20 seconds; better, but still worse than the Mac by quite a bit).
+
+### Screen
+
+Apple chose the resolution for the Macbook wisely; 1080p would have been too low, 4k too high.
+
+### Trackpad
+
+I've always used a mouse with Windows or Linux laptops; the Mac was the first time I prefered using a trackpad.
+It's just so darn large, smooth, and responsive.
+I did have to enable tap-to-click manually though, but it was smooth sailing since.
+
+## The Bad (Software)
+
+### macOS
+
+I prefer tiling window managers like i3, where I can split the screen into smaller and smaller windows and navigate between them and desktops using my keyboard.
+It's very efficient with very little time invested in learning the basic shortcuts.
+I'm not as big a fan of Windows, but it's still pretty good; snapping to halves with the keyboard and quarters with the mouse works very well.
+macOS, on the other hand, has decided that everything should be full screen and fuck you otherwise.
+Sure, you can go split-screen if you move your mouse to the full-screen button, click and hold, and then select to tile it to the left or right, but that's so much more time and cognitive load than just tapping windows+left arrow or clicking and dragging the window into place.
+You can navigate between desktops using your keyboard, but only if you configure them in the system preferences, and only if they're not full-screen.
+If you want to get to a full-screen program, you have to navigate to the right-most desktop, then swipe right to get to it.
+I downloaded Rectangle to have keyboard shortcuts to snap windows to sides, which is a bandaid over Apple's painful imposed design.
+
+I also found that keyboard shortcuts were not consistent.
+In Windows, the Windows key, combined with other keys, would make OS-level changes, such as switching desktop or application, while the Control key with other keys would make program-level changes.
+Same goes for GNOME.
+In macOS, however, system-level and program-level commands seem to randomly alternative between using Options, Control, and Command.
+
+The default text editor was slow and tried way too hard to be feature-full; I just want something to show plain text, not retain whatever formatting the source I'm copying from may have retained.
+
+I'm not sure why the default behavior of the built-in Terminal when pressing Control+d was to leave the window open instead of closing it.
+
+Cut and paste isn't a thing; I need to copy, then delete the old files, or click and drag, which is virtually impossible with deep file heirarchies without setting up two distinct file manager windows.
+
+Overall, I wasn't very impressed with macOS.
+Getting around it using the default configuration is slow, and the time commitment to being productive is much higher than it was when I learned how to use i3, Windows, or Gnome.
+
+### Software Support
+
+macOS was barely bearably bad, but the lack of support from necessary software libraries for my program/work killed any benefits this machine may have had.
+I spent a few days futzing around with GDAL and other libraries to have my planning homework skeleton code run at all, let alone actually doing it.
+I needed to SSH into a Linux box to run my HPC homework because the Intel MKL library and Open MPI don't run on Apple silicon.
+Scilab is a no go either, neither are a slew of other libraries that I've honestly forgotten, likely from subconsciously repressing the memory of countless hours wasted trying to get things to work on this machine.
+I installed everything on my new (used) workstation with a couple apt and pip commands and was off, zero issues whatsoever.
+No speedup in computing, battery, display, or form-factor can overcome the basic software I need to work not working.
+
+## State of Affairs
+
+I'm back on an Ubuntu laptop.
+The screen is only 1080p.
+Booting it takes over 20 seconds.
+The battery life is maybe 8 hours if I'm careful, 2 if I stress it too much.
+The trackpad is very meh.
+It weighs almost three kilograms.
+But damn if it isn't nice to login to i3, snap around with the keyboard, install all my software with a quick apt install, and everything just works.
+
+
+---
+7 March 2022.
+
+## References
+ 
+
+
+
+## Related articles
+
+=> /post/gemini-theme/index.gmi New Theme and Gemini!
+=> /post/termux/index.gmi Termux and Android
+=> /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene
+---
+
+=> / Back to site home
+=> https://milddermatographia.com/post/macbook/ View this article on the WWW

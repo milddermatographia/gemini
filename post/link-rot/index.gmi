@@ -59,9 +59,9 @@ I'm not a front end person so I'm sure I messed something up, but it's irritatin
 
 ## Related articles
 
+=> /post/macbook/index.gmi Macbook Air M1
 => /post/gemini-theme/index.gmi New Theme and Gemini!
 => /post/termux/index.gmi Termux and Android
-=> /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene
 ---
 
 => / Back to site home

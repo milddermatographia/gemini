@@ -20,9 +20,9 @@ I don't doubt that Termux might fall short for actual-software-engineering-level
 
 ## Related articles
 
+=> /post/macbook/index.gmi Macbook Air M1
 => /post/gemini-theme/index.gmi New Theme and Gemini!
 => /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene
-=> /post/ddg-google/index.gmi Duck Duck Go > Google
 ---
 
 => / Back to site home
