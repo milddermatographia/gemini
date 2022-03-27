@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Mild Dermatographia</title><link rel="self" type="application/atom+xml" href="https://milddermatographia.com/"/>
   <link rel="alternate" type="text/html" href="gemini://milddermatographia.com/"/>
-  <updated>2022-03-18T00:04:49-0500</updated>
+  <updated>2022-03-27T00:04:49-0500</updated>
   <author>
     <name><no value></name>
     <uri>gemini://milddermatographia.com/</uri>
@@ -13,8 +13,8 @@
   <entry>
     <title>[Living] Hikes</title><link rel="alternate" href="gemini://milddermatographia.com/post/hikes/"/>
     <id>gemini://milddermatographia.com/post/hikes/</id>
-    <published>2022-03-18T00:04:49-0500</published>
-    <updated>2022-03-18T00:04:49-0500</updated>
+    <published>2022-03-27T00:04:49-0500</published>
+    <updated>2022-03-27T00:04:49-0500</updated>
     <summary>A big &amp;lsquo;ol list of the hikes I&amp;rsquo;ve done, with a quick description/review for each, updated as I do more hikes.
  2018 Switzerland I visited Switzerland for a week in April while working in Germany.
 Shilthorn and Lauterbrunnen - Being a tourist, I had no choice but to visit the Interlaken area. Gorgeous valley, great views while hiking along the cliffs on the Shilthorn side, and the falls were pretty magnificent as well.</summary>

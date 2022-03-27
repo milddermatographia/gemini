@@ -132,6 +132,8 @@ I've also heard that the mountains are more visible in colder months, which I ce
 
 **Stanserhorn (March)** - Pilatus' slightly shorter neighbor. I didn't end up making it to the top; I got within a couple hundred meters, but a combination of zero visibility due to being in the clouds and trying to walk horizontally along a 70-ish degree incline with thigh-deep snow resulted in a bunch of short slides and following animal tracks instead of the buried trail. Eventually, I decided that rolling down a mountain wasn't how I wanted to die. I'd love to do this again, but with nicer weather.
 
+**Uetliberg (March)** - I tend to have a pretty solid pace when hiking and rarely have people pass me, but when they do, they're always running up the side of a mountain (two people passed me running up Pilatus this March). I'd like to get to the point where I can run up a mountain without needing a break, so I figured my local hill is a good place to start. My first attempt in March, I made it about halfway and figured it was best not to push it, since I hadn't run in a bit. I tried again yesterday and got to the top, no breaks! It still took me 45min to get up and 30 down from my apartment though, so not very fast at all; at some points, I think I was going about as fast as if I had been walking, but oh well, it's only up(hill) from here!
+
 ### California
 
 **Alum Rock Park (February)** - My partner and I did a cute little 10km-ish hike up one of the hills and back down.
@@ -140,7 +142,7 @@ The weather was surprisingly mild, although I guess it makes sense, being the ra
 
 
 ---
-18 March 2022.
+27 March 2022.
 
 ## References
  
@@ -148,6 +150,11 @@ The weather was surprisingly mild, although I guess it makes sense, being the ra
 
 
 
+## Related articles
+
+=> /post/things-i-want-to-do/index.gmi Things I Want to Do
+=> /post/switzerland-4-month/index.gmi Living and Studying in Switzerland - 4 Month Retrospective
+=> /post/job-stats/index.gmi My Job Application Statistics
 ---
 
 => / Back to site home
