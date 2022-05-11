@@ -209,9 +209,9 @@ Fantasy, butterflies, pyramid schemes, deadly sausages, pepsi fighter jets, and 
 
 ## Related articles
 
-=> /post/impermanence/index.gmi Review: Impermanence - Abbey Road Version by Architects
 => /post/idiocracy/index.gmi Is There a Truth to Idiocracy?
 => /post/dont-look-up/index.gmi Don't Look Up
+=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
 ---
 
 => / Back to site home

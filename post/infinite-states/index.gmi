@@ -51,9 +51,9 @@ True and false are binary states; are there alternative states a sentence can po
 
 ## Related articles
 
-=> /post/impermanence/index.gmi Review: Impermanence - Abbey Road Version by Architects
 => /post/idiocracy/index.gmi Is There a Truth to Idiocracy?
 => /post/dont-look-up/index.gmi Don't Look Up
+=> /post/saved-articles-2/index.gmi My Saved Articles 2
 ---
 
 => / Back to site home

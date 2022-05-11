@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Mild Dermatographia</title><link rel="self" type="application/atom+xml" href="https://milddermatographia.com/"/>
   <link rel="alternate" type="text/html" href="gemini://milddermatographia.com/"/>
-  <updated>2022-05-02T00:04:49-0500</updated>
+  <updated>2022-05-12T00:44:27+0200</updated>
   <author>
     <name><no value></name>
     <uri>gemini://milddermatographia.com/</uri>
   </author>
   <id>https://milddermatographia.com/</id>
+  
+  
+  <entry>
+    <title>Review: The Goblin Emperor</title><link rel="alternate" href="gemini://milddermatographia.com/post/the-goblin-emperor/"/>
+    <id>gemini://milddermatographia.com/post/the-goblin-emperor/</id>
+    <published>2022-05-12T00:44:27+0200</published>
+    <updated>2022-05-12T00:44:27+0200</updated>
+    <summary>I recently finished The Goblin Emperor and found it&amp;hellip; good? It definitely didn&amp;rsquo;t blow my mind, but what I think it wanted to do (be a hybrid coming-of-age/palace-politics story), it did well. I&amp;rsquo;m afraid this review won&amp;rsquo;t be very clever, because I was merely whelmed by this book. Some random notes:
+ The use of traditional fantasy races (goblins and elves) feels lazy; they&amp;rsquo;ve existed for centuries, why not do something new?</summary>
+  </entry>
+  
   
   
   <entry>

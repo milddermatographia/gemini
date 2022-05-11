@@ -40,9 +40,9 @@ Weirdo.
 
 ## Related articles
 
+=> /post/the-goblin-emperor/index.gmi Review: The Goblin Emperor
 => /post/impermanence/index.gmi Review: Impermanence - Abbey Road Version by Architects
-=> /post/idiocracy/index.gmi Is There a Truth to Idiocracy?
-=> /post/dont-look-up/index.gmi Don't Look Up
+=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again
 ---
 
 => / Back to site home

@@ -102,9 +102,9 @@ If you know anything though, feel free to send an email to `milddermatographia a
 
 ## Related articles
 
-=> /post/impermanence/index.gmi Review: Impermanence - Abbey Road Version by Architects
 => /post/dont-look-up/index.gmi Don't Look Up
 => /post/saved-articles-2/index.gmi My Saved Articles 2
+=> /post/broken-clock/index.gmi A Broken Clock Isn't Right Twice a Day
 ---
 
 => / Back to site home
