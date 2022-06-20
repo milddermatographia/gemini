@@ -92,7 +92,7 @@ But damn if it isn't nice to login to i3, snap around with the keyboard, install
 
 => /post/gemini-theme/index.gmi New Theme and Gemini!
 => /post/termux/index.gmi Termux and Android
-=> /post/tfa-2/index.gmi Two-Factor Authentication and Digital Hygiene
+=> /post/colab/index.gmi Homebrew Google Colab with JupyterLab and Linode
 ---
 
 => / Back to site home

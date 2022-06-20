@@ -1,0 +1,115 @@
+# Pairing with Logitech K380 using Bluetoothctl
+
+
+
+I've been using a Logitech K380 keyboard for the last couple years and it's been great; incredibly compact, a nice amount of key travel,  good battery life, and pretty *a e s t h e t i c*.
+When using it with Windows or Ubuntu, I'd use their GUI to connect to the keyboard.
+Now that I was back on Arch, I decided to use bluetoothctl [1] instead, a terminal-based connection method.
+Everything was working fine at first; I could turn on my bluetooth adapter, set the blueooth agent, scan for the keyboard, and find it:
+
+```
+[bluetooth]# power on
+[made up] device powered!
+[bluetooth]# agent on
+[made up] agent is on!
+[bluetooth]# default-agent
+[made up] I wish I had kept the output for this post, oh well
+[bluetooth]# scan on
+[made up] 11:22:33:44:55:66 k380
+```
+
+I ran into a problem when trying to pair:
+
+```
+[bluetooth]# pair 11:22:33:44:55:66
+[agent] pin:
+```
+
+Ummmm, what pin?
+Unlike other people [2] online, I didn't have a pin to type into the keyboard.
+Step 1: press a random key.
+I chose the number `1`, because why not.
+
+```
+[agent] pin: 7
+```
+
+Excuse me?
+Okay, what if I put another key in.
+How about a 7, since that's what's on the screen?
+
+```
+[agent] pin: 72
+```
+
+Alright, so it seems like for every key I put, it showed me another digit of the pin.
+I repeated this until I had the full pin:
+
+```
+[agent] pin: 7
+[agent] pin: 72
+[agent] pin: 725
+[agent] pin: 7258
+[agent] pin: 72589
+[agent] pin: 725893
+```
+
+I hit enter aaaaand AuthenticationError.
+Turns out that first digit I put in, before I even knew what the first digit of the pin was, was incorrect, which made every other digit incorrect (since I had put in 1 when it was supposed to be 7, 7 when it was supposed to be 2, 2 when it was supposed to be 5, and so forth).
+How the heck am I supposed to put in a pin when I only find out what digit I need after I put in a random one?
+That makes my odds of guessing the right pin 1 in 10^6.
+Not great.
+
+After some DDG-ing and bashing my head into a metaphorical wall, I found a workaround. Pressing backspace on the K380 clears the previously entered digit (and Benjamin Buttons the on-screen prompt), so I could just backspace 6 times, then type in the complete pin:
+
+
+```
+[agent] pin: 7
+[agent] pin: 72
+[agent] pin: 725
+[agent] pin: 7258
+[agent] pin: 72589
+[agent] pin: 725893
+# backspace time!
+[agent] pin: 72589
+[agent] pin: 7258
+[agent] pin: 725
+[agent] pin: 72
+[agent] pin: 7
+[agent] pin:
+# and now it's time to put the digits in, in order, starting with 7
+[agent] pin: 7
+[agent] pin: 72
+[agent] pin: 725
+[agent] pin: 7258
+[agent] pin: 72589
+[agent] pin: 725893
+# hit enter and:
+[made up] successfully authenticated!
+[bluetoothctl]# connect 11:22:33:44:55:66
+[Keyboard K380]#
+```
+
+Everything is running smoothly now!
+
+
+
+---
+7 June 2021.
+
+## References
+ 
+ => https://wiki.archlinux.org/title/Bluetooth [1] bluetoothctl (https://wiki.archlinux.org/title/Bluetooth)
+ => https://bbs.archlinux.org/viewtopic.php?id=174239 [2] other people (https://bbs.archlinux.org/viewtopic.php?id=174239)
+
+
+
+## Related articles
+
+=> /post/macbook/index.gmi Macbook Air M1
+=> /post/gemini-theme/index.gmi New Theme and Gemini!
+=> /post/termux/index.gmi Termux and Android
+---
+
+=> / Back to site home
+=> https://milddermatographia.com/post/k380/ View this article on the WWW

@@ -1,0 +1,170 @@
+# Homebrew Google Colab with JupyterLab and Linode
+
+
+
+*note*: I realized I used node and instance interchangeably to describe Linodes.
+Not super pertinent, I apologize in advance for the inconsistency and lack of effort in correcting it.
+
+## Context
+
+
+I recently bought an Android tablet with limited programming capabilities.
+I'd like to use it when on campus or in coffee shops, instead of lugging around my thicc Thinkpad.
+While I *could* use Google Colab or Azure Notebook, I don't like using services for free which really shouldn't be free; makes me wonder how they're making up the operating expenses.
+Instead, I decided to roll my own with JupyterLab on Linode.
+In order to keep costs low, the node is deleted when I'm done for the day, and restored from an image we'll be setting up below when I need it; deploying the image to a node takes about a minute, which is an acceptable for me time cost.
+
+---
+
+## Cost
+
+Linode images cost $0.10 per GB in an image, and a single CPU Shared node costs $0.01 per hour.
+Using it for 8 hours a day, and for an Alpine Linux image of 2GB, the total cost for a month of usage is $2.6.
+I'm more likely to use this for a couple hours a day, a couple days a week, so the total cost for me will more realistically be $0.36 per month; I could step up to a beefier CPU or use a GPU instance if so desired.
+
+---
+
+## Setup
+
+### Create Alpine Linux Image
+
+I tried this whole procedure with both Alpine and Arch Linux, since they have reputations for being quite small.
+The Arch Linux image came out to 3GB, while the Alpine Linux image was about 1.1GB, both with JupyerLab installed, so I chose Alpine.
+
+To create an Alpine Linux instance, create a new Linode and choose Alpine Linux for the distribution.
+Choose a region that's convenient to you, and a Linode Plan that suites your performance needs.
+Neither of these are super important since, when deploying a new Linode using the image we'll create, you can choose the Region and Linode Plan again.
+
+### Create New User
+
+It's usually a good idea not to work in root if you don't need to.
+Following the steps from the Alpine Wiki [1]:
+
+```
+adduser -g "" 
+adduser  wheel # I actually ran addgroup username wheel here instead, but both should work, I think
+apk add doas
+apk add nano
+nano /etc/doas.conf
+```
+
+Here, `doas` is used instead of `sudo`.
+They work identically for our puposes, but `doas` is a smaller package.
+
+In `etc/doas.conf`, uncomment the line allowing root access for users in the wheel group.
+Save and quit.
+Sign in to our new user; we can now run as root for (strictly necessary) commands.
+
+### Install Prerequisite Software and JupyterLab
+
+To install python (3) and pip, run:
+
+`doas apk add python3 py3-pip`
+
+To install the necessary software for Jupyter to not crash when installing, run:
+
+`doas apk add --no-cache build-base libffi-dev openssl-dev python-dev curl krb5-dev linux-headers zeromq-dev`
+
+(packages taken from this issue [2])
+
+Create a `.profile` file in your home directory and add:
+
+`export PATH="$HOME/.local/bin:$PATH"`
+
+This is because we're installing pip packages as the non-root user, so python packages are installed in a folder which isn't on the PATH by default.
+If you decide to install packages from the root user or installing for all users, you can skip this step.
+
+Finally, install JupyterLab by running:
+
+`pip install jupyterlab`
+
+### Configuring JupyterLab
+
+To configure JupyterLab, run:
+
+`jupyter lab --generate-config`
+
+This will create a `$HOME/.jupyter/jupyter_lab_config.py` file.
+Open the file with your editor of choice and add the following lines at the bottom of the file (taken from here [3]):
+
+```
+c.NotebookApp.open_browser = False    # no browser needed on a server
+c.NotebookApp.ip = '0.0.0.0'          # listen on the network
+```
+
+I found that, even with the above, the "No web browser found: could not locate runnable browser" warning showed up, so I'll add `--no-browser` when running JupyterLab.
+The second command, on the other hand, is necessary to access our instance from another device.
+We'll use a password in place of copy-pasting the access token (maybe less secure, but infinitely easier to use from our tablet) by running [4]:
+
+`jupyter lab password`
+
+And add your password of choice.
+I'd highly recommend making sure it's a unique one, since this setup doesn't use an SSL certificate, so someone could snatch it on public WiFi.
+
+We can test our setup by running:
+
+`jupyter lab --no-browser`
+
+The command could be prefixed with `nohup` if you'd like to keep using the terminal afterwards.
+
+On your personal laptop or tablet, navigate to `XXX.X.X.X:8888` where `XXX.X.X.X` is your Linode's IP address.
+Enter the password your chose and you should be in!
+
+### Installing Other Software
+
+Before creating the disk image, it's probably a good time to install anything else you might need, or set up your SSH keys for accessing repositories.
+This can also be done after creating the disk image, but if you want the changes to persist when redeploying your images, you'll need to re-create the image using the latest node you're running.
+
+### Create Disk Image
+
+Linode charges you for nodes whether they are running or not; they must be deleted to not be charged.
+We'll create an image of our node which can be restored whenever we want to develop.
+To create this, first shut down the node we just set up.
+Navigate to the Images tab on Linode and create an image using the shut-down node.
+You can now delete the node to avoid paying for it existing.
+
+### Workflow
+
+The workflow is pretty simple from here.
+When you want to work, deploy the image to a new node from the Images tab on Linode, in the area and with the size of your choice.
+Pull down the repo that you're working with and code away.
+When you're done, turn off the node and delete it.
+If you'd like more RAM, or a beefier CPU, or a GPU, you can select a different Linode instance when deploying the image.
+If you'd like to install new packages or software, create a new image afterwards.
+
+---
+
+## Conclusion
+
+This workflow isn't nearly as polished as Google Colab.
+Deploying my image to a new node takes about a minute.
+SSH-ing into the new node to run JupyterLab requires a device which can use SSH, such as an Android tablet with Termux (I'm sure it's possible to automate logging in to your user and running JupyterLab on boot, I just haven't done it).
+It requires pulling down your repo every time you redeploy.
+There's no colaboration (until I go digging around into the Jupyter documentation).
+Finally, there's no SSL.
+I'm not sure if it's even possible, considering the node will get redeployed on a daily basis.
+For my personal use, though, it's enough.
+
+
+
+---
+25 August 2021.
+
+## References
+ 
+ => https://wiki.alpinelinux.org/wiki/Setting_up_a_new_user [1] Alpine Wiki (https://wiki.alpinelinux.org/wiki/Setting_up_a_new_user)
+ => https://github.com/jupyter/enterprise_gateway/issues/581 [2] this issue (https://github.com/jupyter/enterprise_gateway/issues/581)
+ => https://lerner.co.il/2017/02/01/five-minute-guide-setting-jupyter-notebook-server/ [3] here (https://lerner.co.il/2017/02/01/five-minute-guide-setting-jupyter-notebook-server/)
+ => https://jupyter-notebook.readthedocs.io/en/stable/security.html [4] running (https://jupyter-notebook.readthedocs.io/en/stable/security.html)
+
+
+
+## Related articles
+
+=> /post/macbook/index.gmi Macbook Air M1
+=> /post/gemini-theme/index.gmi New Theme and Gemini!
+=> /post/termux/index.gmi Termux and Android
+---
+
+=> / Back to site home
+=> https://milddermatographia.com/post/colab/ View this article on the WWW

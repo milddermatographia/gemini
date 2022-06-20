@@ -244,6 +244,17 @@ While Murphy is often presented as a force of evil, I see it as an opportunity t
   
   
   <entry>
+    <title>Homebrew Google Colab with JupyterLab and Linode</title><link rel="alternate" href="gemini://milddermatographia.com/post/colab/"/>
+    <id>gemini://milddermatographia.com/post/colab/</id>
+    <published>2021-08-25T09:44:04-0500</published>
+    <updated>2021-08-25T09:44:04-0500</updated>
+    <summary>note: I realized I used node and instance interchangeably to describe Linodes. Not super pertinent, I apologize in advance for the inconsistency and lack of effort in correcting it.
+Context I recently bought an Android tablet with limited programming capabilities. I&amp;rsquo;d like to use it when on campus or in coffee shops, instead of lugging around my thicc Thinkpad. While I could use Google Colab or Azure Notebook, I don&amp;rsquo;t like using services for free which really shouldn&amp;rsquo;t be free; makes me wonder how they&amp;rsquo;re making up the operating expenses.</summary>
+  </entry>
+  
+  
+  
+  <entry>
     <title>Bears! An Incomplete Mini D&D Adventure</title><link rel="alternate" href="gemini://milddermatographia.com/post/bears/"/>
     <id>gemini://milddermatographia.com/post/bears/</id>
     <published>2021-08-17T21:08:50-0500</published>
@@ -434,11 +445,31 @@ How Many Days? We did the trail in two 33km days and it was death. By the end, o
   
   
   <entry>
+    <title>Pairing with Logitech K380 using Bluetoothctl</title><link rel="alternate" href="gemini://milddermatographia.com/post/k380/"/>
+    <id>gemini://milddermatographia.com/post/k380/</id>
+    <published>2021-06-07T08:07:28-0500</published>
+    <updated>2021-06-07T08:07:28-0500</updated>
+    <summary>I&amp;rsquo;ve been using a Logitech K380 keyboard for the last couple years and it&amp;rsquo;s been great; incredibly compact, a nice amount of key travel, good battery life, and pretty a e s t h e t i c. When using it with Windows or Ubuntu, I&amp;rsquo;d use their GUI to connect to the keyboard. Now that I was back on Arch, I decided to use bluetoothctl instead, a terminal-based connection method.</summary>
+  </entry>
+  
+  
+  
+  <entry>
     <title>Prepare and Apply an Ootoo as an Appendage Replacement</title><link rel="alternate" href="gemini://milddermatographia.com/post/ootoo/"/>
     <id>gemini://milddermatographia.com/post/ootoo/</id>
     <published>2021-06-02T22:18:13-0500</published>
     <updated>2021-06-02T22:18:13-0500</updated>
     <summary>Context Loss of appendages is an unfortunate reality for many professions; masons and carpenters lose digits, soldiers, hands, arms and legs. While cauterization and magic can be used to close the wound to avoid bleeding out, this leaves the unfortunate permanence of absence. Ootoo, a parasitic species found in Caesem, provide a method of replacing the missing appendage in a semi-permanent way. Doing so, however, requires rigourously following the steps below to avoid spreading the parasite and/or killing the patient.</summary>
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Fixing DHCP when using systemd-networkd</title><link rel="alternate" href="gemini://milddermatographia.com/post/dhcp-systemd/"/>
+    <id>gemini://milddermatographia.com/post/dhcp-systemd/</id>
+    <published>2021-06-02T17:00:05-0500</published>
+    <updated>2021-06-02T17:00:05-0500</updated>
+    <summary>I had the urge to burn a day, and so I reinstalled Arch Linux. I decided not to repeat my past mistakes and stuck with X11 and i3 instead of Wayland and Sway. As expected, there was no blur using Firefox or Electron-based applications. Everything was working just swell, until I rebooted the computer for the first time. I could ping google.com, but when I opened Firefox and tried going to any site, it said the webserver could not be found.</summary>
   </entry>
   
   

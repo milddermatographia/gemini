@@ -1,0 +1,59 @@
+# Fixing DHCP when using systemd-networkd
+
+
+
+I had the urge to burn a day, and so I reinstalled Arch Linux.
+I decided not to repeat my past mistakes and stuck with X11 and i3 instead of Wayland and Sway.
+As expected, there was no blur using Firefox or Electron-based applications.
+Everything was working just swell, until I rebooted the computer for the first time.
+I could ping google.com, but when I opened Firefox and tried going to any site, it said the webserver could not be found.
+Updating software using `pacman -Syu` also failed to contact any websites.
+I was using iwd to connect to our home wifi, and systemd-networkd and systemd-resolved for DNS resolution and whatever else they do (networking on Linux is still super opaque to me, despite trying to digest the Arch Wiki).
+I had made sure to enable and start systemd-networkd and systemd-resolved using:
+
+```
+systemctl enable systemd-networkd.service
+systemctl enable systemd-resolved.service
+systemctl start systemd-networkd.service
+systemctl start systemd-resolved.service
+```
+
+but still nothing.
+
+It turns out systemd-networkd has a built-in DHCP client, but that its default status is "no".
+I created `/etc/systemd/network/wlan0.network` (I think `*.network` would have also worked) with the following content:
+
+```
+[Match]
+Name=wlan0
+
+[Network]
+DHCP=yes
+```
+
+where `wlan0` is the network interface you're using. If it were ethernet, it would probably be `eth0`. You can use `ip link show` to see your options.
+After restarting systemd-networkd and systemd-resolved, I was able to connect to the internet!
+
+If you're looking for forums discussing this issue, you can check here [1] and here [2].
+
+
+
+---
+2 June 2021.
+
+## References
+ 
+ => https://bbs.archlinux.org/viewtopic.php?id=183911 [1] here (https://bbs.archlinux.org/viewtopic.php?id=183911)
+ => https://askubuntu.com/questions/891694/systemd-networkd-daemon-does-not-start-the-dhcp-client [2] here (https://askubuntu.com/questions/891694/systemd-networkd-daemon-does-not-start-the-dhcp-client)
+
+
+
+## Related articles
+
+=> /post/macbook/index.gmi Macbook Air M1
+=> /post/gemini-theme/index.gmi New Theme and Gemini!
+=> /post/termux/index.gmi Termux and Android
+---
+
+=> / Back to site home
+=> https://milddermatographia.com/post/dhcp-systemd/ View this article on the WWW
