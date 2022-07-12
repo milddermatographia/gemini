@@ -66,9 +66,9 @@ That said, I need to take the time to weigh their strengths and weaknesses prope
 
 ## Related articles
 
-=> /post/hikes/index.gmi [Living] Hikes
 => /post/macbook/index.gmi Macbook Air M1
 => /post/things-i-want-to-do/index.gmi Things I Want to Do
+=> /post/switzerland-4-month/index.gmi Living and Studying in Switzerland - 4 Month Retrospective
 ---
 
 => / Back to site home

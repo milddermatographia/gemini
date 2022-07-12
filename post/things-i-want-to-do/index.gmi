@@ -33,9 +33,9 @@ Maybe I'll turn it into a living documente like the hiking doc at some point.
 
 ## Related articles
 
-=> /post/hikes/index.gmi [Living] Hikes
 => /post/switzerland-4-month/index.gmi Living and Studying in Switzerland - 4 Month Retrospective
 => /post/job-stats/index.gmi My Job Application Statistics
+=> /post/food-switzerland/index.gmi Food Prices in Switzerland
 ---
 
 => / Back to site home
