@@ -30,9 +30,9 @@ Overall, I think I need to get outside the metal bubble and explore other genres
 
 ## Related articles
 
+=> /post/hikes/index.gmi [Living] Hikes
 => /post/things-i-want-to-do/index.gmi Things I Want to Do
 => /post/switzerland-4-month/index.gmi Living and Studying in Switzerland - 4 Month Retrospective
-=> /post/job-stats/index.gmi My Job Application Statistics
 ---
 
 => / Back to site home
