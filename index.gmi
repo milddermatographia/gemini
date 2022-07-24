@@ -6,7 +6,7 @@ Slightly Irritating
 
 ### 2022
 
-=> gemini://milddermatographia.com/post/hikes/index.gmi 2022-07-11 - [Living] Hikes
+=> gemini://milddermatographia.com/post/hikes/index.gmi 2022-07-23 - [Living] Hikes
 => gemini://milddermatographia.com/post/macbook/index.gmi 2022-03-07 - Macbook Air M1
 => gemini://milddermatographia.com/post/impermanence/index.gmi 2022-02-15 - Review: Impermanence - Abbey Road Version by Architects
 => gemini://milddermatographia.com/post/idiocracy/index.gmi 2022-02-15 - Is There a Truth to Idiocracy?
