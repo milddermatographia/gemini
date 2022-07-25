@@ -65,9 +65,9 @@ I can't recommend this book enough.
 
 ## Related articles
 
-=> /post/the-goblin-emperor/index.gmi Review: The Goblin Emperor
-=> /post/impermanence/index.gmi Review: Impermanence - Abbey Road Version by Architects
-=> /post/vanessa-hudgens/index.gmi Review: The Princess Switch 2: Switched Again
+=> /post/the-lighthouse/index.gmi Review: The Lighthouse
+=> /post/hyperion/index.gmi Review: Hyperion
+=> /post/dune/index.gmi Review: Dune (The Movie)
 ---
 
 => / Back to site home
